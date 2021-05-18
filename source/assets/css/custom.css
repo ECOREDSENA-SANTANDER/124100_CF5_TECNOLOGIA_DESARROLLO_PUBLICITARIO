@@ -1,0 +1,13 @@
+.cajon_purpura {
+  background-color: #7d6eb226 !important;
+}
+.cajon_purpura::before {
+  background-color: #7d6eb2ff !important;
+  content: '';
+  display: block;
+  width: 25px;
+  height: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

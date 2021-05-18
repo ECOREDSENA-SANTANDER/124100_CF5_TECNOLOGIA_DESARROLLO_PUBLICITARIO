@@ -1,0 +1,136 @@
+//colores
+$blanquito: rgba(255,255,255,.95)
+$gris-clarito: rgba(241,241,241,.95)
+$purpura-clarito: #ECE9F4
+$amarillito: #f5ca56
+//gradientes
+$gradiente1: $gris-clarito 10%, $blanquito 100%
+@mixin gradient($direction, $list)
+  background: -webkit-linear-gradient($direction, $list)
+  background: -moz-linear-gradient($direction, $list)
+  background: -o-linear-gradient($direction, $list)
+  background: linear-gradient($direction, $list)
+
+.g2
+  @include gradient(90deg, $gradiente1)
+
+//estilos
+th, td
+  border: 3px solid white !important
+
+.fondo-gris-claro
+  background-color: #fafafa !important
+
+.lista-secundario
+  background-color: $color-secundario !important
+
+.fondo-secundario
+  background-color: $color-secundario !important
+
+.textos-color-secundario
+  color: $color-secundario !important
+
+.fondo-purpura-clarito
+  background-color: $purpura-clarito !important
+
+.fondo-purpura-before
+  &::before
+    background-color: #7d6eb226 !important
+
+.etiqueta--morada
+  background-color: #7D6EB2 !important
+.amarilla
+  color: $amarillito !important
+.colorPurpura
+  color: #7D6EB2
+@media screen and ( min-width: $bp-min-md )
+  .ml-4
+    margin: 0 -50px
+    padding: 0 50px
+
+  .p4-pg
+    padding: 1.5rem !important
+
+.etiqueta--amarilla
+  background-color: $amarillito
+
+.nivel2
+  z-index: 2
+.cajon_purpura
+  background-color: #7d6eb226
+  &::before
+    background-color: #7d6eb2ff !important
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: relative
+    top: -24px
+    left: -24px
+
+.cajon.color-acento-contenido-clarito
+  background-color: #26AAB726
+
+.fas
+  font-size: 10px
+  top: 5px
+
+.fondo-purpura_invertido
+  background-color: #7D6EB2
+  &::before
+    content: ""
+    display: block
+    background-color: $purpura-clarito
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
+    right: 55%
+.fondo-purpura
+  background-color: #7D6EB2
+  &::before
+    content: ""
+    display: block
+    background-color: $purpura-clarito
+    position: absolute
+    top: 0
+    bottom: 0
+    right: 0
+    left: 55%
+
+.bloque-texto-b-purpura
+  &::before
+    content: ''
+    display: block
+    background-color: $purpura-clarito
+    position: absolute
+    top: 40%
+    bottom: 0
+    left: 35%
+    right: 0
+
+._128pixeles
+  width: 128px
+  height: auto
+._96px
+  width: 96px !important
+  height: auto
+
+.separador-flechita
+  background-image: url('../assets/curso/separador-flechita.svg')
+  background-position: 0%
+  overflow: visible
+  background-repeat: no-repeat
+
+.fondo-gris
+  background-image: url('../assets/curso/trazado_bottom-1.svg')
+  background-position: bottom center
+  background-repeat: no-repeat
+  background-color: $gris-clarito
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.25)
+  h6, p
+    color: $color-sistema-texto !important
+
+.piramide-insights
+  @include gradient(0deg, $gradiente1)
+  border: 2px $color-sistema-texto solid

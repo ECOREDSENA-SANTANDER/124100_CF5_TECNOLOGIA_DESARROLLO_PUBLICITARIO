@@ -1,0 +1,64 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "intr",
+    "title": "1. Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu":
+     
+    [
+       
+      {
+        "icon": "fa fa-file-text",
+        "slug": "definicion",
+        "title": "Definiciones de creatividad",
+        "anchor": "tema1_2"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "estrategia",
+        "title": "La estrategia creativa",
+        "anchor": "tema2_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Desarrollo",
+        "title": "Desarrollo de la estrategia",
+        "anchor": "tema2_2"
+      }
+    ]   
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file.text",
+    "slug": "definicion",
+    "title": "1.2. Definiciones de creatividad",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html"
+  } ,
+  {
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "estrategia",
+    "title": "2. La estrategia creativa",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Desarrollo",
+    "title": "2.1.Desarrollo de la estrategia",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html"
+  }
+
+]
