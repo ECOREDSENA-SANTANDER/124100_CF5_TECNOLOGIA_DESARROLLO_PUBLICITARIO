@@ -176,21 +176,24 @@
           p El concepto creativo es la base principal para el desarrollo del mensaje de la campaña, este determina la forma que tendrá el mensaje que se dirigirá al mercado objetivo; es en este punto donde debe darse todo el despliegue creativo. 
           br
           p Para el desarrollo del concepto, es indispensable tener en cuenta las siguientes recomendaciones:
-    .tarjeta-Avatar-b.mb-5
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema5/t5-f17.svg', alt='T3-F17')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Originalidad
-          p La forma como se comunique la marca con su público objetivo debe ser única, no parecerse a otro producto y menos aún si es de la competencia.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Originalidad
+        p La forma como se comunique la marca con su público objetivo debe ser única, no parecerse a otro producto y menos aún si es de la competencia.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema5/t5-f18.svg', alt='T3-F18')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Claro
-          p El concepto debe ser muy fácil de identificar para los consumidores y en lo posible que la relación de este con la marca y sus beneficios sea evidente.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Claro
+        p El concepto debe ser muy fácil de identificar para los consumidores y en lo posible que la relación de este con la marca y sus beneficios sea evidente.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema5/t5-f19.svg', alt='T3-F19')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Creativo
-          p Por obvias razones el concepto de una estrategia de comunicación debe ser creativo, la creatividad permite no solo que la idea sea llamativa, sino que se destaque frente a otras.
+      .crd_01__txt
+        .h4 Creativo
+        p Por obvias razones el concepto de una estrategia de comunicación debe ser creativo, la creatividad permite no solo que la idea sea llamativa, sino que se destaque frente a otras.
     h5.mb-5 Estructura del concepto creativo
     .cajon.color-acento-contenido.p-4.mb-5.color-acento-contenido-clarito
       .row.align-items-center.justify-content-between
@@ -254,31 +257,36 @@
         .col-lg-9
           .bloque-texto-a__texto.p-4
             p El diseño del mensaje es la parte más complicada y demorada del proceso, el concepto es la base para su elaboración y cada parte de él contribuye poco a poco al desarrollo. El tono constituye un elemento muy importante en la elaboración del mensaje y desarrollo de la idea, porque determina en gran medida la empatía que la marca tiene con el grupo objetivo y muestra rasgos muy relevantes de la personalidad de la marca. Es necesario definir el tono de la comunicación teniendo en cuenta todos esos elementos, pues el mercado suele ser susceptible a ciertos aspectos que pueden llegar a ser ofensivos o transgredir la forma de pensar de algunos miembros del mercado.
-    .tarjeta-Avatar-b.mb-5
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema5/t5-f28.svg', alt='T5-F28')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Comunicacional
-          p Es directo, sencillo y plano; implica poco despliegue creativo y es muy apto para comunicar ofertas de un solo día o dar información fugaz de alguna eventualidad del producto o servicio. Este tono de comunicación es poco persuasivo.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Comunicacional
+        p Es directo, sencillo y plano; implica poco despliegue creativo y es muy apto para comunicar ofertas de un solo día o dar información fugaz de alguna eventualidad del producto o servicio. Este tono de comunicación es poco persuasivo.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema5/t5-f29.svg', alt='T5-F29')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Racional
-          p Si bien un bajo porcentaje de las compras que se realizan, se hacen de forma racional, este es un tono muy persuasivo, pero sobre todo disuasivo. Es muy eficaz en comunicación institucional y para campañas de bien público en las que hay que convencer al público objetivo que realice una acción específica para evitar ciertas consecuencias; por ejemplo, las campañas que promueven el apoyo a fundaciones o las que invitan a moderar el consumo de alcohol. Este tono genera algo grado de recordación.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Racional
+        p Si bien un bajo porcentaje de las compras que se realizan, se hacen de forma racional, este es un tono muy persuasivo, pero sobre todo disuasivo. Es muy eficaz en comunicación institucional y para campañas de bien público en las que hay que convencer al público objetivo que realice una acción específica para evitar ciertas consecuencias; por ejemplo, las campañas que promueven el apoyo a fundaciones o las que invitan a moderar el consumo de alcohol. Este tono genera algo grado de recordación.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema5/t5-f30.svg', alt='T5-F30')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Emotivo
-          p es tal vez el más eficaz debido al comportamiento en el consumo de la mayoría de las personas; un alto porcentaje de las compras se realizan motivadas por las emociones, es por eso por lo que muchos anuncios y campañas son realizadas con este tono de comunicación. Tiene el objetivo de hacer brotar sentimientos como la ternura, llanto, compasión, ira y sobrecogimiento. Es muy persuasivo y recordativo.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Emotivo
+        p es tal vez el más eficaz debido al comportamiento en el consumo de la mayoría de las personas; un alto porcentaje de las compras se realizan motivadas por las emociones, es por eso por lo que muchos anuncios y campañas son realizadas con este tono de comunicación. Tiene el objetivo de hacer brotar sentimientos como la ternura, llanto, compasión, ira y sobrecogimiento. Es muy persuasivo y recordativo.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema5/t5-f31.svg', alt='T5-F31')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Humorístico
-          p Es un tono muy utilizado, altamente efectivo y recordativo; sin embargo, no es apto para todas las marcas. Es muy eficiente en publicidad de productos para niños y jóvenes y para productos de consumo masivo. Sin embargo y debido a las tendencias del mercado, se han lanzado campañas muy exitosas de productos financieros, seguros y telecomunicaciones con tono humorístico.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Humorístico
+        p Es un tono muy utilizado, altamente efectivo y recordativo; sin embargo, no es apto para todas las marcas. Es muy eficiente en publicidad de productos para niños y jóvenes y para productos de consumo masivo. Sin embargo y debido a las tendencias del mercado, se han lanzado campañas muy exitosas de productos financieros, seguros y telecomunicaciones con tono humorístico.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema5/t5-f32.svg', alt='T5-F32')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Aspiracional
-          p Es un tono muy eficaz para productos financieros, agencias de viajes y educación, tiene un alto nivel de persuasión, aunque es poco recordativo, es efectivo en el momento en que el mercado objetivo es expuesto al mensaje, de ahí su nivel de uso en campañas en medios digitales como la web y las redes sociales. Tiene un enfoque más alto en el mercado de adultos jóvenes.
+      .crd_01__txt
+        .h4 Aspiracional
+        p Es un tono muy eficaz para productos financieros, agencias de viajes y educación, tiene un alto nivel de persuasión, aunque es poco recordativo, es efectivo en el momento en que el mercado objetivo es expuesto al mensaje, de ahí su nivel de uso en campañas en medios digitales como la web y las redes sociales. Tiene un enfoque más alto en el mercado de adultos jóvenes.
     h5 Tema
     p.mb-5 El tema es un elemento subjetivo y es donde se da rienda suelta a la creatividad, es en este punto donde el target comunicacional realizado anteriormente toma mayor relevancia, pues en cada uno de los detalles descritos en él, se pueden encontrar temas que sean eficaces para el diseño del mensaje. El tema se refiere a un momento, lugar y situación específicos en la que se desarrollará el mensaje, ya sea audiovisual, impreso, digital, textual o auditivo.
     .cajon_purpura.p-4.mb-5.align-items-center.justify-content-between

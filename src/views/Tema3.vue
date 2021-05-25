@@ -7,26 +7,30 @@
         .h3 3
       .h3 Definiciones de creatividad
     p.mb-5 El proceso creativo implica varios aspectos:
-    .tarjeta-Avatar-b.mb-5
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema3/t3-f1.svg', alt='T3-F1')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Fluidez
-          p Esta característica se refiere a la generación copiosa y rápida de ideas; para el desarrollo de una gran idea es necesario tener cientos de ellas.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Fluidez
+        p Esta característica se refiere a la generación copiosa y rápida de ideas; para el desarrollo de una gran idea es necesario tener cientos de ellas.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema3/t3-f2.svg', alt='T3-F2')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Flexibilidad
-          p El desarrollo creativo implica el poder de la adaptación, las ideas pueden llegar desde cualquier dirección y es necesario tener la capacidad de tomar una alternativa y convertirla en solución. La flexibilidad implica también el rechazo de ideas valiosas que por una u otras circunstancias pierden aplicabilidad. El creativo debe ser flexible para poder adaptar cualquiera de ellas de la forma más adecuada posible para generar soluciones eficientes.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Flexibilidad
+        p El desarrollo creativo implica el poder de la adaptación, las ideas pueden llegar desde cualquier dirección y es necesario tener la capacidad de tomar una alternativa y convertirla en solución. La flexibilidad implica también el rechazo de ideas valiosas que por una u otras circunstancias pierden aplicabilidad. El creativo debe ser flexible para poder adaptar cualquiera de ellas de la forma más adecuada posible para generar soluciones eficientes.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema3/t3-f3.svg', alt='T3-F3')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Originalidad
-          p La originalidad no se refiere necesariamente a que algo es único o irrepetible, las ideas originales pueden darse también a través de la forma como se llevan a cabo o se presentan, aquí es donde se hace presente el pensamiento lateral; es decir, pensar de una forma un poco diferente de lo que pensaría el común de la gente, entendido como la realización de acciones con otras versiones diferentes.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 Originalidad
+        p La originalidad no se refiere necesariamente a que algo es único o irrepetible, las ideas originales pueden darse también a través de la forma como se llevan a cabo o se presentan, aquí es donde se hace presente el pensamiento lateral; es decir, pensar de una forma un poco diferente de lo que pensaría el común de la gente, entendido como la realización de acciones con otras versiones diferentes.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema3/t3-f4.svg', alt='T3-F4')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 Ejecución
-          p En ocasiones, el llevar a cabo una idea es más complejo que plantearla; por ello, el creativo debe ser también un realizador de ella y saber acudir a los recursos disponibles para llevarla a cabo. Muchas veces es en su ejecución, en donde esta se convierte en grande y es en ese momento, donde el profesional debe tener la capacidad de tomar cualquier idea, transformarla, mejorarla y generar con ella soluciones innovadoras.
+      .crd_01__txt
+        .h4 Ejecución
+        p En ocasiones, el llevar a cabo una idea es más complejo que plantearla; por ello, el creativo debe ser también un realizador de ella y saber acudir a los recursos disponibles para llevarla a cabo. Muchas veces es en su ejecución, en donde esta se convierte en grande y es en ese momento, donde el profesional debe tener la capacidad de tomar cualquier idea, transformarla, mejorarla y generar con ella soluciones innovadoras.
     .bloque-texto-a.p-4.mb-5.fondo-purpura_invertido
       .row.align-items-center.justify-content-between
         .col-lg-3
@@ -229,23 +233,26 @@
       p.mt-3 Por ejemplo, un problema empresarial lo intentamos resolver buscando algún problema análogo en otras disciplinas: en la biología, en la historia, en un deporte colectivo, etc.
       br
       p Se realiza de la siguiente forma:
-    .tarjeta-Avatar-b.mb-5
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema3/t3-f15.svg', alt='T3-F15')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 1.	Saber cuál es el problema
-          p Ejemplo: fabricar una bañera que ocupe el menor espacio posible. <span style="color:transparent !important">_____ __ ___ ____ __ ____ _ _ _ _ _ _ _ _ _____ _____ _______________</span>
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 1.	Saber cuál es el problema
+        p Ejemplo: fabricar una bañera que ocupe el menor espacio posible. <span style="color:transparent !important">_____ __ ___ ____ __ ____ _ _ _ _ _ _ _ _ _____ _____ _______________</span>
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema3/t3-f16.svg', alt='T3-F16')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 2.	Generación de las ideas
-          p Esta segunda fase es la de alejamiento del problema con la imaginación. Es la fase imaginativa y producimos analogías, circunstancias comparables.
-          br
-          p El grupo ha propuesto como analogías la cascada, el ciclón, el molino de agua, etc.
-    .tarjeta-Avatar-b.mb-5
+      .crd_01__txt
+        .h4 2.	Generación de las ideas
+        p Esta segunda fase es la de alejamiento del problema con la imaginación. Es la fase imaginativa y producimos analogías, circunstancias comparables.
+        br
+        p El grupo ha propuesto como analogías la cascada, el ciclón, el molino de agua, etc.
+    .crd_01.mb-5
+      .crd_01__icon
         img(src='@/assets/curso/tema3/t3-f17.svg', alt='T3-F17')
-        .tarjeta.fondo-purpura-clarito.p-5
-          .h4 3.	Selección de las ideas
-          p La tercera fase es la de seleccionar: tenemos una larga lista de analogías y es el momento de seleccionar las que consideremos más adecuadas y cruzarlas con el problema.
+      .crd_01__txt
+        .h4 3.	Selección de las ideas
+        p La tercera fase es la de seleccionar: tenemos una larga lista de analogías y es el momento de seleccionar las que consideremos más adecuadas y cruzarlas con el problema.
     h5.mb-4 Intersección
     .cajon.color-acento-contenido.p-4.mb-5.mb-lg-0.color-acento-contenido-clarito
       .row.align-items-center.justify-content-between

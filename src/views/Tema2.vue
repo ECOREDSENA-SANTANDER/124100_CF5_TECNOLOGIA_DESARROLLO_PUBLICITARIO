@@ -32,9 +32,9 @@
     .row.mb-5
       .col-lg-8.mx-auto
         .bloque-texto-b.color-secundario.fondo-purpura-before.p-4.mb-4
-          .bloque-texto-b__texto
+          .bloque-texto-d__texto
             i.fas.fa-quote-left
-            span.h2.mb-0 No existen individuos carentes de creatividad, solo existen personas más o menos frenadas, calcificadas o aletargadas que requieren un adiestramiento
+            span.h5.mb-0 No existen individuos carentes de creatividad, solo existen personas más o menos frenadas, calcificadas o aletargadas que requieren un adiestramiento
             i.fas.fa-quote-right
         span (Castelló y del Pino, 2019, p.39, basado en Aznar, Ferrer y de Bas, 1996).
     .cajon--azul.p-4.mb-5.mb-lg-0

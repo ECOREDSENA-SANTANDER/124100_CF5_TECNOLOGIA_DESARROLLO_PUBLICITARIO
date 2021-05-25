@@ -1,6 +1,8 @@
-//
-// Colores genericos ===================================
-//
+// -----------------------------------------------------
+// COLORES ---------------------------------------------
+// -----------------------------------------------------
+  
+// Colores genericos -----------------------------------
 
 $black: #000
 $darkest-gray: lighten($black, 10%)
@@ -13,6 +15,7 @@ $lighten-gray: lighten($black, 70%)
 $lighter-gray: lighten($black, 80%)
 $lightest-gray: lighten($black, 90%)
 $white: #fff
+
 
 $red: #F44336
 $deep-orange: #FF5722
@@ -33,9 +36,7 @@ $orange: #FF9800
 $brown: #795548
 $blue-grey: #607D8B
 
-//
-// Colores Plantilla ===================================
-//
+// Colores Plantilla -----------------------------------
 
 $color-sistema-texto: #12263F
 
@@ -50,16 +51,15 @@ $color-sistema-h: #F6F6F6
 
 $color-institucional: #ff8f00
 
-//
-// Colores Curso ===================================
-//
 
-$color-primario: #7d6eb2
+// Colores Curso ---------------------------------------
+
+$color-primario: #7D6EB2
 $color-secundario: #12263F
 $color-acento-contenido: #26AAB7
 $color-acento-botones: #F5CA56
 
-// Color Tipografias
+// Color Tipografias -----------------------------------
 $color-headers: $color-sistema-texto
 
 $color-tipografia: $color-sistema-texto
@@ -67,20 +67,17 @@ $color-tipografia: $color-sistema-texto
 $color-etiqueta-fondo: $color-primario
 $color-etiqueta-texto: $white
 
-//color Links
+//color Links ------------------------------------------
 $color-link: $color-primario
 $color-link-hover: darken($color-primario, 25%)
 
-// Color Botones
+// Color Botones ---------------------------------------
 $color-btn-fondo: $color-acento-botones
-$color-btn-texto: $color-sistema-texto
+$color-btn-texto: $color-secundario
 
-$color-btn-b-fondo: $color-acento-contenido
-$color-btn-b-texto: $white
-
-// Colores banner
+// Colores banner --------------------------------------
 $color-banner-fondo: $color-primario
-$color-banner-text: $color-sistema-texto
+$color-banner-text: $white
 
 // Colores anexos
 $color-fondo-anexo: $color-sistema-g
@@ -96,7 +93,10 @@ $color-info: lighten($light-blue, 15%)
 $color-warning: lighten($yellow, 15%)
 $color-danger: desaturate($red, 15%)
 
-// Tipografias -----------------------------------------------------
+// -----------------------------------------------------
+// TIPOGRAFIAS -----------------------------------------
+// -----------------------------------------------------
+
 $base-thin-font-weight: 100
 $base-medium-font-weight: 400
 $base-bold-font-weight: 700
@@ -125,7 +125,7 @@ $paragraph-font-size: $base-font-size
 $paragraph-font-weight: $base-font-weight
 $paragraph-line-height: $base-line-height
 
-// Tipografias Links -----------------------------------------------------
+// Tipografias Links -----------------------------------
 $link-font-family: $base-font-family
 $link-font-size: $base-font-size
 $link-font-weight: $base-font-weight
@@ -134,34 +134,36 @@ $label-font-size: $base-font-size
 $label-font-family: $base-font-family
 $label-font-weight: $heading-font-weight
 
-// otros tamaños -----------------------------------------------------
+
+// -----------------------------------------------------
+// OTROS TAMAÑOS ---------------------------------------
+// -----------------------------------------------------
+
 $base-border-radius: 5px
 $base-spacing: $base-line-height * 1em
 $small-spacing: $base-spacing / 2
 $big-spacing: $base-spacing * 2
 $base-z-index: 0
 
-// Border
+// Bordes
 $base-border-color: $color-sistema-f
 $base-border: 1px solid $base-border-color
 
-// Forms -----------------------------------------------------
+// Formularios -----------------------------------------
 $placeholder-color: $light-gray
 $form-background-color: white
 $form-box-shadow: inset 0 1px 3px rgba($black, 0.06)
 $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($color-primario, $lightness: -5%, $alpha: -0.3)
 
-// Tables -----------------------------------------------------
+// Tables ----------------------------------------------
 $table-header-bg-color: $color-sistema-f
 $table-header-color: $color-sistema-a
 
-// Animations
+// Animations ------------------------------------------
 $base-duration: 150ms
 $base-timing: ease-in-out
 
-// ---
-// BREAKPOINTS
-// ---
+// BREAKPOINTS -----------------------------------------
 $bp-min-xxl: 1400px
 $bp-min-xl: 1200px
 $bp-min-lg: 992px
@@ -174,25 +176,21 @@ $bp-max-md: 992px
 $bp-max-sm: 768px
 $bp-max-xs: 576px
 
-// Fallback variables
-$color-curso-a: $color-primario
-$color-curso-b: $color-acento-contenido
-$color-curso-c: $color-acento-botones
-$color-curso-d: $color-secundario
-
-$base-font-color: $color-tipografia
-$paragraph-color: $color-tipografia
-$heading-color: $color-headers
-
-//
-// Imágen banner principal ===================================
-//
-$banner-principal-img-y: 'abajo' // 'arriba','abajo',''
+// -----------------------------------------------------
+// COMPONENTES -----------------------------------------
+// -----------------------------------------------------
+  
+// Imágen banner principal -----------------------------
+$banner-principal-img-y: '' // 'arriba','abajo',''
 $banner-principal-img-x: '' // 'derecha',''
 
-// $action-color: $color-primario
-// $link-color: $color-primario
-// $link-hover-color: darken($color-primario, 25%)
+// .tarjeta-Avatar-b -----------------------------------
+$tarjeta-Avatar-b-ancho-img: 40px !important
 
-// $btn-bg-color: $color-acento-botones
-// $btn-color: $color-primario
+
+// -----------------------------------------------------
+// VARIABLES DE COMPATIBILIDAD -------------------------
+// -----------------------------------------------------
+
+$color-btn-b-fondo: $color-acento-contenido
+$color-btn-b-texto: $white
