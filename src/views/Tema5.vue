@@ -320,9 +320,9 @@
     br
     p.mb-5 La publicidad utiliza el concepto cuando un creativo identifica datos reveladores sobre la conducta del consumidor que antes no pensaba, sabía o tenía en mente.
     .bloque-texto-b.color-secundario.p-4.fondo-purpura-before
-      .bloque-texto-b__texto
+      .bloque-texto-d__texto
         i.fas.fa-quote-left
-        span.h4.mb-0 El insight psicológico permite así comprender a los productos no solo como satisfactores de necesidades biológicas o funcionales, sino también como de gustos y demandas en ocasiones no consientes.
+        span.h5.mb-0 El insight psicológico permite así comprender a los productos no solo como satisfactores de necesidades biológicas o funcionales, sino también como de gustos y demandas en ocasiones no consientes.
         i.fas.fa-quote-right
     span.ps-4 - (Roig, 2011)
     h5.my-5 ¿Cómo hallar insights?
@@ -332,32 +332,32 @@
           img(src='@/assets/curso/tema3/t3-f27.svg', alt='T3-F27')
           .tarjeta.p-4.fondo-gris
             .h4.text-center.mt-5 PASO 1
-            p.text-center.mb-5 Descubriendo la forma del cómo el consumidor se percibe y concibe a sí mismo.
+            p.text-center.mb-5 <b>Descubriendo la forma</b> del cómo el consumidor se percibe y concibe a sí mismo.
       .col-lg-4.mb-5
         .tarjeta-Avatar
           img(src='@/assets/curso/tema3/t3-f28.svg', alt='T3-F28')
           .tarjeta.p-4.fondo-gris
             .h4.text-center.mt-5 PASO 2
-            p.text-center.mb-5 Mirando el mercado tal como el consumidor lo mira (percibe). Esto es, mirar el mercado por y desde los ojos del consumidor.
+            p.text-center.mb-5 <b>Mirando el mercado</b> tal como el consumidor lo mira (percibe). Esto es, mirar el mercado por y desde los ojos del consumidor.
       .col-lg-4.mb-5
         .tarjeta-Avatar
           img(src='@/assets/curso/tema3/t3-f29.svg', alt='T3-F29')
           .tarjeta.p-4.fondo-gris
             .h4.text-center.mt-5 PASO 3
-            p.text-center.mb-5 Explorando la psicología profunda del consumo y el rol simbólico que ésta tiene para el consumidor.
+            p.text-center.mb-5 <b>Explorando la psicología</b> profunda del consumo y el rol simbólico que ésta tiene para el consumidor.
       .col-lg-2
       .col-lg-4.mb-5
         .tarjeta-Avatar
           img(src='@/assets/curso/tema3/t3-f30.svg', alt='T3-F30')
           .tarjeta.p-4.fondo-gris
             .h4.text-center.mt-5 PASO 4
-            p.text-center.mb-5 Indagando, observando, escuchando y explorando. El insight no aparece fácilmente: hay que encontrarlo. La mejor manera de hacerlo es estando en contacto permanente y en forma profunda con nuestros consumidores.
+            p.text-center.mb-5 <b>Indagando, observando, escuchando y explorando.</b> El insight no aparece fácilmente: hay que encontrarlo. La mejor manera de hacerlo es estando en contacto permanente y en forma profunda con nuestros consumidores.
       .col-lg-4.mb-5
         .tarjeta-Avatar
           img(src='@/assets/curso/tema3/t3-f31.svg', alt='T3-F31')
           .tarjeta.p-4.fondo-gris
             .h4.text-center.mt-5 PASO 5
-            p.text-center.mb-5 Usando el olfato e intuición psicológica. Un consumer insight tiene tanto de intuición como de hechos fácticos. (Roig, 2011) 
+            p.text-center.mb-5 <b>Usando el olfato e intuición psicológica.</b> Un consumer insight tiene tanto de intuición como de hechos fácticos. (Roig, 2011) 
       .col-lg-2
     p.mb-5 Émile Durkheim a mediados del siglo XIX creó el método decir, sentir, actuar; muy eficaz para el hallazgo de insights; el cual, se representa a través de lo indicado por Consumer truth (2020):
     ul.lista-ul--separador.ps-5(span style="margin: 1.5em auto 3em")

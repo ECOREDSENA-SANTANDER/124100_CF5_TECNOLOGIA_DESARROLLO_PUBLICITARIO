@@ -695,6 +695,7 @@
         img(src='@/assets/curso/tema3/t3-f38.svg', alt='T3-F38').p-4
       .col-lg-1
     p.mb-5 <b>Eliminar</b> (sustraer conceptos, partes, elementos del problema).
+    h5.mb-5 Evaluación de las ideas
     .cajon_purpura.p-4.mb-5
       p Durante este proceso se han generado respuestas a las preguntas planteadas; muchas de ellas serán ideas que deben ser evaluadas, de acuerdo con unos criterios que pueden ser elaborados por los componentes del grupo o que ya se han establecido con anterioridad.
 </template>
