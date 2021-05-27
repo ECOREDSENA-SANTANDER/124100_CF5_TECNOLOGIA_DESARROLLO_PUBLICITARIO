@@ -178,10 +178,10 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: ['Validación de diseño y contenido'],
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
     ],
   },
