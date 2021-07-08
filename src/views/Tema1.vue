@@ -11,8 +11,8 @@
     //- Muestras
     .titulo-principal
       .titulo-principal__numero
-        .h3 1
-      .h3 Creatividad
+        span 1
+      h1 Creatividad
     
     figure
     .video

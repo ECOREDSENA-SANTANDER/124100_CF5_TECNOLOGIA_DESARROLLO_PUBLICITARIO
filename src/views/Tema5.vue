@@ -4,16 +4,17 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 5
-      .h3 Desarrollo de la estrategia
+        span 5
+      h1 Desarrollo de la estrategia
     .cajon_purpura.p-4.mb-5
       .row.align-items-center.justify-content-between
         .col-lg-4
           img(src='@/assets/curso/tema5/t5-f1.svg', alt='T5-F1')
         .col-lg-8
           p La estrategia creativa es un proceso de desarrollo de ideas para la comunicación publicitaria, busca que la interacción entre el cliente y la marca sea lo más efectiva posible. Además, incluye varios elementos: objetivos, target comunicacional y concepto creativo.
-    #t_5_1.h4 5.1 Objetivos
-    .titulo-segundo.mb-5
+    #t_5_1.titulo-segundo
+      h2 5.1 Objetivos
+
     .row.align-items-center.justify-content-between.mb-5
       .col-lg-8
         p Como ya se ha mencionado anteriormente, los objetivos tienen tres elementos básicos, Intención, qué se quiere lograr. Medida, qué porcentaje del objetivo planteado se quiere o se puede obtener. Plazo, en qué tiempo se puede lograr el objetivo planteado teniendo en cuenta los recursos disponibles.
@@ -94,8 +95,9 @@
                   span 3
                 p Analizar los contactos reales que el plan BTL ha logrado como potenciales consumidores de mi producto, servicio o marca.
           .col-lg-1
-    #t_5_2.h4 5.2 <i>Target</i> comunicacional
-    .titulo-segundo.mb-5
+    #t_5_2.titulo-segundo
+      h2 5.2 <i>Target</i> comunicacional
+
     .bloque-texto-a.p-4.mb-5.fondo-purpura_invertido
       .row.align-items-center.justify-content-between
         .col-lg-3
@@ -112,7 +114,7 @@
         p.mb-5 A continuación, se indica el proceso para realizar el target comunicacional:
       .col-lg-4
         img(src='@/assets/curso/tema5/t5-f8.svg', alt='T5-F8')
-    h5.mb-5 Segmentación del mercado
+    h3 Segmentación del mercado
     p.mb-5 Este proceso ya se ha desarrollado con anterioridad y para el caso, se deben tomar el mercado real y el análisis psicográfico que de él se haya realizado; dicho mercado se debe separar por nichos o grupos específicos a través de una recta numérica sencilla, acudiendo a las variables básicas; por ejemplo, si el mercado real está conformado por mujeres de 20 a 35 años de edad, estratos 3 y 4 y habitantes de ciudades principales de Colombia, se hace la siguiente gráfica, la cual se irá transformando en la medida que se realice el análisis respectivo en este tema:
     .row.mb-5
       .col-lg-8.mx-auto
@@ -125,7 +127,7 @@
           img(src='@/assets/curso/tema5/t5-f10.svg', alt='T5-F10').p-4
         .col-lg-9
           p Para el desarrollo del target comunicacional se deben entonces definir a partir de ese análisis psicográfico, los <i>targets</i> que se van a realizar; para ello, se seguirá aún más el mercado real teniendo en cuenta gustos, intereses, formas de pensar, proyectos a futuro, etc.
-    h5.mb-5 Selección
+    h3 Selección
     p En el ejemplo de las mujeres de 20 a 35 años se pueden encontrar varias diferencias que las separan en cuanto a prioridades, estilo de vida y motivaciones, temas muy relevantes para un proceso de comunicación. 
     br
     p Una mujer de 20 años está comenzando a vivir, posiblemente está estudiando una carrerea o abriéndose paso en el mundo laboral; si bien tiene relaciones sentimentales, tal vez no sea una prioridad el tener hijos, casarse y conformar una familia, puesto que sus motivaciones serán pasarla bien con sus amigos, divertirse, salir, viajar o conocer. Sus principales preocupaciones radican en qué ponerse, con quién y a dónde ir de fiesta, ganar el semestre de la universidad y cumplir con algunas obligaciones en el hogar, que aún comparte con sus padres. 
@@ -149,7 +151,7 @@
           p El desarrollo de target comunicacional está por realizarse, lo siguiente que se debe hacer es comenzar a describirlo; como se dijo anteriormente, este proceso implica aplicar una técnica de investigación, lo recomendable es observar y entrevistar a personas que reúnan las características del grupo seleccionado. 
         .col-lg-4
           img(src='@/assets/curso/tema5/t5-f13.svg', alt='T5-F13')
-    h5.mb-5 Descripción del <i>target</i>
+    h3 Descripción del <i>target</i>
     .row.align-items-center.justify-content-between.mb-5
       .col-lg-3
         img(src='@/assets/curso/tema5/t5-f14.svg', alt='T5-F14').px-4
@@ -166,8 +168,9 @@
             p Tal vez la rutina sea muy similar entre semana, pero de acuerdo con las investigaciones es importante tener en cuenta todas las actividades que el grupo seleccionado realice. Por ejemplo, se encontró que este tipo de mujeres van al gimnasio tres veces por semana o están realizando cursos de arte una vez por semana, acuden al salón de belleza los miércoles o lo hacen cada 15 días. Todos los detalles deben incluirse. El fin de semana, por lo general hay un cambio de rutina, puede ser que estén realizando estudios de postgrado o actividades deportivas y recreativas. Los planes, proyectos e intereses deben incluirse en la historia como situaciones del día a día; por ejemplo, decir que la protagonista está planeando un viaje con su novio y deciden hacer las reservaciones de hoteles con varios meses de anticipación a través de sitios web especializados. También deben incluirse detalles de la música que escuchan, la comida que piden o preparan.
         .col-lg-3
           img(src='@/assets/curso/tema5/t5-f15.svg', alt='T5-F15')
-    #t_5_3.h4 5.3 El concepto creativo
-    .titulo-segundo.mb-5
+    #t_5_3.titulo-segundo
+      h2 5.3 El concepto creativo
+
     .row.align-items-center.justify-content-between.mb-5
       .col-lg-4
         img(src='@/assets/curso/tema5/t5-f16.svg', alt='T5-F16')
@@ -194,14 +197,14 @@
       .crd_01__txt
         .h4 Creativo
         p Por obvias razones el concepto de una estrategia de comunicación debe ser creativo, la creatividad permite no solo que la idea sea llamativa, sino que se destaque frente a otras.
-    h5.mb-5 Estructura del concepto creativo
+    h3 Estructura del concepto creativo
     .cajon.color-acento-contenido.p-4.mb-5.color-acento-contenido-clarito
       .row.align-items-center.justify-content-between
         .col-lg-4
           img(src='@/assets/curso/tema5/t5-f20.svg', alt='T3-F20').p-4
         .col-lg-8
           p El concepto es también un proceso que permite al mensaje tener más definición y a la estrategia creativa un norte, por eso es importante que estos elementos se desarrollen teniendo en cuenta todos los parámetros ya establecidos en el brief y en los antecedentes de la marca.
-    h5.mb-5 Tipo
+    h3 Tipo
     p.mb-5 Cada campaña o estrategia de comunicación que se realice está ligada a un momento específico de la marca, producto, servicio o empresa. Cada producto o servicio atraviesa unas etapas durante su proceso comercial y cada una de ellas comprende un proceso de comunicación especial. Estas etapas están consignadas en el ciclo de vida del producto:
       .col-lg-8.mx-auto
         h5.text-center.mb-5 Ciclo de vida del producto
@@ -249,7 +252,7 @@
           .col-lg-6
             h4.mb-4 Declive
             p Esta etapa se produce por varias razones, la principal es la llegada al mercado de productos similares que han captado la atención de los consumidores con otros beneficios, menor precio u otras presentaciones; en ese punto, en ocasiones es necesario realizar cambios al producto para adaptarlo a las nuevas preferencias del público objetivo, esto implica que el ciclo de vida comienza nuevamente y es necesario realizar un relanzamiento, las características de este tipo de comunicación son similares a las del lanzamiento, con la diferencia que el posicionamiento del producto va a permitir llegar de una forma más rápida al crecimiento y la madurez; es decir, las fases de la comunicación serán más cortas.
-    h5.mb-5 Tono
+    h3 Tono
     .bloque-texto-a.p-4.mb-5.fondo-purpura_invertido
       .row.align-items-center.justify-content-between
         .col-lg-3
@@ -295,7 +298,7 @@
           img(src='@/assets/curso/tema5/t5-f33.svg', alt='T5-F33').p-4
         .col-lg-9
           p.px-4 Se puede tomar como tema una cena familiar; este contiene los tres elementos descritos: cena indica que es en la noche, familiar una situación específica y las posibles personas que intervienen en ella y el lugar porque se puede deducir que será en una casa o en un restaurante. Es importante definir cada uno de estos elementos en la descripción del tema.
-    h5.mb-5 El racional creativo
+    h3 El racional creativo
     p El racional creativo es un documento que recoge toda la información anterior en una idea concreta; es decir, es la idea en sí, descrita y estructurada. Para su desarrollo es necesario tener en cuenta todos los elementos de la estrategia: descripción del mercado objetivo, target comunicacional y concepto creativo.
     br
     p.mb-4 Adicionalmente, el racional creativo debe tener dentro de su base dos elementos inspiradores que tal vez se hayan detectado en el proceso de investigación y desarrollo del target comunicacional; la propuesta de valor y el <i>key insight</i>.
@@ -376,7 +379,7 @@
           img(src='@/assets/curso/tema5/t5-f36.svg', alt='T5-F36').p-4._128pixeles.mx-auto
         .col-lg-10
           p Como complemento del proceso de identificación de insights, se recomienda aplicar la pirámide de los insights que se basa en el trabajo de Mohan Sawhney (2003). Research that Produces Consumer Insights:
-    h5.mb-5.text-center Pirámide de los <i>insights</i>
+    h3.text-center Pirámide de los <i>insights</i>
     .col-lg-8.mx-auto.piramide-insights.p-4
       p.text-center <b>Idea de marketing:<br><br></b>Estrategia de innovación, branding o comunicación basados en consumer insights.
     img(src='@/assets/curso/tema5/t5-f37.svg', alt='T5-F37').p-3._96px.mx-auto

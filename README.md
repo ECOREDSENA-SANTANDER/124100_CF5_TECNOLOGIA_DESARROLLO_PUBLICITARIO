@@ -12,7 +12,7 @@
 
 ### 2. Instalar extención [EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-### 3. Asegurarce que el repositorio tiene TODOS los archivos de la [BASE](https://github.com/ECORED-SENA/ECORED-BASE-2021)
+### 3. Asegurarse que el repositorio tiene TODOS los archivos de la [BASE](https://github.com/ECORED-SENA/ECORED-BASE-2021)
 
 ### 4. Revisar que el archivo package.json en la línea ``"ecored-base-pkg": "*.*.*"`` tenga la [última versión](https://www.npmjs.com/package/ecored-base-pkg)
 

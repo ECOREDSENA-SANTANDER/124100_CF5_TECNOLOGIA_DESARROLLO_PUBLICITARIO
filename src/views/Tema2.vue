@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 2
-      .h3 Definiciones de creatividad
+        span 2
+      h1 Definiciones de creatividad
     .bloque-texto-a.p-4.p-md-5.mb-5.fondo-purpura_invertido
       .row.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
@@ -34,7 +34,7 @@
         .bloque-texto-b.color-secundario.fondo-purpura-before.p-4.mb-4
           .bloque-texto-d__texto
             i.fas.fa-quote-left
-            span.h5.mb-0 No existen individuos carentes de creatividad, solo existen personas más o menos frenadas, calcificadas o aletargadas que requieren un adiestramiento
+            span.h3.mb-0 No existen individuos carentes de creatividad, solo existen personas más o menos frenadas, calcificadas o aletargadas que requieren un adiestramiento
             i.fas.fa-quote-right
         span (Castelló y del Pino, 2019, p.39, basado en Aznar, Ferrer y de Bas, 1996).
     .cajon--azul.p-4.mb-5.mb-lg-0

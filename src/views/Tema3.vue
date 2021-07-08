@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 3
-      .h3 Definiciones de creatividad
+        span 3
+      h1 Definiciones de creatividad
     p.mb-5 El proceso creativo implica varios aspectos:
     .crd_01.mb-5
       .crd_01__icon
@@ -43,15 +43,15 @@
       .row.align-items-center.justify-content-between
         .col-lg-12
           p A continuación, se verán algunos de los métodos más populares para el proceso creativo y la forma como se llevan a cabo. Se relacionan, sobre todo, los más utilizados en el desarrollo de estrategias de comunicación y publicidad:
-    #t_3_1.h3 3.1 Técnicas creativas
-    .titulo-segundo.mb-5
+    #t_3_1.titulo-segundo
+      h2 3.1 Técnicas creativas
     .row.align-items-center.justify-content-between.mb-5
       .col-lg-8
         p Las técnicas creativas implican el desarrollo de métodos que permiten ver las situaciones desde diferentes aspectos. Para la mayoría de las personas es complicado pensar lateralmente; es decir, salir de lo convencional y proponer soluciones prácticas, pero no comunes. Estas técnicas incentivan el pensamiento disruptivo, la creación de nuevas ideas, el mejoramiento de las ya existentes o la adecuación de soluciones anteriores a problemas actuales.
       .col-lg-4
         img(src='@/assets/curso/tema3/t3-f6.svg', alt='T3-F6').p-4
     p.mb-5 A continuación, se indican las técnicas más utilizadas para estimular la producción de ideas y su evaluación, de acuerdo con los descrito por la Fundación Neuronilla para la Creatividad y la Innovación (2020):
-    h5.mb-5 Lluvia de ideas o Brainstorming
+    h3 Lluvia de ideas o Brainstorming
     p.mb-5 Esta técnica fue desarrollada por Alex Osborn (especialista en creatividad y publicidad) en los años 30 y publicada en 1963 en el libro <em>“Applied Imagination”</em>. Es la técnica más conocida y utilizada, además, es la base sobre la que se realizan otras técnicas. La lluvia de ideas se hace en grupos de trabajo.
     .row.align-items-center.justify-content-between.mb-5
       .col-lg-3
@@ -64,7 +64,7 @@
           li 
             i.fas.fa-play.colorPurpura
             p <b>Participantes: </b>facilitador o coordinador (dinamiza el proceso), secretario (apunta las ideas), miembros del grupo.
-    h5.mb-5 Etapas del proceso
+    h3 Etapas del proceso
     .row.justify-content-between.mb-5
       .col-lg-9
         ul.lista-ul--separador.ps-5
@@ -130,7 +130,7 @@
               p <b>Combinar: </b>¿Cómo varios desconocidos usan el coche?
           p.ps-5 <b>Evaluación: </b>tras la generación de ideas, el grupo establece los criterios con los cuales las va a evaluar. Ejemplos: rentabilidad de la idea, grado de factibilidad, grado de extensión de la idea, etc.
   .container.p-4.p-md-5.tarjeta--blanca
-    h5.mb-5 Análisis morfológico
+    h3 Análisis morfológico
     p Es una de las técnicas más valiosas para generar gran cantidad de ideas en un corto período de tiempo y se desarrolló en los trabajos tecnológicos de la astrofísica y las investigaciones espaciales llevadas a cabo en los años cuarenta, como resultado de los adelantos del astrónomo Fritz Zwicky.
     br
     p Es una técnica combinatoria de ideación creativa consistente en descomponer un concepto o problema en sus elementos esenciales o estructuras básicas. Con sus rasgos o atributos se construye una matriz que nos permitirá multiplicar las relaciones entre tales partes. Así pues, en su forma más básica, el análisis morfológico no es más que la generación de ideas por medio de una matriz. Se realiza llevando a cabo los siguientes pasos:
@@ -431,7 +431,7 @@
             | ¿Por medio de qué se motivan?
   .container.p-4.p-md-5.tarjeta--blanca
     p.mb-5 Tras el planteamiento de estas preguntas y sus correspondientes respuestas, la visión del problema es más abierta. Tenemos más perspectivas para abordarlo y pasar a la etapa de generación de ideas.
-    h5.mb-5 Listas cruzadas
+    h3 Listas cruzadas
     p Consiste en hallar ideas confrontando elementos lejanos entre sí, desde el punto de vista morfológico, sintáctico o utilitario para generar nuevas funciones, formas e ideas.
     br
     p.mb-5 Para el desarrollo de esta actividad de ejemplo, se requieren 3 columnas para realizar la misma cantidad de listados diferentes:
@@ -496,7 +496,7 @@
     p Las combinaciones de números de la columna 3 generan combinaciones para el desarrollo de ideas: el 70 por ejemplo es cultura y hablar: en este caso la idea puede ser generar Podcast en los que la revista realice conversatorios cortos de cultura de forma periódica y atraer a un público específico.
     br
     p.mb-5 La combinación 21 es juegos y comer, en este caso se produce la idea de realizar juegos en línea con preguntas de gastronomía y generar como premio bonos en restaurantes de patrocinadores.
-    h5.mb-5 Mapas mentales
+    h3 Mapas mentales
     .bloque-texto-a.p-4.mb-5.fondo-purpura_invertido
       .row.align-items-center
         .col-lg-4
@@ -544,7 +544,7 @@
             p.text-center.mb-5 Las ramificaciones forman una estructura nodal.
       .col-lg-2
     p.mb-5 Los mapas mentales se pueden mejorar y enriquecer con colores, imágenes, códigos y dimensiones que les añaden interés, belleza e individualidad.
-    h5.mb-5 SCAMPER
+    h3 SCAMPER
     p.mb-5 Es una lista de preguntas que estimulan la generación de ideas. Alex Osborn, el creador del Brainstorming, estableció las primeras. Más tarde fueron dispuestas por Bob Eberle en este mnemotécnico:
     .row.mb-5.align-items-center
       .col-lg-1
@@ -590,7 +590,7 @@
           p.mb-4 El problema ha sido ya reformulado (ver mapas mentales, arte de preguntar) y es el momento de generar ideas para su solución.
           p.mb-4 El problema planteado es: 
           h5 Alternativas lúdicas a los sábados por la noche.
-    h5.mb-5 Planteamiento de las preguntas SCAMPER
+    h3 Planteamiento de las preguntas SCAMPER
     p.mb-5 <b>Sustituir</b> (sustituir cosas, lugares, procedimientos, gente, ideas...):
     .row.align-items.center.justify-content-between.mb-5
       .col-lg-1
@@ -695,7 +695,7 @@
         img(src='@/assets/curso/tema3/t3-f38.svg', alt='T3-F38').p-4
       .col-lg-1
     p.mb-5 <b>Eliminar</b> (sustraer conceptos, partes, elementos del problema).
-    h5.mb-5 Evaluación de las ideas
+    h3 Evaluación de las ideas
     .cajon_purpura.p-4.mb-5
       p Durante este proceso se han generado respuestas a las preguntas planteadas; muchas de ellas serán ideas que deben ser evaluadas, de acuerdo con unos criterios que pueden ser elaborados por los componentes del grupo o que ya se han establecido con anterioridad.
 </template>

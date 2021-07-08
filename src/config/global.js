@@ -117,74 +117,6 @@ export default {
       },
     ],
   },
-  creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-    },
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Manuel Augusto Arias López',
-        cargo: 'Instructor – Experto temático',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Quindío',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador Instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Vilma Lucía Perilla Méndez',
-        cargo: 'Evaluadora Instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Martha Isabel Martínez Vargas',
-        cargo: 'Productora audiovisual',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-      },
-      {
-        nombre: ['Jesús Antonio Vecino'],
-        cargo: 'Diseño web',
-      },
-      {
-        nombre: 'Walter Roa Serrano',
-        cargo: 'Desarrollo Front-End',
-      },
-      {
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Yuli Marcela Gómez Tarazona',
-        cargo: ['Validación de diseño y contenido'],
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-  },
   referencias: [
     {
       referencia:
@@ -302,4 +234,99 @@ export default {
       descarga: '/downloads/propuestadevalor_infografia.pdf',
     },
   ],
+  creditos: {
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+    ],
+    contenidoInstruccional: [
+      {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Manuel Augusto Arias López',
+        cargo: 'Instructor – Experto temático',
+        centro: 'Centro de Comercio y Servicios Regional Quindío',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Evaluadora Instruccional',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica Regional Distrito Capital',
+      },
+      {
+        nombre: 'Martha Isabel Martínez Vargas',
+        cargo: 'Productora audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: ['Jesús Antonio Vecino'],
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Walter Roa Serrano',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+    ],
+    gestoresRepositorio: [
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: ['Validación de diseño y contenido'],
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+    ],
+  },
+  // creditosInicio: [
+  //   {
+  //     titulo: 'En alianza',
+  //     contenido: [
+  //       require('@/assets/template/logo-sena-naranja.svg'),
+  //       require('@/assets/template/mintic.jpg'),
+  //       require('@/assets/template/minsalud.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'En compañía',
+  //     contenido: [
+  //       require('@/assets/template/presidencia.jpg'),
+  //       require('@/assets/template/ecopetrol.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'Una iniciativa',
+  //     contenido: [require('@/assets/template/santander.jpg')],
+  //   },
+  // ],
 }
