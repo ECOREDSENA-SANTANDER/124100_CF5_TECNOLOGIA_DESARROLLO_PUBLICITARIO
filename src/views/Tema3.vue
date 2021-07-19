@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Definiciones de creatividad
+      h1 El proceso creativo
     p.mb-5 El proceso creativo implica varios aspectos:
     .crd_01.mb-5
       .crd_01__icon

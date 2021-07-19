@@ -226,7 +226,7 @@ export default {
     {
       texto: 'La estrategia creativa',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=gyWNLNeB1Jc',
+      link: 'https://www.youtube.com/watch?v=gyWNLNeB1Jc',
     },
     {
       texto: 'Propuesta de valor.',
