@@ -1,179 +1,110 @@
-//colores
-$blanquito: rgba(255,255,255,.95)
-$gris-clarito: rgba(241,241,241,.95)
-$purpura-clarito: #ECE9F4
-$amarillito: #f5ca56
-//gradientes
-$gradiente1: $gris-clarito 10%, $blanquito 100%
-@mixin gradient($direction, $list)
-  background: -webkit-linear-gradient($direction, $list)
-  background: -moz-linear-gradient($direction, $list)
-  background: -o-linear-gradient($direction, $list)
-  background: linear-gradient($direction, $list)
-
-.g2
-  @include gradient(90deg, $gradiente1)
-
-//estilos
-th, td
-  border: 3px solid white !important
-
-.fondo-gris-claro
-  background-color: #fafafa !important
-
-.lista-secundario
-  background-color: $color-secundario !important
-
-.fondo-secundario
-  background-color: $color-secundario !important
-
-.textos-color-secundario
-  color: $color-secundario !important
-
-.fondo-purpura-clarito
-  background-color: $purpura-clarito !important
-
-.fondo-purpura-before
-  &::before
-    background-color: #7d6eb226 !important
-
-.etiqueta--morada
-  background-color: #7D6EB2 !important
-.amarilla
-  color: $amarillito !important
-.colorPurpura
-  color: #7D6EB2
-@media screen and ( min-width: $bp-min-md )
-  .ml-4
-    margin: 0 -50px
-    padding: 0 50px
-
-  .p4-pg
-    padding: 1.5rem !important
-
-.etiqueta--amarilla
-  background-color: $amarillito
-
-.nivel2
-  z-index: 2
-.cajon_purpura
-  background-color: #7d6eb226
-  &::before
-    background-color: #7d6eb2ff !important
-    content: ''
-    display: block
-    width: 25px
-    height: 10px
-    position: relative
-    top: -24px
-    left: -24px
-
-.cajon.color-acento-contenido-clarito
-  background-color: #26AAB726
-
-.fas
-  font-size: 10px
-  top: 5px
-
-.fondo-purpura_invertido
-  background-color: #7D6EB2
-  &::before
-    content: ""
-    display: block
-    background-color: $purpura-clarito
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 0
-    bottom: 0
-    left: 0
-    right: 55%
-.fondo-purpura
-  background-color: #7D6EB2
-  &::before
-    content: ""
-    display: block
-    background-color: $purpura-clarito
+    width: 20%
+    top: 20%
+    left: -10%
+
+  &-2
+    animation: float2 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 0
-    bottom: 0
-    right: 0
-    left: 55%
-
-.bloque-texto-b-purpura
-  &::before
-    content: ''
-    display: block
-    background-color: $purpura-clarito
-    position: absolute
-    top: 40%
-    bottom: 0
-    left: 35%
-    right: 0
-
-._128pixeles
-  width: 128px
-  height: auto
-._96px
-  width: 96px !important
-  height: auto
-
-.separador-flechita
-  background-image: url('../assets/curso/separador-flechita.svg')
-  background-position: 0%
-  overflow: visible
-  background-repeat: no-repeat
-
-.fondo-gris
-  background-image: url('../assets/curso/trazado_bottom-1.svg')
-  background-position: bottom center
-  background-repeat: no-repeat
-  background-color: $gris-clarito
-  box-shadow: 5px 5px 10px rgba(0,0,0,0.25)
-  h6, p
-    color: $color-sistema-texto !important
-
-.piramide-insights
-  @include gradient(0deg, $gradiente1)
-  border: 2px $color-sistema-texto solid
-
-$crd-icon-size: 150px
-$crd-padding: 1.5rem
-$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
+    width: 20%
+    top: 70%
+    left: 0%
   
-.crd_01 
-  position: relative
-  display: flex
-  flex-direction: row
-  justify-content: start
-  align-items: center 
-  padding: 1.5rem 1.5rem 1.5rem 0   
-  z-index: 1
-  //background-color: pink
-  &::before
-    content: ""
+  &-3
+    animation: float3 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 0
-    right: 0
-    width: $crd-width
-    height: 100%    
-    background-color: $purpura-clarito
-    border-radius: 15px
-    z-index: -1
-  &__icon
-    order: 1
-    flex-basis: auto
-    width: $crd-icon-size
-    margin-right: 15px
-    img   
-      width: $crd-icon-size
-  &__txt
-    flex: 1 
-    order: 2  
+    width: 20%
+    top: 20%
+    right: 0%
 
-.tarjeta-Avatar
-  img
-    width: 40%
-    margin: 0 auto -60px
 
-.banner-interno__titulo
-  i
-    color: white !important
+@keyframes float1
+  0%
+    transform: translateY(30px)
+  100%
+    transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateY(30px)
+  100%
+    transform: translateY(0px)
+
+@keyframes float3
+  0%
+    transform: translateY(30px)
+  100%
+    transform: translateY(0px)
+
+
+.banner-principal__img 
+  padding-bottom: 0 !important;
+.banner-principal__row .banner-principal__img 
+    padding-right: 0 !important;
+    width: 30%;
+    
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+  color: $color-sistema-texto !important  
+
+.titulo-principal__numero
+    background-color: $color-secundario  !important
+
+
+.bg1
+  background-color: #AEE6E6
+  border-radius: 15px
+  height: 150px !important
+.bg2
+  background-color: #CBC5E0
+  border-radius: 15px
+.bg3
+  background-color: $color-secundario
+.bg4
+  background-color: $color-acento-botones
+.title-card
+  text-align: center
+  padding: 3px 50px 
+  font-weight: bold
+  width: fit-content;
+  margin: 0 auto !important;
+
+.h-card
+  height: 550px
+
+/*Custom components*/
+.cajon.color-secundario 
+    background-color: #E7F8F8;
+.bloque-texto-b.color-terciario 
+    background-color:  #EBE9F4 !important
+.bloque-texto-b i 
+    color: $color-secundario !important;
+
+.fa-check-circle.color-primario
+  color: $color-secundario !important
+.mb-cus-2
+    margin-bottom: 2em  !important  
+/*Media Queries*/  
+//// TABLET 992--------------------------------------
+@media screen and (max-width: $bp-max-md)
+  .mb-cus
+    margin-bottom: 2em  !important  
+  .h-card, .bg1
+    height: auto
+//// TABLET MINI 768--------------------------------------
+@media screen and (max-width: $bp-min-md)
+  .mb-cus
+    margin-bottom: 2em  !important  
+  .h-card, .bg1
+    height: auto
+  
+//// MOBILE 576--------------------------------------
+@media screen and (max-width: $bp-min-sm)
+  
+  .mb-cus
+    margin-bottom: 2em  !important
+  .h-card, .bg1
+    height: auto
