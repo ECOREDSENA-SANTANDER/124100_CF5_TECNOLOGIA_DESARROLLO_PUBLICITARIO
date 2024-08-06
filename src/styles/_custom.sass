@@ -52,7 +52,8 @@
 
 .titulo-principal__numero
     background-color: $color-secundario  !important
-
+.txt-sistema
+  color: $color-sistema-texto !important  
 
 .bg1
   background-color: #AEE6E6
@@ -65,16 +66,100 @@
   background-color: $color-secundario
 .bg4
   background-color: $color-acento-botones
+.bg5
+  background-color: #B9AEDF
+  border-radius: 10px
+.bg6
+  background-color: #B9AEDF
+.bgimg1
+  background-image: url('../assets/curso/temas/tema3/img8.svg');
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 10px
+.bgimg2
+  background-image: url('../assets/curso/temas/tema3/img13.svg');
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 20px
+.bgimg3
+  background-image: url('../assets/curso/temas/tema3/img18.svg');
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 20px
+.bgimg4
+  background-image: url('../assets/curso/temas/tema3/img28.svg');
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 20px
+.bgimg5
+  background-image: url('../assets/curso/temas/tema3/img32.svg');
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 20px
+  margin: 0 auto;
+.fullview
+  background: #E9F8F8
+  background-position: center
+  background-size: cover
+  margin-inline: -3.4rem
 .title-card
   text-align: center
   padding: 3px 50px 
   font-weight: bold
-  width: fit-content;
-  margin: 0 auto !important;
-
+  width: fit-content
+  margin: 0 auto !important
+.title-card-acento-contenido
+  background-color: $color-acento-contenido
+  padding-top: 7px
+  padding-bottom: 7px
+  color: #FFF
+  padding-left: 0.5rem!important
+  padding-right: 0.2rem!important
+  font-weight: bold
+.title-card-02
+  background-color: $color-acento-contenido
+  padding-top: 7px
+  padding-bottom: 7px
+  color: #FFF
+  padding-left: 0.5rem!important
+  font-weight: bold
+.title-card-comp
+  padding-top: 7px
+  padding-bottom: 7px
+  padding-right: 0.2rem!important
+  font-weight: bold
 .h-card
   height: 550px
-
+.h-card-02
+  height: 180px
+.h-card-03
+  height: 230px
+.h-card-04
+  height: 270px
+.card-01
+  position: absolute
+  bottom: -140px
+.m-10-cus
+  margin-top: 10em !important
+.mb-cus-2
+    margin-bottom: 2em  !important  
+.w-col-1
+  width: 80px
+.w-col-2
+  width: 25%
+.mr-ml-1
+  border-left: 1px solid #1A1F2E
+  border-right: 1px solid #1A1F2E
+.tarjeta--green
+    background-color: #D3EEF1;
+.px-4-cus
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem
 /*Custom components*/
 .cajon.color-secundario 
     background-color: #E7F8F8;
@@ -85,29 +170,122 @@
 
 .fa-check-circle.color-primario
   color: $color-secundario !important
-.mb-cus-2
-    margin-bottom: 2em  !important  
+.fa-check-circle.color-acento-contenido
+  color: $color-acento-contenido !important
+.lista-ol--cuadro__vineta.cs
+  background-color: $color-secundario !important
+  color: $color-sistema-texto !important
+.horizontal-scroll
+  align-items: start !important
+.pasos-b__header__btn--left, .pasos-b__header__btn--right 
+    border: 0 !important
+    background-color: $color-acento-botones  !important
+.pasos-b.color-secundario .pasos-b__header__item--active .pasos-b__header__item__dot span
+    color: $color-sistema-texto !important
+.pasos-b__header__item--before .pasos-b__header__item__dot 
+    border-color: $color-secundario !important
+    background-color: $color-secundario !important
+.pasos-b__header__item__dot i.fa-check
+  display: none !important
 
+.pasos-b__header__item:first-child .pasos-b__header__item__line-container:before 
+    background-color: transparent !important
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+    background-color: $color-secundario !important
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after 
+  background-color: $color-secundario !important
+.tabla-a thead
+    border-top: 15px solid $color-secundario !important
+    background-color: #E4E1EF  !important
+.tabla-a td
+  background-color: #fff
+.bloque-texto-g.color-cus 
+    background-color:  #9CC8FF
+.tarjeta--boton.color-acento-contenido img 
+  transition: transform 0.1s ease;
+.tarjeta--boton.color-acento-contenido:hover img 
+  transform: scale(1.2);
+  position: relative;
+  top: -40px;
+.tarjeta--boton.color-acento-contenido:hover p,
+.tarjeta--boton.color-acento-contenido:hover b
+  color: #fff 
+.tarjeta--boton
+    background-color: #E1DAF9;
+.tabla-a tbody.border-cus-top
+  border-top: 15px solid #26AAB7 !important;
+.tarjeta.color-secundario 
+    background-color: #AEE6E6
+.slyder-f__btn i 
+    font-size: 2rem;
+    min-width: 50px;
+    max-width: 50px;
+    min-height: 50px;
+    max-height: 50px;
+    flex: auto;
+    border-radius: 50%;
+    background-color: $color-acento-botones
+    display: flex;
+    justify-content: center;
+    align-items: center;
+.img-infografica__card
+  width: fit-content !important
+.tarjeta.color-secundario *
+  color: $color-sistema-texto !important 
+.acordion__accion__btn--a
+    background-color: $color-acento-botones !important
 
-    
 /*Media Queries*/  
 //// TABLET 992--------------------------------------
 @media screen and (max-width: $bp-max-md)
   .mb-cus
     margin-bottom: 2em  !important  
-  .h-card, .bg1
+  .bg1
     height: auto
+  .card-01
+    position: absolute
+    bottom: -120px
+  .mr-ml-1
+    border: 0 !important
+  .w-img-01
+    width: 20%
+  .px-4-cus
+    padding-right: 0.8rem !important;
+    padding-left: 0.8rem !important;
+  .h-card-04
+    height: 300px
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
     margin-bottom: 2em  !important  
-  .h-card, .bg1
+  .bg1
     height: auto
-  
+  .card-01
+    position: absolute
+    bottom: -120px
+  .mr-ml-1
+    border: 0 !important
+  .w-img-01
+    width: 20%
+  .px-4-cus
+    padding-right: 0.8rem !important;
+    padding-left: 0.8rem !important;
+  .h-card-04
+    height: 300px
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
   
   .mb-cus
     margin-bottom: 2em  !important
-  .h-card, .bg1
+  .h-card, .bg1, .h-card-02, .h-card-03, .h-card-04
     height: auto
+  .card-01
+    position: absolute
+    bottom: -180px
+  .mr-ml-1
+    border: 0 !important
+  .w-img-01
+    width: 50%
+  .px-4-cus
+    padding-right: 0.8rem !important;
+    padding-left: 0.8rem !important;
