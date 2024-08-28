@@ -71,6 +71,9 @@
   border-radius: 10px
 .bg6
   background-color: #B9AEDF
+.bg7
+  background-color: #fff
+  border-radius: 20px
 .bgimg1
   background-image: url('../assets/curso/temas/tema3/img8.svg');
   background-size: cover
@@ -102,8 +105,26 @@
   background-position: center 
   border-radius: 20px
   margin: 0 auto;
+.bgimg6
+  background-image: url('../assets/curso/temas/tema5/img33.svg');
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 20px
+  margin: 0 auto;
 .fullview
   background: #E9F8F8
+  background-position: center
+  background-size: cover
+  margin-inline: -3.4rem
+.fullview-2
+  background: #26AAB7
+  background-position: center
+  background-size: cover
+  margin-inline: -3.4rem
+  border-radius: 20px
+.fullview-3
+  background: $color-acento-contenido
   background-position: center
   background-size: cover
   margin-inline: -3.4rem
@@ -234,6 +255,63 @@
   color: $color-sistema-texto !important 
 .acordion__accion__btn--a
     background-color: $color-acento-botones !important
+.tabs-c.color-secundario .tabs-c__tab--active span
+    font-weight: bold !important
+.tabs-c__content-item
+  background-color: #F9F7F4;
+  position: relative
+  top: -15px
+  z-index: 0
+.tabs-c
+  border: 0 !important
+.tabs-c.color-secundario .tabs-c__tab--active:before
+    z-index: 1;
+.cajon.color-acento-botones 
+    background-color: #FFF8DA !important
+.tarjeta.color-acento-botones--borde 
+    background-color: #D8D4E2 !important
+    border: 0 !important;
+.tabs-a__tab 
+    background-color: $color-acento-contenido
+    color: white 
+.bloque-texto-c.color-secundario
+  background-color: #EBE9F4 
+.bloque-texto-c i.fa-quote-right
+    color: $color-secundario !important
+    font-size: 2.5em !important
+.bloque-texto-c:after 
+    background-color: $color-secundario !important
+.bloque-texto-c i 
+    font-size: initial !important
+    color: initial !important
+
+.tarjeta.tarjeta--white
+  background-color: #fff
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  border: 0 !important
+  background-color: $color-acento-botones  !important
+.slyder-a__bullets__item--active 
+    background-color: $color-acento-botones !important
+    border: 0 !important
+.slyder-a__bullets__item 
+    border: 0 !important
+    background-color: #FFF3BE;
+.tarjeta.color-cus-1
+    background-color: #FFEEB3 !important
+    border-radius: 0 !important
+.tarjeta.color-cus-2
+    background-color: #CEE5E5 !important
+    border-radius: 0 !important
+.tarjeta.color-cus-3
+    background-color: #9DDDE3 !important
+    border-radius: 0 !important
+.tarjeta.color-cus-4
+    background-color: #96CBD1 !important
+    border-radius: 0 !important
+.tarjeta.color-cus-5
+    background-color: #B9B3CF !important
+    border-radius: 0 !important    
+
 
 /*Media Queries*/  
 //// TABLET 992--------------------------------------
@@ -254,6 +332,7 @@
     padding-left: 0.8rem !important;
   .h-card-04
     height: 300px
+  
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
