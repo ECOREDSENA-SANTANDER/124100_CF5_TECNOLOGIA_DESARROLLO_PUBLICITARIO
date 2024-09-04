@@ -74,14 +74,16 @@
 .bg7
   background-color: #fff
   border-radius: 20px
+.bg8
+  background-color: #7D6EB2
 .bgimg1
-  background-image: url('../assets/curso/temas/tema3/img8.svg');
+  background-image: url('../assets/curso/temas/tema3/img48.svg');
   background-size: cover
   background-repeat: no-repeat
   background-position: center 
   border-radius: 10px
 .bgimg2
-  background-image: url('../assets/curso/temas/tema3/img13.svg');
+  background-image: url('../assets/curso/temas/tema3/img50.svg');
   background-size: cover
   background-repeat: no-repeat
   background-position: center 
@@ -131,7 +133,6 @@
 .title-card
   text-align: center
   padding: 3px 50px 
-  font-weight: bold
   width: fit-content
   margin: 0 auto !important
 .title-card-acento-contenido
@@ -154,6 +155,10 @@
   padding-bottom: 7px
   padding-right: 0.2rem!important
   font-weight: bold
+.title-card-03
+  text-align: center
+  padding: 3px 50px 
+  width: fit-content
 .h-card
   height: 550px
 .h-card-02
@@ -177,7 +182,9 @@
   border-left: 1px solid #1A1F2E
   border-right: 1px solid #1A1F2E
 .tarjeta--green
-    background-color: #D3EEF1;
+    background-color: #F2F6F6;
+.tarjeta--green.acordion__activo
+    background-color: #D3EEF1 !important;
 .px-4-cus
     padding-right: 1.5rem !important;
     padding-left: 1.5rem
@@ -237,6 +244,9 @@
   border-top: 15px solid #26AAB7 !important;
 .tarjeta.color-secundario 
     background-color: #AEE6E6
+.tarjeta.color-secundario-cus
+    background-color: #AEE6E6
+    color: #fff !important
 .slyder-f__btn i 
     font-size: 2rem;
     min-width: 50px;
@@ -314,6 +324,14 @@
 
 
 /*Media Queries*/  
+//// DESKTOP SMALL 1400--------------------------------------
+@media screen and (max-width: $bp-min-xxl)
+  .h-card
+    height: 600px
+  .h-card-02
+    height: 250px !important
+  .h-card-03
+    height: 290px !important
 //// TABLET 992--------------------------------------
 @media screen and (max-width: $bp-max-md)
   .mb-cus
@@ -332,6 +350,8 @@
     padding-left: 0.8rem !important;
   .h-card-04
     height: 300px
+  .h-card
+    height: 550px
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)

@@ -68,11 +68,11 @@
             ul.lista-ul.mb-5
               li.d-flex
                 i.fas.fa-check-circle.color-primario
-                span La función puntual de un objetivo de comunicación es acentuar o modificar conductas, hábitos o comportamientos en el #[i target] de campaña.
+                span.fw-bold La función puntual de un objetivo de comunicación es acentuar o modificar conductas, hábitos o comportamientos en el #[i target] de campaña.
 
               li.d-flex
                 i.fas.fa-check-circle.color-primario
-                span Esencialmente un objetivo de comunicación debe informar adecuadamente, persuadir a través de una propuesta diferencial, dar a conocer claramente dicha propuesta y comunicar correctamente el mensaje; este último en la estrategia de comunicación está representado por la promesa y el #[i reason why] (soporte de promesa o argumentación).
+                span.fw-bold Esencialmente un objetivo de comunicación debe informar adecuadamente, persuadir a través de una propuesta diferencial, dar a conocer claramente dicha propuesta y comunicar correctamente el mensaje; este último en la estrategia de comunicación está representado por la promesa y el #[i reason why] (soporte de promesa o argumentación).
       .p-4(titulo="Objetivos de medios")
         .row.justify-content-center.align-items-center.mb-5
           .col-sm-12.col-lg-6.d-none.d-lg-block
@@ -104,20 +104,20 @@
           .col-sm-12.col-lg-6
             p Este tipo de objetivos están directamente ligados a conseguir efectos en personas específicas y no en un campo masivo de universos, ya que las acciones BTL tienen como misión acercarse en forma directa e individual a cada individuo de nuestro plan de acción. Estos objetivos son:
             ol.lista-ol--cuadro
-              li
+              li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 1
-                | Determinar contactos brutos a alcanzar.
+                span.fw-bold Determinar contactos brutos a alcanzar.
 
-              li
+              li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 2
-                | Lograr porcentaje de contactos efectivos que alcanzará el plan.
+                span.fw-bold Lograr porcentaje de contactos efectivos que alcanzará el plan.
 
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 3
-                span Analizar los contactos reales que el plan BTL ha logrado como potenciales consumidores de mi producto, servicio o marca.
+                span.fw-bold Analizar los contactos reales que el plan BTL ha logrado como potenciales consumidores de mi producto, servicio o marca.
     Separador
     #t_5_2.titulo-segundo.color-secundario
       h2  5.2 #[i Target] comunicacional
@@ -195,16 +195,16 @@
 
       .col-sm-12.col-lg-8
         .row.justify-content-center.align-items-center.mb-4
-          .col-sm-12.col-lg-1.d-none.d-lg-block
-            img(src='@/assets/curso/temas/tema5/img13.svg', alt='')
-          .col-sm-12.col-lg-11
+          .col-sm-12.col-lg-2.d-none.d-lg-block
+            img.w-75.m-auto(src='@/assets/curso/temas/tema5/img13.svg', alt='')
+          .col-sm-12.col-lg-10
             p.mb-0 Tal vez la rutina sea muy similar entre semana, pero de acuerdo con las investigaciones es importante tener en cuenta todas las actividades que el grupo seleccionado realice.
         .cajon.color-secundario.p-4.mb-4
             p.mb-0 #[b Por ejemplo:]  se encontró que este tipo de mujeres van al gimnasio tres veces por semana o están realizando cursos de arte una vez por semana, acuden al salón de belleza los miércoles o lo hacen cada 15 días; todos los detalles deben incluirse.
         .row.justify-content-center.align-items-center.mb-4
-          .col-sm-12.col-lg-1.d-none.d-lg-block
-            img(src='@/assets/curso/temas/tema5/img14.svg', alt='')
-          .col-sm-12.col-lg-11
+          .col-sm-12.col-lg-2.d-none.d-lg-block
+            img.w-75.m-auto(src='@/assets/curso/temas/tema5/img14.svg', alt='')
+          .col-sm-12.col-lg-10
             p.mb-0 El fin de semana, por lo general hay un cambio de rutina, puede ser que estén realizando estudios de postgrado o actividades deportivas y recreativas. Los planes, proyectos e intereses deben incluirse en la historia como situaciones del día a día.
         .cajon.color-acento-botones.p-4.mb-4
           p.mb-0 #[b Por ejemplo:] decir que la protagonista está planeando un viaje con su novio y deciden hacer las reservaciones de hoteles con varios meses de anticipación a través de sitios web especializados. También deben incluirse detalles de la música que escuchan, la comida que piden o preparan.
@@ -215,21 +215,21 @@
     p El concepto creativo es la base principal para el desarrollo del mensaje de la campaña, este determina la forma que tendrá el mensaje que se dirigirá al mercado objetivo; es en este punto donde debe darse todo el despliegue creativo.
     p Para el desarrollo del concepto, es indispensable tener en cuenta las siguientes recomendaciones:
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img15.svg').d-none.d-lg-block
           .tarjeta.bgimg3.w-100
             .text-center.p-4
               p.title-card.bg3.text-white.mb-4 Originalidad  
               p.mt-3.mb-5.pb-5 La forma como se comunique la marca con su público objetivo debe ser única, no parecerse a otro producto y menos aún si es de la competencia.
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img16.svg').d-none.d-lg-block
           .tarjeta.bgimg3.w-100
             .text-center.p-4
               .title-card.bg4 Claro
               p.mt-3.mb-5.pb-5 El concepto debe ser muy fácil de identificar para los consumidores y en lo posible que la relación de este con la marca y sus beneficios sea evidente.
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img17.svg').d-none.d-lg-block
           .tarjeta.bgimg3.w-100
@@ -336,7 +336,8 @@
         p La Unique Selling Proposition (literalmente, propuesta única de venta) ordena que el producto debe representar para el público una Proposición concreta y Única de Venta (PUV), consecuentemente, el mensaje debe basarse en un solo valor: #[b “al adquirir este producto obtiene esta ventaja diferente”. ] (Roig, 2011)
         p.mb- Sin embargo, la propuesta de valor es un concepto más evolucionado, este método fue creado por Cindy Barnes, Helen Blake, David Pinder en 2009, mencionado en su libro: #[i Creating and Delivering Your Value Proposition: Managing Customer Experience for Profit. ]
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-0 La propuesta de valor es más que un diferenciador, es una promesa que se hace al cliente a través del producto y se expresa con el o los beneficios que este le proporciona. La fórmula para determinar el valor de un producto se expresa de la siguiente manera:  
+          p.mb-3 La propuesta de valor es más que un diferenciador, es una promesa que se hace al cliente a través del producto y se expresa con el o los beneficios que este le proporciona. La fórmula para determinar el valor de un producto se expresa de la siguiente manera:  
+          h4.title-card-03.bg8.mx-2.text-white.mt-4 Valor > precio = beneficio
     p.mb-5 Esto significa que el valor que el consumidor le da al producto debe ser superior al precio que paga por él; en consecuencia, dicho consumidor va a obtener del producto un beneficio que satisface su necesidad. La propuesta de valor debe expresarse claramente en la idea que se exponga, ir implícita en el concepto y expresada en el mensaje. Un ejemplo claro de propuesta de valor es la de la marca registrada Nestlé, ya que está implícita en su logo y en todas las campañas que realiza, < alimentar a la familia >; nótese que su logo es un nido en el que una madre alimenta a sus hijos,  en general todo su portafolio y sus conceptos llevan implícita esta premisa. 
     .d-flex.mb-4  
       h4.title-card-acento-contenido Los #[i insights]

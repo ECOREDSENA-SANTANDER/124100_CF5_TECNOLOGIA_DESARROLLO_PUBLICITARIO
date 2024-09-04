@@ -8,7 +8,7 @@
       h1 Definiciones de creatividad
     .row.justify-content-around.align-items-center.mb-5
       .col-sm-12.col-lg-3.d-none.d-lg-block
-        img(src='@/assets/curso/temas/tema2/img1.svg', alt='')
+        img(src='@/assets/curso/temas/tema2/img1.png', alt='')
       .col-sm-12.col-lg-7
         p.mb-3 El sustantivo creatividad, procede etimológicamente de la palabra #[i creare], evoluciona hacia criar y llega a la actualidad derivada del verbo crear. La primera utilización escrita del término en inglés data de 1875 cuando Ward califica sin definir la aptitud de Shakespeare con la acepción «creatividad poética». La primera definición del concepto aparece en el año 1961, en el #[i Webster’s Third Dictionary] como «habilidad de crear».
         p.mb-0 En el diccionario de la Real Academia Española (RAE), se incorpora por primera vez en 1984 como #[b «facultad de crear» y «capacidad de creación».] Para la RAE, crear significa en su primera acepción «producir algo de la nada», como ejemplo se propone «Dios creó los cielos y la tierra».
@@ -16,21 +16,21 @@
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center.mb-5
-          .col-sm-12.col-lg-4.mb-cus
+          .col-sm-12.col-md-6.col-lg-4.mb-cus
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema2/img2.svg')
               .tarjeta.bg1.w-100
                 .p-4
                   h5.text-center.mt-1.mb-0 Que posee o estimula la capacidad de creación, invención, etc.
                   
-          .col-sm-12.col-lg-4.mb-cus
+          .col-sm-12.col-md-6.col-lg-4.mb-cus
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema2/img3.svg')
               .tarjeta.bg1.w-100
                 .p-4
                   h5.text-center.mt-1.mb-0 Capaz de crear algo.
                   
-          .col-sm-12.col-lg-4.mb-cus
+          .col-sm-12.col-md-6.col-lg-4.mb-cus
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema2/img4.svg')
               .tarjeta.bg1.w-100

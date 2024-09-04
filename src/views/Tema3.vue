@@ -12,28 +12,28 @@
           .row.justify-content-center.align-items-center.my-4
             .col-lg-4.d-none.d-lg-block
               img.h-card-img(src='@/assets/curso/temas/tema3/img1.svg')
-          .title-card.bg3.mx-2.text-white Fluidez
+          h4.title-card.bg3.mx-2.text-white Fluidez
           p.mt-4.text-center.mx-2 Esta característica se refiere a la capacidad de generar ideas de manera abundante y rápida; para desarrollar una gran idea, es necesario tener cientos de ellas.
       .col-sm-12.col-md-6.col-lg-3.justify-content-center.mx-0.px-2
         .bg2.px-1.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-4
             .col-lg-4.d-none.d-lg-block
               img.h-card-img(src='@/assets/curso/temas/tema3/img2.svg')
-          .title-card.bg4.mx-2 Flexibilidad
+          h4.title-card.bg4.mx-2 Flexibilidad
           p.mt-4.text-center.mx-2 El desarrollo creativo implica el poder de la adaptación, las ideas pueden llegar desde cualquier dirección y es necesario tener la capacidad de tomar una alternativa y convertirla en solución. La flexibilidad implica también el rechazo de ideas valiosas que por una u otras circunstancias pierden aplicabilidad. El creativo debe ser flexible para poder adaptar cualquiera de ellas de la forma más adecuada posible para generar soluciones eficientes.
       .col-sm-12.col-md-6.col-lg-3.justify-content-center.mx-0.px-2
         .bg2.px-1.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-4
             .col-lg-4.d-none.d-lg-block
               img.h-card-img(src='@/assets/curso/temas/tema3/img3.svg')
-          .title-card.bg3.mx-2.text-white Originalidad
+          h4.title-card.bg3.mx-2.text-white Originalidad
           p.mt-4.text-center.mx-2 La originalidad no se refiere necesariamente a que algo es único o irrepetible, las ideas originales pueden darse también a través de la forma como se llevan a cabo o se presentan, aquí es donde se hace presente el pensamiento lateral; es decir, pensar de una forma un poco diferente de lo que pensaría el común de la gente, entendido como la realización de acciones con otras versiones diferentes.
       .col-sm-12.col-md-6.col-lg-3.justify-content-center.mx-0.px-2
         .bg2.px-1.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-4
             .col-lg-4.d-none.d-lg-block
               img.h-card-img(src='@/assets/curso/temas/tema3/img4.svg')
-          .title-card.bg4.mx-2 Ejecución
+          h4.title-card.bg4.mx-2 Ejecución
           p.mt-4.text-center.mx-2 En ocasiones, el llevar a cabo una idea es más complejo que plantearla; por ello, el creativo debe ser también un realizador de ella y saber acudir a los recursos disponibles para llevarla a cabo. Muchas veces es en su ejecución, en donde esta se convierte en grande y es en ese momento, donde el profesional debe tener la capacidad de tomar cualquier idea, transformarla, mejorarla y generar con ella soluciones innovadoras.
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -100,9 +100,13 @@
         p.mb-4 Los participantes #[b dicen todo aquello que se les ocurra], de acuerdo con el problema planteado y guardando las reglas anteriores.
         .row.justify-content-center
           .col-sm-12.col-lg-10
-            h5.mb-4 Ejemplo: ¿Qué podemos hacer para mejorar los problemas del tráfico urbano?.
-            p.mb-4 #[b Respuestas:] quemar los coches, vivir en el campo, restringir los días de circulación, aumentar muchísimo el precio de los coches, aumentar muchísimo el precio de la gasolina, ir en bici, ir a pie, no salir de casa, vivir todos en la misma casa, trabajar y vivir en el mismo edificio, penalizar el uso del coche, pinchar todas las ruedas, etc. 
-            p.mb-5 #[b Trabajo con las ideas:] las ideas existenstes pueden mejorarse mediante la aplicación de una lista de control; también se pueden agregar otras ideas. Osborn, recomienda el empleo de preguntas como las que siguen:
+            .row.justify-content-center.align-items-end
+              .col-sm-12.col-lg-9
+                h5.mb-4 Ejemplo: ¿Qué podemos hacer para mejorar los problemas del tráfico urbano?.
+                p.mb-4 #[b Respuestas:] quemar los coches, vivir en el campo, restringir los días de circulación, aumentar muchísimo el precio de los coches, aumentar muchísimo el precio de la gasolina, ir en bici, ir a pie, no salir de casa, vivir todos en la misma casa, trabajar y vivir en el mismo edificio, penalizar el uso del coche, pinchar todas las ruedas, etc. 
+                p.mb-5 #[b Trabajo con las ideas:] las ideas existenstes pueden mejorarse mediante la aplicación de una lista de control; también se pueden agregar otras ideas. Osborn, recomienda el empleo de preguntas como las que siguen:
+              .col-sm-12.col-lg-3.d-none.d-lg-block.mb-5
+                img(src='@/assets/curso/temas/tema3/img49.svg')
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-6
                 ul.lista-ul
@@ -135,6 +139,8 @@
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
                     span #[b Sustituir:] ¿Cómo saber que los demás no sacan el coche?.
+              
+
       .row.justify-content-center.mb-5.card-01
         .col-sm-12.col-lg-7.bg5.px-5.py-4
           p.mb-0 #[b Evaluación:] tras la generación de ideas, el grupo establece los criterios con los cuales las va a evaluar. Ejemplos: rentabilidad de la idea, grado de factibilidad, grado de extensión de la idea, etc.              
@@ -248,21 +254,21 @@
         img(src='@/assets/curso/temas/tema3/img14.png', alt='')
     
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img15.svg')
           .tarjeta.bgimg3.w-100
             .text-center.p-4
               p.title-card.bg3.text-white.mb-4   Saber cuál es el problema
               p.mt-3.mb-0 #[b Ejemplo: ] fabricar una bañera que ocupe el menor espacio posible.
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img16.svg')
           .tarjeta.bgimg3.w-100
             .text-center.p-4
               .title-card.bg4 Generación de las ideas
               p.mt-3.mb-0 Esta segunda fase consiste en distanciarse del problema mediante la imaginación. Es una etapa creativa en la que creamos analogías y situaciones comparables.
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img17.svg')
           .tarjeta.bgimg3.w-100
@@ -357,36 +363,36 @@
                 td Corcho
                 td Plantas
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.mb-cus
         .row.justify-content-center.align-items-center.mb-0.bgimg4.p-4.h-card-02
-          .col-sm-12.col-lg-3
+          .col-sm-12.col-lg-4
             img.w-img-01.m-auto(src='@/assets/curso/temas/tema3/img23.svg')
-          .col-sm-12.col-lg-9
+          .col-sm-12.col-lg-8
             p.mb-0 #[b Nuevas ideas: ] juegos acuáticos, juegos portátiles, monitores (niñeros e instructores), juegos de goma espuma y préstamo de juegos. 
-      .col-sm-12.col-lg-4.px-4-cus.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.px-4-cus.mb-cus
         .row.justify-content-center.align-items-center.mb-0.bgimg4.p-4.h-card-02
-          .col-sm-12.col-lg-3
+          .col-sm-12.col-lg-4
             img.w-img-01.m-auto(src='@/assets/curso/temas/tema3/img24.svg')
-          .col-sm-12.col-lg-9
+          .col-sm-12.col-lg-8
             p.mb-0 #[b Conectamos:] la idea resultante está inspirada por esos cruces, pero no tiene porqué incluir todos los aspectos del cruce.
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4.mb-cus
         .row.justify-content-center.align-items-center.mb-0.bgimg4.p-4.h-card-02
-          .col-sm-12.col-lg-3
+          .col-sm-12.col-lg-4
             img.w-img-01.m-auto(src='@/assets/curso/temas/tema3/img25.svg')
-          .col-sm-12.col-lg-9
+          .col-sm-12.col-lg-8
             p.mb-0 #[b Balancines – parques – plástico – plantas > idea:] contratar a monitores que den talleres de jardinería a los niños/as, (podrían ser personas jubiladas voluntarias). 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-lg-4.mb-cus
+      .col-sm-12.col-md-6.col-lg-4
         .row.justify-content-center.align-items-center.mb-0.bgimg4.p-4.h-card-03
-          .col-sm-12.col-lg-3
+          .col-sm-12.col-lg-4
             img.w-img-01.m-auto(src='@/assets/curso/temas/tema3/img26.svg')
-          .col-sm-12.col-lg-9
+          .col-sm-12.col-lg-8
             p.mb-0 #[b Toboganes – niños – hierro – vallas  idea:] hacer que cualquier mobiliario o construcción urbana sea un espacio apto para el juego infantil como un tobogán en un puente, un columpio en cada parada de autobús, etc.
-      .col-sm-12.col-lg-4.px-4-cus
+      .col-sm-12.col-md-6.col-lg-4.px-4-cus
         .row.justify-content-center.align-items-center.mb-0.bgimg4.p-4.h-card-03
-          .col-sm-12.col-lg-3
+          .col-sm-12.col-lg-4
             img.w-img-01.m-auto(src='@/assets/curso/temas/tema3/img27.svg')
-          .col-sm-12.col-lg-9
+          .col-sm-12.col-lg-8
             p.mb-0 #[b Redes – centros comerciales – delincuentes – bancos y mesas > idea:] crear una especie de “#[i chill out]”, un espacio en alto acolchado y techado, cómodo para que puedan descansar adultos y niños/as.
 
     .d-flex.mb-3  
@@ -477,7 +483,7 @@
           img(src='@/assets/curso/temas/tema3/img30.svg')
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-10
-        p.fw-bold Tras el planteamiento de estas preguntas y sus correspondientes respuestas, la visión del problema es más abierta. Tenemos más perspectivas para abordarlo y pasar a la etapa de generación de ideas.
+        p.fw-bold.text-center Tras el planteamiento de estas preguntas y sus correspondientes respuestas, la visión del problema es más abierta. Tenemos más perspectivas para abordarlo y pasar a la etapa de generación de ideas.
     .d-flex  
       h4.title-card-acento-contenido Listas 
       h4.title-card-comp &nbsp;cruzadas
@@ -566,35 +572,35 @@
     p.mb-4 #[b La importancia de los mapas mentales radica en que son una expresión de una forma de pensamiento: ] el pensamiento irradiante. El mapa mental es una técnica gráfica que permite acceder al potencial del cerebro. #[b Su principal aplicación en el proceso creativo es la exploración del problema y la generación de ideas.  ]En la exploración del problema es recomendable su uso para tener distintas perspectivas de este.
     p Para su elaboración se realizan los siguientes pasos:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-secundario.p-4
+      .tarjeta.color-secundario-cus.p-4
         .row.justify-content-center.mb-4
           .col-5
             img(src='@/assets/curso/temas/tema3/img34.svg')
-        h5.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 1
+        h4.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 1
         p.mt-3.text-center.txt-sistema Se toma una hoja de papel, grande o pequeña, según sea un mapa grupal o individual.
-      .tarjeta.color-secundario.p-4
+      .tarjeta.color-secundario-cus.p-4
         .row.justify-content-center.mb-4
           .col-5
             img(src='@/assets/curso/temas/tema3/img35.svg')
-        h5.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 2
+        h4.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 2
         p.mt-3.text-center.txt-sistema El problema o asunto más importante se escribe con una palabra o se dibuja en el centro de la hoja.
-      .tarjeta.color-secundario.p-4
+      .tarjeta.color-secundario-cus.p-4
         .row.justify-content-center.mb-4
           .col-5
             img(src='@/assets/curso/temas/tema3/img36.svg')
-        h5.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 3
+        h4.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 3
         p.mt-3.text-center.txt-sistema Los principales temas relacionados con el problema irradian de la imagen central de forma ramificada.
-      .tarjeta.color-secundario.p-4
+      .tarjeta.color-secundario-cus.p-4
         .row.justify-content-center.mb-4
           .col-5
             img(src='@/assets/curso/temas/tema3/img37.svg')
-        h5.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 4
+        h4.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 4
         p.mt-3.text-center.txt-sistema De esos temas parten imágenes o palabras claves que trazamos sobre líneas abiertas, sin pensar, de forma automática pero clara.
-      .tarjeta.color-secundario.p-4
+      .tarjeta.color-secundario-cus.p-4
         .row.justify-content-center.mb-4
           .col-5
             img(src='@/assets/curso/temas/tema3/img38.svg')
-        h5.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 5
+        h4.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 5
         p.mt-3.text-center.txt-sistema Las ramificaciones forman una estructura nodal.
     p.mb-5 Los mapas mentales se pueden mejorar y enriquecer con colores, imágenes, códigos y dimensiones que les añaden interés, belleza e individualidad.
     .d-flex.mb-3 
@@ -622,14 +628,14 @@
     p Puede utilizarse junto a otras técnicas en el proceso divergente de la generación de ideas.
     p.mb-5 Para el desarrollo de esta técnica se deben seguir lo siguientes pasos:
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-6.mb-cus
+      .col-sm-12.col-md-6.col-lg-6
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img40.svg')
           .tarjeta.color-acento-contenido.w-100.px-5
             .text-white.py-4.px-5.text-center
               h4.text-center Establecimiento del problema:
               p.mb-0 el problema ha sido ya reformulado (ver mapas mentales, arte de preguntar) y es el momento de generar ideas para su solución.
-      .col-sm-12.col-lg-6
+      .col-sm-12.col-md-6.col-lg-6
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img41.svg')
           .tarjeta.color-acento-contenido.w-100.px-5
