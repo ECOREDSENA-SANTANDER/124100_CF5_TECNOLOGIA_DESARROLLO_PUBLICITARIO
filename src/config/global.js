@@ -78,7 +78,7 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 'Target comunicacional',
+            titulo: '<i>Target</i> comunicacional',
             hash: 't_5_2',
           },
           {
@@ -140,14 +140,14 @@ export default {
       referencia:
         'Ecosistema de recursos educativos digitales SENA. 2020. La Creatividad.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=ivz15d1vPI0',
+      link: 'https://www.youtube.com/watch?v=y-gvlyG4lkA',
     },
     {
       tema: 'La estrategia creativa',
       referencia:
         'Ecosistema de recursos educativos digitales SENA.  2020.  Proceso creativo.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=gyWNLNeB1Jc',
+      link: 'https://www.youtube.com/watch?v=UAVe89VNWm4',
     },
     {
       tema: 'Propuesta de valor.',
@@ -211,33 +211,49 @@ export default {
   referencias: [
     {
       referencia:
-        'Castelló, A. Pino, C. (2019). De la Publicidad a la Comunicación Persuasiva. Esic Editorial. Consumer truth. (2020). Técnicas de Insights. https://consumer-truth.com.pe/tecnicas-de-insights/',
+        'Castelló, A. Pino, C. (2019). De la Publicidad a la Comunicación Persuasiva. Esic Editorial',
+    },
+    {
+      referencia:
+        'Consumer truth. (2020). Técnicas de Insights. https://consumer-truth.com.pe/tecnicas-de-insights/',
       link: 'https://consumer-truth.com.pe/tecnicas-de-insights/',
     },
     {
       referencia:
-        'Davara, A. M. (1992). Estrategias de Comunicación en Marketing. Edit. DOSSAT S.A. Fundación Neuronilla para la Creatividad y la Innovación. (2020). Técnicas de Creatividad para la Innovación. https://neuronilla.com/desarrolla-creatividad/tecnicas-creatividad/',
+        'Davara, A. M. (1992). Estrategias de Comunicación en Marketing. Edit. DOSSAT S.A.',
+    },
+    {
+      referencia:
+        'Fundación Neuronilla para la Creatividad y la Innovación. (2020). Técnicas de Creatividad para la Innovación. https://neuronilla.com/desarrolla-creatividad/tecnicas-creatividad/',
       link:
         'https://neuronilla.com/desarrolla-creatividad/tecnicas-creatividad/',
     },
     {
       referencia:
-        'Gerard, J. P. (2015). Imagina lo Imposible: Manual Práctico & Caja de Herramientas para la Innovación. 2015. Ril Editores, Editorial Universidad Católica de la Santísima Concepción. Publicidad y Promoción. (2010). El Proceso Creativo. https://publicidadypromocion2010.wordpress.com/2010/11/08/el-proceso-creativo/',
+        'Gerard, J. P. (2015). Imagina lo Imposible: Manual Práctico & Caja de Herramientas para la Innovación. 2015. Ril Editores, Editorial Universidad Católica de la Santísima Concepción.',
+    },
+    {
+      referencia:
+        'Publicidad y Promoción. (2010). El Proceso Creativo. https://publicidadypromocion2010.wordpress.com/2010/11/08/el-proceso-creativo/',
       link:
         'https://publicidadypromocion2010.wordpress.com/2010/11/08/el-proceso-creativo/',
     },
-
     {
       referencia:
-        'Rajadell, M. (2019). Creatividad. Emprendimiento y Mejora Continua. Editorial Reverté. Reimers Design. (s.f.). Pequeño Diccionario del Diseñador. Consultado el 27 de mayo de 2020. https://losqueno.com/wp-content/uploads/2015/04/DICCIONARIO-DISE--O.pdf',
+        'Rajadell, M. (2019). Creatividad. Emprendimiento y Mejora Continua. Editorial Reverté.',
+    },
+    {
+      referencia:
+        'Reimers Design. (s.f.). Pequeño Diccionario del Diseñador. Consultado el 27 de mayo de 2020. https://losqueno.com/wp-content/uploads/2015/04/DICCIONARIO-DISE--O.pdf',
       link:
         'https://losqueno.com/wp-content/uploads/2015/04/DICCIONARIO-DISE--O.pdf',
     },
     {
       referencia:
-        'Roig, F. A. (2011). La estrategia creativa: Relaciones entre concepto e idea. Ediciones Infinito. Vila, F. (2013). Comunicación Estratégica. Editorial UOC. https://losqueno.com/wp-content/uploads/2015/04/DICCIONARIO-DISE--O.pdf',
-      link:
-        'https://losqueno.com/wp-content/uploads/2015/04/DICCIONARIO-DISE--O.pdf',
+        'Roig, F. A. (2011). La estrategia creativa: Relaciones entre concepto e idea. Ediciones Infinito.',
+    },
+    {
+      referencia: 'Vila, F. (2013). Comunicación Estratégica. Editorial UOC.',
     },
     {
       referencia:
@@ -250,12 +266,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -272,12 +288,12 @@ export default {
         {
           nombre: 'Leidy Johana Velásquez Hernández',
           cargo: 'Experta temática',
-          centro: 'Regional Antioquía - Diseño, Confección y Moda ',
+          centro: 'Regional Antioquia - Diseño, Confección y Moda ',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta temática',
-          centro: 'Regional Antioquía - Diseño, Confección y Moda ',
+          centro: 'Regional Antioquia - Diseño, Confección y Moda ',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz',
@@ -297,7 +313,7 @@ export default {
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -312,8 +328,18 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>Full-Stack</i>',
+          cargo: 'Desarrolladora <i>full-stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Lucenith Pinilla',
+          cargo: 'Desarrolladora <i>full-stack</i>',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -322,16 +348,11 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: '--',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },

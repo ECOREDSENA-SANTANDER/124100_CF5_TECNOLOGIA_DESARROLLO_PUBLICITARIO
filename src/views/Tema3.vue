@@ -39,9 +39,9 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img5.svg', alt='')
       .col-sm-12.col-lg-8
-        p.mb-4 Para llevar a cabo el proceso creativo, es importante contar con toda la información posible del problema #[b que se busca solucionar, así como tener claro que la creatividad no es un chispazo que llega de la nada generando ideas asombrosas]; por el contrario, implica un diagnóstico previo de las situaciones para las que se están generando ideas, ya que suena imposible pensar en algo que no se conoce o de lo que no se sabe nada. Es por esto por lo que, en campos como #[b  publicidad, el diseño o la producción audiovisual,] el primer paso para el desarrollo creativo sea el brief.
+        p.mb-4 Para llevar a cabo el proceso creativo, es importante contar con toda la información posible del problema #[b que se busca solucionar, así como tener claro que la creatividad no es un chispazo que llega de la nada generando ideas asombrosas]; por el contrario, implica un diagnóstico previo de las situaciones para las que se están generando ideas, ya que suena imposible pensar en algo que no se conoce o de lo que no se sabe nada. Es por esto por lo que, en campos como #[b  publicidad, el diseño o la producción audiovisual,] el primer paso para el desarrollo creativo sea el #[i brief].
         .cajon.color-secundario.p-4
-          p.mb-0 #[b Para el desarrollo de la creatividad, no hay una fórmula mágica,] porque no todas las personas piensan de la misma manera, pues para algunas es más efectivo meditar, para otros caminar y para otros tomar notas y hacer dibujos o mamarrachos en una hoja; lo cierto, es que todas las personas son creativas, la diferencia radica en que algunas tienen ideas constantemente y las llevan a cabo
+          p.mb-0 #[b Para el desarrollo de la creatividad, no hay una fórmula mágica,] porque no todas las personas piensan de la misma manera, pues para algunas es más efectivo meditar, para otros caminar y para otros tomar notas y hacer dibujos o mamarrachos en una hoja; lo cierto, es que todas las personas son creativas, la diferencia radica en que algunas tienen ideas constantemente y las llevan a cabo.
     p.fw-bold.mb-0 A continuación, se presentan algunos de los métodos más populares para el proceso creativo y la forma como se llevan a cabo. Se relacionan, sobre todo, los más utilizados en el desarrollo de estrategias de comunicación y publicidad:
     Separador
     #t_3_1.titulo-segundo.color-secundario
@@ -76,7 +76,7 @@
             | #[b Calentamiento:] ejercitación del grupo para un mejor funcionamiento colectivo. Ejemplo: decir objetos que valgan menos de $1.000, nombrar todas las cosas blandas que se nos ocurran, etc.
           li 
             i.fas.fa-check-circle.color-primario
-            | #[b Generación de ideas:] se establece un número de ideas al que queremos llegar; se marca el tiempo durante el que vamos a trabajar. Y las cuatro reglas fundamentales que se mencionan a continuación:
+            | #[b Generación de ideas:] se establece un número de ideas al que queremos llegar; se marca el tiempo durante el que vamos a trabajar y se tiene en cuenta las cuatro reglas fundamentales que se mencionan a continuación:
         .px-2
           ol.lista-ol--cuadro
             li
@@ -102,7 +102,7 @@
           .col-sm-12.col-lg-10
             .row.justify-content-center.align-items-end
               .col-sm-12.col-lg-9
-                h5.mb-4 Ejemplo: ¿Qué podemos hacer para mejorar los problemas del tráfico urbano?.
+                h5.mb-4 Ejemplo: ¿Qué podemos hacer para mejorar los problemas del tráfico urbano?
                 p.mb-4 #[b Respuestas:] quemar los coches, vivir en el campo, restringir los días de circulación, aumentar muchísimo el precio de los coches, aumentar muchísimo el precio de la gasolina, ir en bici, ir a pie, no salir de casa, vivir todos en la misma casa, trabajar y vivir en el mismo edificio, penalizar el uso del coche, pinchar todas las ruedas, etc. 
                 p.mb-5 #[b Trabajo con las ideas:] las ideas existenstes pueden mejorarse mediante la aplicación de una lista de control; también se pueden agregar otras ideas. Osborn, recomienda el empleo de preguntas como las que siguen:
               .col-sm-12.col-lg-3.d-none.d-lg-block.mb-5
@@ -115,30 +115,30 @@
                     span #[b Idea:] no salir de casa.
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
-                    span #[b Aplicar de otro modo:] ¿Cómo vivir sin salir de casa?.
+                    span #[b Aplicar de otro modo:] ¿Cómo vivir sin salir de casa?
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
-                    span #[b Modificar:] ¿Cómo salir de casa sin usar el coche?.
+                    span #[b Modificar:] ¿Cómo salir de casa sin usar el coche?
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
-                    span #[b Ampliar:] ¿Cómo estar siempre fuera de casa sin coche?.
+                    span #[b Ampliar:] ¿Cómo estar siempre fuera de casa sin coche?
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
-                    span #[b Reducir:] ¿Cómo salir en coche solo una vez por semana?.
+                    span #[b Reducir:] ¿Cómo salir en coche solo una vez por semana?
               .col-sm-12.col-lg-6
                 ul.lista-ul
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
-                    span #[b Reorganizar:] ¿Cómo trabajar y vivir sin coche?.
+                    span #[b Reorganizar:] ¿Cómo trabajar y vivir sin coche?
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
-                    span #[b Invertir:] ¿Cómo vivir siempre en un coche?.
+                    span #[b Invertir:] ¿Cómo vivir siempre en un coche?
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
-                    span #[b Combinar:] ¿Cómo varios desconocidos usan el coche?.
+                    span #[b Combinar:] ¿Cómo varios desconocidos usan el coche?
                   li.d-flex 
                     i.fas.fa-check-circle.color-primario
-                    span #[b Sustituir:] ¿Cómo saber que los demás no sacan el coche?.
+                    span #[b Sustituir:] ¿Cómo saber que los demás no sacan el coche?
               
 
       .row.justify-content-center.mb-5.card-01
@@ -201,7 +201,7 @@
       .titulo-sexto.color-secundario.mt-3
         h5 Tabla 1.
         span
-          |  Matriz ejemplo combinaciones diferentes, análisis morfológico
+          |  Matriz ejemplo combinaciones diferentes, análisis morfológico.
       p.fw-bold Una empresa de lácteos está buscando realizar un nuevo proceso de promoción para su nueva leche saborizada con vitaminas dirigida a adultos mayores.
       p A continuación, se presenta un ejemplo:
       .row.justify-content-center.mt-4
@@ -312,7 +312,7 @@
       .col-sm-12.col-lg-8
         .cajon.color-acento-contenido.py-4.mb-4.px-5
           .h5 Importante:
-          p.mb-0 una vez que ya hemos definido el objetivo creativo y que hemos generado unas cuantas ideas en una lluvia de ideas, nos disponemos a darle un giro de tuerca más.
+          p.mb-0 Una vez que ya hemos definido el objetivo creativo y que hemos generado unas cuantas ideas en una lluvia de ideas, nos disponemos a darle un giro de tuerca más.
     p.fw-bold Ejemplo: “Queremos ideas para mejorar los parques infantiles públicos”.
     .titulo-sexto.color-secundario.mt-3
         h5 Tabla 2.
@@ -411,74 +411,74 @@
             ul.lista-ul.lista-ul--separador
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Cuándo?, ¿Qué clase de?, ¿Con qué?.
+                span ¿Cuándo?, ¿Qué clase de?, ¿Con qué?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Por qué?, ¿Cuáles?, ¿En qué?.
+                span ¿Por qué?, ¿Cuáles?, ¿En qué?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Qué?, ¿Para cuál?, ¿Acerca de qué?.
+                span ¿Qué?, ¿Para cuál?, ¿Acerca de qué?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Por medio de qué?, ¿Con quién?, ¿De qué?.
+                span ¿Por medio de qué?, ¿Con quién?, ¿De qué?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Qué clase de?, ¿De dónde?, ¿Hacia dónde?.
+                span ¿Qué clase de?, ¿De dónde?, ¿Hacia dónde?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Para qué?, ¿Por qué causa?, ¿Por cuánto tiempo?.
+                span ¿Para qué?, ¿Por qué causa?, ¿Por cuánto tiempo?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿A quién?, ¿De quién?, ¿Más?.
+                span ¿A quién?, ¿De quién?, ¿Más?
           .col-lg-6
             ul.lista-ul.lista-ul--separador
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Para quién?, ¿Cómo?, ¿Más a menudo?.
+                span ¿Para quién?, ¿Cómo?, ¿Más a menudo?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Quién?, ¿En qué medida?, ¿Menos?.
+                span ¿Quién?, ¿En qué medida?, ¿Menos?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Todos?, ¿Cuánto?.
+                span ¿Todos?, ¿Cuánto?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿No todos?, ¿A qué distancia?, ¿Para qué?.
+                span ¿No todos?, ¿A qué distancia?, ¿Para qué?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Importante?, ¿Dónde?, ¿De dónde?.
+                span ¿Importante?, ¿Dónde?, ¿De dónde?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Otra vez?, ¿En qué otro lugar?, ¿Más difícil?.
+                span ¿Otra vez?, ¿En qué otro lugar?, ¿Más difícil?
               li.d-flex 
                 i.fas.fa-check-circle.color-primario
-                span ¿Cuántas veces?.
+                span ¿Cuántas veces?
 
     .fullview
       .row.justify-content-center.align-items-center.mb-5.p-5
         .col-sm-12.col-lg-5
-          p.fw-bold Ejemplo: la motivación de los trabajadores. ¿Cómo incrementarla?.
+          p.fw-bold Ejemplo: la motivación de los trabajadores. ¿Cómo incrementarla?
           p.mb-5 Planteamiento del problema: exploración.
           p.title-card-02.mb-4 Preguntas para plantear:
           ul.lista-ul.lista-ul--separador
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cuándo están motivados los trabajadores?.
+              span ¿Cuándo están motivados los trabajadores?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Por qué aumenta su motivación?.
+              span ¿Por qué aumenta su motivación?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Por cuánto tiempo están motivados?.
+              span ¿Por cuánto tiempo están motivados?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Con quién incrementan la motivación?.
+              span ¿Con quién incrementan la motivación?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Todos se motivan?.
+              span ¿Todos se motivan?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Por medio de qué se motivan?.
+              span ¿Por medio de qué se motivan?
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema3/img30.svg')
     .row.justify-content-center.mb-5
@@ -563,12 +563,12 @@
                 td 9. Hablar
                 td.text-center 46
 
-    p  Las combinaciones de números de la columna 3 generan combinaciones para el desarrollo de ideas: el 70 por ejemplo es cultura y hablar: en este caso la idea puede ser generar Podcast en los que la revista realice conversatorios cortos de cultura de forma periódica y atraer a un público específico.
+    p  Las combinaciones de números de la columna 3 generan combinaciones para el desarrollo de ideas: el 70 por ejemplo es cultura y hablar: en este caso la idea puede ser generar #[i Podcast] en los que la revista realice conversatorios cortos de cultura de forma periódica y atraer a un público específico.
     p.mb-5 La combinación 21 es juegos y comer, en este caso se produce la idea de realizar juegos en línea con preguntas de gastronomía y generar como premio bonos en restaurantes de patrocinadores.
     .d-flex.mb-4  
       h4.title-card-acento-contenido Mapas 
       h4.title-card-comp &nbsp;mentales
-    p Es una técnica creada por Tony Buzan, investigador en el campo de la inteligencia y presidente de la Brain Foundation.
+    p Es una técnica creada por Tony Buzan, investigador en el campo de la inteligencia y presidente de la #[i Brain Foundation].
     p.mb-4 #[b La importancia de los mapas mentales radica en que son una expresión de una forma de pensamiento: ] el pensamiento irradiante. El mapa mental es una técnica gráfica que permite acceder al potencial del cerebro. #[b Su principal aplicación en el proceso creativo es la exploración del problema y la generación de ideas.  ]En la exploración del problema es recomendable su uso para tener distintas perspectivas de este.
     p Para su elaboración se realizan los siguientes pasos:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
@@ -634,14 +634,14 @@
           .tarjeta.color-acento-contenido.w-100.px-5
             .text-white.py-4.px-5.text-center
               h4.text-center Establecimiento del problema:
-              p.mb-0 el problema ha sido ya reformulado (ver mapas mentales, arte de preguntar) y es el momento de generar ideas para su solución.
+              p.mb-0 El problema ha sido ya reformulado (ver mapas mentales, arte de preguntar) y es el momento de generar ideas para su solución.
       .col-sm-12.col-md-6.col-lg-6
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img41.svg')
           .tarjeta.color-acento-contenido.w-100.px-5
             .text-white.py-4.px-5.text-center
               h4.text-center El problema planteado:
-              p.mb-0 alternativas lúdicas a los sábados por la noche.
+              p.mb-0 Alternativas lúdicas a los sábados por la noche.
     h4 Planteamiento de las preguntas SCAMPER
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--green")
       .row.justify-content-around(titulo="Sustituir")
@@ -650,19 +650,19 @@
           ul.lista-ul.lista-ul--separador
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Qué pasaría si se saliera los martes?.
+              span ¿Qué pasaría si se saliera los martes?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Y si las fiestas son en el campo en vez de en la ciudad?.
+              span ¿Y si las fiestas son en el campo en vez de en la ciudad?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Qué podemos cambiar de la noche del sábado?.
+              span ¿Qué podemos cambiar de la noche del sábado?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Y si cambiamos el alcohol por regalos?.
+              span ¿Y si cambiamos el alcohol por regalos?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Y si cambiamos la noche por el día?.
+              span ¿Y si cambiamos la noche por el día?
         .col-sm-12.col-lg-4
             img(src='@/assets/curso/temas/tema3/img42.svg')
       .row.justify-content-around(titulo="Combinar")
@@ -671,13 +671,13 @@
           ul.lista-ul.lista-ul--separador
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Y si el sábado noche se hicieran competiciones deportivas? ¿Y si el sábado por la noche el cine fuera gratis?.
+              span ¿Y si el sábado noche se hicieran competiciones deportivas? ¿Y si el sábado por la noche el cine fuera gratis?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo combinar la diversión con el silencio?.
+              span ¿Cómo combinar la diversión con el silencio?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo divertirnos más días, aunque trabajemos?.
+              span ¿Cómo divertirnos más días, aunque trabajemos?
         .col-sm-12.col-lg-4
             img(src='@/assets/curso/temas/tema3/img43.svg')
       .row.justify-content-around(titulo="Adaptar")
@@ -686,19 +686,19 @@
           ul.lista-ul.lista-ul--separador
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Qué se ha hecho en otros sitios?.
+              span ¿Qué se ha hecho en otros sitios?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo se divierte la gente en Laponia?.
+              span ¿Cómo se divierte la gente en Laponia?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Y en Mongolia?.
+              span ¿Y en Mongolia?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo se divertía la gente hace 50 años en España?.
+              span ¿Cómo se divertía la gente hace 50 años en España?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo nos gustaría divertirnos en el futuro: dentro de 100 años?.
+              span ¿Cómo nos gustaría divertirnos en el futuro: dentro de 100 años?
         .col-sm-12.col-lg-4
             img(src='@/assets/curso/temas/tema3/img44.svg')
       .row.justify-content-around(titulo="Modificar")
@@ -707,16 +707,16 @@
           ul.lista-ul.lista-ul--separador
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo salir y no beber alcohol?.
+              span ¿Cómo salir y no beber alcohol?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo hacer una fiesta sin ruido?.
+              span ¿Cómo hacer una fiesta sin ruido?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo divertirnos sin dinero?.
+              span ¿Cómo divertirnos sin dinero?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Cómo conocer gente interesante sin tener que beber?.
+              span ¿Cómo conocer gente interesante sin tener que beber?
         .col-sm-12.col-lg-4
             img(src='@/assets/curso/temas/tema3/img47.svg')
       .row.justify-content-around(titulo="Utilizarlo para otros usos")
@@ -725,19 +725,16 @@
           ul.lista-ul.lista-ul--separador
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Qué hay en los parques durante la noche de los sábados?.
+              span ¿Qué hay en los parques durante la noche de los sábados?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span 
+              span ¿Quién está en las bibliotecas la noche de los sábados?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Quién está en las bibliotecas la noche de los sábados?.
+              span ¿Qué hay en los colegios la noche de los sábados?
             li.d-flex 
               i.fas.fa-check-circle.color-primario
-              span ¿Qué hay en los colegios la noche de los sábados?.
-            li.d-flex 
-              i.fas.fa-check-circle.color-primario
-              span ¿Y en los museos? ¿Y en las escuelas de teatro y cuentacuentos...?.
+              span ¿Y en los museos? ¿Y en las escuelas de teatro y cuentacuentos?
         .col-sm-12.col-lg-4
             img(src='@/assets/curso/temas/tema3/img45.svg')
       .row.justify-content-around(titulo="Eliminar")

@@ -29,7 +29,7 @@
             i.fas.fa-check-circle.color-primario
             |  #[b Plazo:] en qué tiempo se puede lograr el objetivo planteado teniendo en cuenta los recursos disponibles.
 
-        p Tipos de objetivos, de acuerdo con el post publicado por el sitio web Publicidad y promoción (2010):
+        p Tipos de objetivos, de acuerdo con el post publicado por el sitio #[i web] Publicidad y promoción (2010):
 
       .col-sm-12.col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img2.png', alt='')
@@ -51,14 +51,14 @@
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 2
-                span  #[b De branding:] que se desea hacer con la marca: mejorarla, posicionarla, darla a conocer, fortalecer su brand value o el brand equity, trabajar su naming, etc.
+                span  #[b De #[i branding]:] que se desea hacer con la marca: mejorarla, posicionarla, darla a conocer, fortalecer su brand value o el brand equity, trabajar su naming, etc.
 
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 3
                 span  #[b Institucionales:] se trabaja sobre la imagen corporativa y la identidad de la empresa u organización en general.
 
-      .p-4(titulo="Objetivos de comunicacion")
+      .p-4(titulo="Objetivos de comunicación")
         .row.justify-content-center.align-items-center.mb-5
           .col-sm-12.col-lg-6.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema5/img4.svg', alt='')
@@ -126,7 +126,7 @@
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Este es un concepto utilizado de forma casi exclusiva por creativos y algunas agencias de publicidad; es un paso más allá de la segmentación de mercados y permite conocer de forma individual a los consumidores de un producto o servicio, obteniendo de ellos información detallada de su comportamiento, gustos, intereses y deseos.
         p.mb-3 El desarrollo del #[i target] comunicacional se realiza con técnicas de investigación cualitativa y lo más adecuado es que #[b el proceso sea llevado a cabo por personas con estudios en psicología del consumidor, antropología o sociología]. El método más preciso y utilizado para el desarrollo de un #[i target] comunicacional es la observación.
-        p.mb-3 El fin del desarrollo de este punto, es obtener toda la información posible del mercado objetivo a través de la individualización de los consumidores; en ese orden de ideas, es posible que sea necesario realizar varios targets comunicacionales y por lo tanto, varias versiones del mensaje, de acuerdo con las características de cada uno de ellos.
+        p.mb-3 El fin del desarrollo de este punto, es obtener toda la información posible del mercado objetivo a través de la individualización de los consumidores; en ese orden de ideas, es posible que sea necesario realizar varios #[i targets] comunicacionales y por lo tanto, varias versiones del mensaje, de acuerdo con las características de cada uno de ellos.
         p.mb-0 A continuación, se indica el proceso para realizar el #[i target] comunicacional:
       
       .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -137,7 +137,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-7
         p Este proceso ya se ha llevado a cabo anteriormente, en este caso, se debe considerar el mercado real y el análisis psicográfico realizado. Dicho mercado debe dividirse en nichos o grupos específicos utilizando una recta numérica sencilla, basada en variables básicas. 
-        p #[i Por ejemplo:] si el mercado real está compuesto por mujeres de 20 a 35 años de edad, pertenecientes a los estratos 3, 4 y residentes de las principales ciudades de Colombia, se elabora la siguiente gráfica, la cual se irá modificando a medida que se realice el análisis correspondiente en este tema.
+        p #[b Por ejemplo:] si el mercado real está compuesto por mujeres de 20 a 35 años de edad, pertenecientes a los estratos 3, 4 y residentes de las principales ciudades de Colombia, se elabora la siguiente gráfica, la cual se irá modificando a medida que se realice el análisis correspondiente en este tema.
       .col-sm-12.col-lg-5
         .titulo-sexto.color-secundario
           h5 Figura 1.
@@ -151,9 +151,9 @@
         img(src='@/assets/curso/temas/tema5/img9.svg', alt='')
 
       .col-sm-12.col-lg-8
-        p Con esta información es hora de tomar decisiones en cuanto a cuál o cuáles serán los targets comunicacionales. En este punto hay que tener en cuenta varios aspectos: el presupuesto de la campaña, si este es limitado es posible que deba realizarse un solo modelo de anuncio que abarque todo el mercado objetivo; las características del mercado al que va dirigida la campaña, en el caso del ejemplo es necesario preguntarse si existen coincidencias psicográficas en las mujeres de 20 a 35 años que se puedan incluir en un anuncio y las identifique a ambas, o en el desarrollo del mensaje incluir temáticas que sean compatibles con todas.
+        p Con esta información es hora de tomar decisiones en cuanto a cuál o cuáles serán los #[i targets] comunicacionales. En este punto hay que tener en cuenta varios aspectos: el presupuesto de la campaña, si este es limitado es posible que deba realizarse un solo modelo de anuncio que abarque todo el mercado objetivo; las características del mercado al que va dirigida la campaña, en el caso del ejemplo es necesario preguntarse si existen coincidencias psicográficas en las mujeres de 20 a 35 años que se puedan incluir en un anuncio y las identifique a ambas, o en el desarrollo del mensaje incluir temáticas que sean compatibles con todas.
         .cajon.color-acento-contenido.p-4
-          p.mb-0.fw-bold Para el desarrollo del #[i target] comunicacional se deben entonces definir a partir de ese análisis psicográfico, los targets que se van a realizar; para ello, se seguirá aún más el mercado real teniendo en cuenta gustos, intereses, formas de pensar, proyectos a futuro, etc.
+          p.mb-0.fw-bold Para el desarrollo del #[i target] comunicacional se deben entonces definir a partir de ese análisis psicográfico, los #[i targets] que se van a realizar; para ello, se seguirá aún más el mercado real teniendo en cuenta gustos, intereses, formas de pensar, proyectos a futuro, etc.
     .d-flex.mb-4  
       h4.title-card-acento-contenido Selección&nbsp;&nbsp;
     .row.justify-content-center.align-items-center.mb-5
@@ -207,7 +207,7 @@
           .col-sm-12.col-lg-10
             p.mb-0 El fin de semana, por lo general hay un cambio de rutina, puede ser que estén realizando estudios de postgrado o actividades deportivas y recreativas. Los planes, proyectos e intereses deben incluirse en la historia como situaciones del día a día.
         .cajon.color-acento-botones.p-4.mb-4
-          p.mb-0 #[b Por ejemplo:] decir que la protagonista está planeando un viaje con su novio y deciden hacer las reservaciones de hoteles con varios meses de anticipación a través de sitios web especializados. También deben incluirse detalles de la música que escuchan, la comida que piden o preparan.
+          p.mb-0 #[b Por ejemplo:] decir que la protagonista está planeando un viaje con su novio y deciden hacer las reservaciones de hoteles con varios meses de anticipación a través de sitios #[i web] especializados. También deben incluirse detalles de la música que escuchan, la comida que piden o preparan.
 
     Separador
     #t_5_3.titulo-segundo.color-secundario
@@ -240,7 +240,7 @@
     .d-flex.mb-3  
       h4.title-card-acento-contenido Estructura  
       h4.title-card-comp &nbsp;del concepto creativo
-    p.mb-5 El concepto es también un proceso que permite al mensaje tener más definición y a la estrategia creativa un norte, por eso es importante que estos elementos se desarrollen teniendo en cuenta todos los parámetros ya establecidos en el brief y en los antecedentes de la marca.
+    p.mb-5 El concepto es también un proceso que permite al mensaje tener más definición y a la estrategia creativa un norte, por eso es importante que estos elementos se desarrollen teniendo en cuenta todos los parámetros ya establecidos en el #[i brief] y en los antecedentes de la marca.
     h4 Tipo
     p Cada campaña o estrategia de comunicación que se realice está ligada a un momento específico de la marca, producto, servicio o empresa. Cada producto o servicio atraviesa unas etapas durante su proceso comercial y cada una de ellas comprende un proceso de comunicación especial. Estas etapas están consignadas en el ciclo de vida del producto.
     .titulo-sexto.color-secundario
@@ -261,7 +261,7 @@
         .tarjeta.color-acento-botones--borde.p-4(titulo="I+D+I")
           p.mb-0 Esta es la etapa de ideación del producto o servicio, en este punto no hay comunicación masiva; sin embargo, es posible que en el desarrollo de las pruebas de mercadeo se realicen estrategias de comunicación dirigidas a segmentos muy específicos, con el fin de probar la respuesta del grupo objetivo al nombre del producto, al empaque o al estilo de comunicación que han planteado para hacer ajustes antes de su introducción definitiva al mercado.
         .tarjeta.color-acento-botones--borde.p-4(titulo="Introducción")
-          p.mb-0 En esta etapa el producto es puesto en oferta; es decir, se pone a disposición de los compradores y consumidores. La comunicación que se realiza en este punto es de lanzamiento; aquí es necesario ser enfático en sus beneficios, tanto el principal como los secundarios y la comunicación se realiza utilizando todos los medios posibles y el concepto debe conectar con el consumidor. En ocasiones y cuando las marcas tienen un alto nivel de posicionamiento, es posible que realicen un Teaser, es decir, una etapa inicial con expectativa, generando inquietud en los consumidores y con ello, generar impulso de compra.
+          p.mb-0 En esta etapa el producto es puesto en oferta; es decir, se pone a disposición de los compradores y consumidores. La comunicación que se realiza en este punto es de lanzamiento; aquí es necesario ser enfático en sus beneficios, tanto el principal como los secundarios y la comunicación se realiza utilizando todos los medios posibles y el concepto debe conectar con el consumidor. En ocasiones y cuando las marcas tienen un alto nivel de posicionamiento, es posible que realicen un #[i Teaser], es decir, una etapa inicial con expectativa, generando inquietud en los consumidores y con ello, generar impulso de compra.
         .tarjeta.color-acento-botones--borde.p-4(titulo="Crecimiento")
           p.mb-0 En esta etapa del ciclo de vida del producto, la comunicación debe ser constante y enfática en los beneficios; en este proceso se está convenciendo a más miembros del mercado objetivo que se adhieran a la marca y se queden con ella. En este punto se realiza comunicación de mantenimiento, como su nombre lo indica debe mantenerse cautivo el mercado ganado y ganar más para lograr retorno sobre la inversión.
         .tarjeta.color-acento-botones--borde.p-4(titulo="Madurez")
@@ -272,20 +272,6 @@
       h4.title-card-acento-contenido Tono&nbsp;&nbsp;&nbsp;&nbsp;
     p.mb-5 El diseño del mensaje es la parte más complicada y demorada del proceso, el concepto es la base para su elaboración y cada parte de él contribuye poco a poco al desarrollo. El tono constituye un elemento muy importante en la elaboración del mensaje y desarrollo de la idea, porque determina en gran medida la empatía que la marca tiene con el grupo objetivo y muestra rasgos muy relevantes de la personalidad de la marca. Es necesario definir el tono de la comunicación teniendo en cuenta todos esos elementos, pues el mercado suele ser susceptible a ciertos aspectos que pueden llegar a ser ofensivos o transgredir la forma de pensar de algunos miembros del mercado.
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-secundario.p-4
-        .row.justify-content-center.mb-4
-          .col-5
-            img(src='@/assets/curso/temas/tema5/img18.svg')
-        h5.text-center.mt-4 Humorístico
-        p.mt-3.text-center.txt-sistema Es un tono muy utilizado, altamente efectivo y recordativo; sin embargo, no es apto para todas las marcas. Es muy eficiente en publicidad de productos para niños, jóvenes y para productos de consumo masivo.
-        p.mt-3.text-center.txt-sistema Además, debido a las tendencias del mercado, se han lanzado campañas muy exitosas de productos financieros, seguros y telecomunicaciones con tono humorístico.
-
-      .tarjeta.color-secundario.p-4
-        .row.justify-content-center.mb-4
-          .col-5
-            img(src='@/assets/curso/temas/tema5/img19.svg')
-        h5.text-center.mt-4 Aspiracional
-        p.mt-3.text-center.txt-sistema Es un tono muy eficaz para productos financieros, agencias de viajes y educación, tiene un alto nivel de persuasión, aunque es poco recordativo, es efectivo en el momento en que el mercado objetivo es expuesto al mensaje, de ahí su nivel de uso en campañas en medios digitales como la web y las redes sociales. Tiene un enfoque más alto en el mercado de adultos jóvenes.
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-4
           .col-5
@@ -304,9 +290,24 @@
             img(src='@/assets/curso/temas/tema5/img22.svg')
         h5.text-center.mt-4  Emotivo
         p.mt-3.text-center.txt-sistema Es tal vez el más eficaz debido al comportamiento en el consumo de la mayoría de las personas; un alto porcentaje de las compras se realizan motivadas por las emociones, es por eso por lo que muchos anuncios y campañas son realizadas con este tono de comunicación. Tiene el objetivo de hacer brotar sentimientos como la ternura, llanto, compasión, ira y sobrecogimiento. Es muy persuasivo y recordativo.
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-4
+          .col-5
+            img(src='@/assets/curso/temas/tema5/img18.svg')
+        h5.text-center.mt-4 Humorístico
+        p.mt-3.text-center.txt-sistema Es un tono muy utilizado, altamente efectivo y recordativo; sin embargo, no es apto para todas las marcas. Es muy eficiente en publicidad de productos para niños, jóvenes y para productos de consumo masivo.
+        p.mt-3.text-center.txt-sistema Además, debido a las tendencias del mercado, se han lanzado campañas muy exitosas de productos financieros, seguros y telecomunicaciones con tono humorístico.
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-4
+          .col-5
+            img(src='@/assets/curso/temas/tema5/img19.svg')
+        h5.text-center.mt-4 Aspiracional
+        p.mt-3.text-center.txt-sistema Es un tono muy eficaz para productos financieros, agencias de viajes y educación, tiene un alto nivel de persuasión, aunque es poco recordativo, es efectivo en el momento en que el mercado objetivo es expuesto al mensaje, de ahí su nivel de uso en campañas en medios digitales como la #[i web] y las redes sociales. Tiene un enfoque más alto en el mercado de adultos jóvenes.
+      
     .d-flex.mb-4  
         h4.title-card-acento-contenido Tema&nbsp;&nbsp;&nbsp;&nbsp;
-    p.mb-5 El tema es un elemento subjetivo y es donde se da rienda suelta a la creatividad, es en este punto donde el target comunicacional realizado anteriormente toma mayor relevancia, pues en cada uno de los detalles descritos en él, se pueden encontrar temas que sean eficaces para el diseño del mensaje. El tema se refiere a un momento, lugar y situación específicos en la que se desarrollará el mensaje, ya sea audiovisual, impreso, digital, textual o auditivo.
+    p.mb-5 El tema es un elemento subjetivo y es donde se da rienda suelta a la creatividad, es en este punto donde el #[i target] comunicacional realizado anteriormente toma mayor relevancia, pues en cada uno de los detalles descritos en él, se pueden encontrar temas que sean eficaces para el diseño del mensaje. El tema se refiere a un momento, lugar y situación específicos en la que se desarrollará el mensaje, ya sea audiovisual, impreso, digital, textual o auditivo.
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img23.svg')
@@ -316,16 +317,16 @@
     .d-flex.mb-4  
       h4.title-card-acento-contenido El racional  
       h4.title-card-comp &nbsp;creativo
-    p El racional creativo es un documento que recoge toda la información anterior en una idea concreta; es decir, es la idea en sí, descrita y estructurada. #[b Para su desarrollo es necesario tener en cuenta todos los elementos de la estrategia: descripción del mercado objetivo, target comunicacional y concepto creativo.]
-    p.mb-5 Adicionalmente, el racional creativo debe tener dentro de su base dos elementos inspiradores que tal vez se hayan detectado en el proceso de investigación y desarrollo del target comunicacional; la propuesta de valor y el key #[i insight].
+    p El racional creativo es un documento que recoge toda la información anterior en una idea concreta; es decir, es la idea en sí, descrita y estructurada. #[b Para su desarrollo es necesario tener en cuenta todos los elementos de la estrategia: descripción del mercado objetivo, #[i target] comunicacional y concepto creativo.]
+    p.mb-5 Adicionalmente, el racional creativo debe tener dentro de su base dos elementos inspiradores que tal vez se hayan detectado en el proceso de investigación y desarrollo del #[i target] comunicacional; la propuesta de valor y el key #[i insight].
     .fullview-2
       .row.justify-content-center.align-items-center.mb-5.p-5
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema5/img24.svg')
         .col-sm-12.col-lg-9
           h4.text-white Propuesta de valor
-          p.mb-5 Hoy en día se hace mucho énfasis en este elemento y se suele confundir con el factor diferenciador de un producto o servicio. El diferenciador o USP (Unique Selling Propotition) es una técnica que se debe al publicista Rosser Reeves de la agencia norteamericana Ted Bates and Company, que ha terminado siendo un referente universal de la publicidad.
-          a.boton.color-acento-botones.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+          p.mb-5 Hoy en día se hace mucho énfasis en este elemento y se suele confundir con el factor diferenciador de un producto o servicio. El diferenciador o USP (#[i Unique Selling Propotition]) es una técnica que se debe al publicista Rosser Reeves de la agencia norteamericana Ted Bates and Company, que ha terminado siendo un referente universal de la publicidad.
+          a.boton.color-acento-botones.me-3(:href="obtenerLink('/downloads/propuestadevalor_infografia.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .row.justify-content-center.align-items-center.mb-5
@@ -333,7 +334,7 @@
         img(src='@/assets/curso/temas/tema5/img25.png')
 
       .col-sm-12.col-lg-8
-        p La Unique Selling Proposition (literalmente, propuesta única de venta) ordena que el producto debe representar para el público una Proposición concreta y Única de Venta (PUV), consecuentemente, el mensaje debe basarse en un solo valor: #[b “al adquirir este producto obtiene esta ventaja diferente”. ] (Roig, 2011)
+        p La #[i Unique Selling Proposition] (literalmente, propuesta única de venta) ordena que el producto debe representar para el público una Proposición concreta y Única de Venta (PUV), consecuentemente, el mensaje debe basarse en un solo valor: #[b “al adquirir este producto obtiene esta ventaja diferente”. ] (Roig, 2011)
         p.mb- Sin embargo, la propuesta de valor es un concepto más evolucionado, este método fue creado por Cindy Barnes, Helen Blake, David Pinder en 2009, mencionado en su libro: #[i Creating and Delivering Your Value Proposition: Managing Customer Experience for Profit. ]
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-3 La propuesta de valor es más que un diferenciador, es una promesa que se hace al cliente a través del producto y se expresa con el o los beneficios que este le proporciona. La fórmula para determinar el valor de un producto se expresa de la siguiente manera:  
@@ -343,7 +344,7 @@
       h4.title-card-acento-contenido Los #[i insights]
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-9
-        p Los #[i insights] representan un aspecto culto, profundo y a menudo inconsciente del pensamiento, sentimiento o comportamiento del consumidor que explica la relación estrecha, emocional y simbólica que este sostiene con los productos o servicios que consume o usa. La identificación y desarrollo de #[i insights] del consumidor bajo la forma de promesas publicitarias, estrategias de comunicación y diseño de nuevos productos, es la clave para el éxito del negocio, pero su puesta en marcha no siempre es sencilla. A menudo requiere altas dosis de intuición, olfato psicológico, empatía y sobre todo suerte (lograr descubrimientos afortunados por accidente). El momento de descubrimiento de un consumer #[i insights] es un momento de elevada revelación e inspiración.
+        p Los #[i insights] representan un aspecto culto, profundo y a menudo inconsciente del pensamiento, sentimiento o comportamiento del consumidor que explica la relación estrecha, emocional y simbólica que este sostiene con los productos o servicios que consume o usa. La identificación y desarrollo de #[i insights] del consumidor bajo la forma de promesas publicitarias, estrategias de comunicación y diseño de nuevos productos, es la clave para el éxito del negocio, pero su puesta en marcha no siempre es sencilla. A menudo requiere altas dosis de intuición, olfato psicológico, empatía y sobre todo suerte (lograr descubrimientos afortunados por accidente). El momento de descubrimiento de un #[i consumer  insights] es un momento de elevada revelación e inspiración.
         p El #[i insight] es una palabra que #[b proviene de la psicología, y se utiliza cuando el psicoterapeuta puede entender con claridad el problema (motivo de consulta) de su paciente luego de largas sesiones de auscultarlo y conversar con él.] Ese momento, el de la revelación, es propiamente un #[i insight] pues el terapeuta comprende el origen del problema y las motivaciones más ocultas del paciente para actuar de la forma que hace.
         p.fw-bold La publicidad utiliza el concepto cuando un creativo identifica datos reveladores sobre la conducta del consumidor que antes no pensaba, sabía o tenía en mente.
       .col-sm-12.col-lg-3.d-none.d-lg-block
@@ -351,9 +352,12 @@
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
         .bloque-texto-c.color-secundario.p-4
-          i.fas.fa-quote-right
-          p.fw-bold.mb-3.mt-2 El #[i insight] psicológico permite así comprender a los productos no solo como satisfactores de necesidades biológicas o funcionales, sino también como de gustos y demandas en ocasiones no consientes.
-          span - (Roig, 2011)
+          .d-flex
+            i.fas.fa-quote-left
+            p.fw-bold.mb-3.mt-2.mx-3 El #[i insight] psicológico permite así comprender a los productos no solo como satisfactores de necesidades biológicas o funcionales, sino también como de gustos y demandas en ocasiones no consientes.
+              i.fas.fa-quote-right.com-cus
+          .d-flex.justify-content-end
+            span.mb-3 - (Roig, 2011)
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img27.png')
@@ -371,7 +375,7 @@
               .col-sm-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema5/img29.png', alt='')
               .col-sm-12.col-lg-6
-                h5 Analizar el mercado tal como el consumidor lo percibe. Esto es, mirar el mercado por y desde  él consumidor.
+                h5 Analizar el mercado tal como el consumidor lo percibe. Esto es, mirar el mercado por y desde el consumidor.
             .row.mt-5.justify-content-center.align-items-center(titulo="Paso 3")
               .col-sm-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema5/img30.png', alt='')
@@ -386,7 +390,7 @@
               .col-sm-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema5/img32.png', alt='')
               .col-sm-12.col-lg-6
-                h5 Usando el olfato e intuición psicológica. Un consumer #[i insight] tiene tanto de intuición como de hechos fácticos. (Roig, 2011)
+                h5 Usando el olfato e intuición psicológica. Un #[i consumer  insight] tiene tanto de intuición como de hechos fácticos. (Roig, 2011)
     p Émile Durkheim a mediados del siglo XIX creó el método decir, sentir, actuar; muy eficaz para el hallazgo de #[i insights]; el cual, se representa a través de lo indicado por #[i Consumer truth] (2020):
     .fullview-3.p-4.mb-5
       .tarjeta.tarjeta--white.m-4.p-4
@@ -394,19 +398,19 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-sm-12.col-lg-6
               h4 El decir del consumidor - técnicas facilitadoras: 
-              p.mb-0 trata de técnicas basadas en el decir del consumidor (expresión, ideas, conceptos, creencias en torno al consumo). A través de juegos de palabras, asociación de ideas, #[i brainstorming], #[i collage] de imágenes y otras tareas creativas, el consumidor es ayudado en su proceso de enunciar el porqué de su consumo y la relación estrecha que tiene (o no tiene) con los productos
+              p.mb-0 Trata de técnicas basadas en el decir del consumidor (expresión, ideas, conceptos, creencias en torno al consumo). A través de juegos de palabras, asociación de ideas, #[i brainstorming], #[i collage] de imágenes y otras tareas creativas, el consumidor es ayudado en su proceso de enunciar el porqué de su consumo y la relación estrecha que tiene (o no tiene) con los productos.
             .col-sm-12.col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema5/img34.png', alt='')
           .row.justify-content-center.align-items-center.mb-5
             .col-sm-12.col-lg-6
               h4 El sentir del consumidor – técnicas proyectivas:
-              p.mb-0 trata de técnicas basadas en el sentir del consumidor (sentimientos y emociones profundas que despierta y suscita el consumo). Mediante técnicas basadas en conflictos emocionales, a través de frases/historias incompletas, etc; se logran obtener profundas expresiones emocionales que subyacen el consumo que a menudo son “constreñidas” por el uso de la razón y el imperio de la lógica.
+              p.mb-0 Trata de técnicas basadas en el sentir del consumidor (sentimientos y emociones profundas que despierta y suscita el consumo). Mediante técnicas basadas en conflictos emocionales, a través de frases/historias incompletas, etc; se logran obtener profundas expresiones emocionales que subyacen el consumo que a menudo son “constreñidas” por el uso de la razón y el imperio de la lógica.
             .col-sm-12.col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema5/img35.png', alt='')
           .row.justify-content-center.align-items-center.mb-5
             .col-sm-12.col-lg-6
               h4 El actuar del consumidor – técnicas etnográficas:
-              p.mb-0 trata de técnicas basadas en el hacer (la acción de compra y consumo). El consumidor es observado en su contexto natural y hábitat para observar “#[i in situ]” el comportamiento cotidiano, las dinámicas y rituales del consumo. Se basan en el fundamento que el consumidor suele decir una cosa y hacer otra, entonces es necesario acudir a la observación y no solo a la declaración. Entre estas técnicas se aplican el “Acompañamiento”, “#[i One day in the life]”, “Observación Participante”, “#[i In Home Visit]”, “#[i Shopper Trips]”, entre otras.
+              p.mb-0 Trata de técnicas basadas en el hacer (la acción de compra y consumo). El consumidor es observado en su contexto natural y hábitat para observar “#[i in situ]” el comportamiento cotidiano, las dinámicas y rituales del consumo. Se basan en el fundamento que el consumidor suele decir una cosa y hacer otra, entonces es necesario acudir a la observación y no solo a la declaración. Entre estas técnicas se aplican el “Acompañamiento”, “#[i One day in the life]”, “Observación Participante”, “#[i In Home Visit]”, “#[i Shopper Trips]”, entre otras.
             .col-sm-12.col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema5/img36.png', alt='')
     p.mb-5 Como complemento del proceso de identificación de #[i insights], se recomienda aplicar la pirámide de los #[i insights] que se basa en el trabajo de Mohan Sawhney (2003). #[i Research that Produces Consumer Insights]:
@@ -418,7 +422,7 @@
               img(src='@/assets/curso/temas/tema5/img37.svg')
               figcaption Fuente: SENA (2020), basada en Sawhney (2003)
           .tarjeta.color-cus-1.p-3(x="63%" y="8%" numero="")
-            p.mb-0 Estrategia de innovación, #[i branding] o comunicación basados en consumer #[i insights].
+            p.mb-0 Estrategia de innovación, #[i branding] o comunicación basados en  #[i consumer insights].
           .tarjeta.color-cus-2.p-3(x="72.5%" y="26%" numero="")
             p.mb-0 Verdades desnudas del consumidor que conectan las marcas con las personas, de forma poco evidente.
           .tarjeta.color-cus-3.p-3(x="82%" y="46%" numero="")
