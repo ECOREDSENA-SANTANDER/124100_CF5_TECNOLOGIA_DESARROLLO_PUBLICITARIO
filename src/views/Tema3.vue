@@ -52,9 +52,9 @@
         p A continuación, se indican las técnicas más utilizadas para estimular la producción de ideas y su evaluación, de acuerdo con los descrito por la Fundación Neuronilla para la Creatividad y la Innovación (2020):
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img6.svg', alt='')
-    .d-flex  
-      h4.title-card-acento-contenido Lluvia de ideas 
-      h4.title-card-comp &nbsp; o #[i Brainstorming] 
+    .d-flex.align-items-center.my-5
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Lluvia de ideas o #[i Brainstorming] 
     p Esta técnica fue desarrollada por Alex Osborn (especialista en creatividad y publicidad) en los años 30 y publicada en 1963 en el libro #[b “#[i Applied Imagination]”]. Es la técnica más conocida y utilizada, además, es la base sobre la que se realizan otras técnicas. La lluvia de ideas se hace en grupos de trabajo.
 
     .row.justify-content-center.mb-5
@@ -145,9 +145,9 @@
         .col-sm-12.col-lg-7.bg5.px-5.py-4
           p.mb-0 #[b Evaluación:] tras la generación de ideas, el grupo establece los criterios con los cuales las va a evaluar. Ejemplos: rentabilidad de la idea, grado de factibilidad, grado de extensión de la idea, etc.              
 
-    .d-flex.m-10-cus.mb-4  
-      h4.title-card-acento-contenido Análisis 
-      h4.title-card-comp &nbsp;morfológico
+    .d-flex.m-10-cus.mb-4.align-items-center.my-5
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Análisis morfológico
     p  Es una de las técnicas más valiosas para generar gran cantidad de ideas en un corto período de tiempo y se desarrolló en los trabajos tecnológicos de la astrofísica y las investigaciones espaciales llevadas a cabo en los años cuarenta, como resultado de los adelantos del astrónomo Fritz Zwicky.
     p Es una técnica combinatoria de ideación creativa consistente en descomponer un concepto o problema en sus elementos esenciales o estructuras básicas. Con sus rasgos o atributos se construye una matriz que nos permitirá multiplicar las relaciones entre tales partes. Así pues, en su forma más básica, el análisis morfológico no es más que la generación de ideas por medio de una matriz. Se realiza llevando a cabo los siguientes pasos:
     .row.justify-content-center.mb-5
@@ -241,8 +241,9 @@
                   td.text-center Publirreportaje
                   td.text-center Prensa - revista
                   td.text-center Más fuerte
-    .d-flex.mt-5.mb-4  
-      h4.title-card-acento-contenido Analogías
+    .d-flex.mt-5.mb-4.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Analogías
     .row.justify-content-center.mb-5.mb-cus
       .col-sm-12.col-lg-8
         p #[b Consiste en resolver un problema mediante un rodeo:] en vez de atacar de frente se compara ese problema o situación con otra cosa. Gordon, creador de la Sinéctica (método creativo basado en el uso de las analogías) insistía en que...
@@ -282,9 +283,9 @@
           .bloque-texto-g__texto.p-4.my-4.d-flex.flex-column
             h4 Intersección
             p.mb-0 “Se necesita un ciclón a domicilio... una tromba de agua... vertical... las paredes serán cilindros que encajan... cuando no nos servimos de ella, formará un asiento o un elemento decorativo...en servicio será un cilindro...y los chorros de agua partirán del suelo o de las paredes y reconstruirán nuestro ciclón...”
-    .d-flex  
-      h4.title-card-acento-contenido Conexiones 
-      h4.title-card-comp &nbsp;morfológicas forzadas
+    .d-flex.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Conexiones morfológicas forzadas
     p Es una propuesta de Koberg y Bagnall que en realidad es la suma de los principios básicos de dos técnicas: el “Listado de Atributos” creado por R. P. Crawford y las #[b “Relaciones Forzadas” ] de Charles S. Whiting.
     p Es muy potente porque en una primera fase facilita que surjan ideas sobre aspectos que no habíamos tenido en cuenta y en la segunda provoca analogías muy inspiradoras.
     p.mb-5 Para realizar esta técnica es necesario seguir los siguientes pasos:
@@ -395,9 +396,9 @@
           .col-sm-12.col-lg-8
             p.mb-0 #[b Redes – centros comerciales – delincuentes – bancos y mesas > idea:] crear una especie de “#[i chill out]”, un espacio en alto acolchado y techado, cómodo para que puedan descansar adultos y niños/as.
 
-    .d-flex.mb-3  
-      h4.title-card-acento-contenido El arte 
-      h4.title-card-comp &nbsp;de preguntar 
+    .d-flex.mb-3.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold El arte  de preguntar 
     p Alex Osborn, experto en creatividad y creador del #[i Brainstorming], afirmaba que #[b “la pregunta es la más creativa de las conductas humanas”]. Osborn desarrolló una serie de preguntas para el #[i Brainstorming] que pueden aplicarse en la exploración del problema.
     p.mb-5 Este es un conjunto fundamental de preguntas que se usan para formular en el problema todos los enfoques que sean posibles y, así, abrir la perspectiva que tenemos del problema. También son útiles para la percepción de nuevos usos, aplicaciones o posibilidades de un producto o un servicio.
 
@@ -484,9 +485,9 @@
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-10
         p.fw-bold.text-center Tras el planteamiento de estas preguntas y sus correspondientes respuestas, la visión del problema es más abierta. Tenemos más perspectivas para abordarlo y pasar a la etapa de generación de ideas.
-    .d-flex  
-      h4.title-card-acento-contenido Listas 
-      h4.title-card-comp &nbsp;cruzadas
+    .d-flex.align-items-center.mb-4
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Listas  cruzadas
     p.mb-0 Consiste en hallar ideas confrontando elementos lejanos entre sí, desde el punto de vista morfológico, sintáctico o utilitario para generar nuevas funciones, formas e ideas.
     p Para el desarrollo de esta actividad de ejemplo, se requieren 3 columnas para realizar la misma cantidad de listados diferentes:
     .row.mt-5
@@ -565,9 +566,9 @@
 
     p  Las combinaciones de números de la columna 3 generan combinaciones para el desarrollo de ideas: el 70 por ejemplo es cultura y hablar: en este caso la idea puede ser generar #[i Podcast] en los que la revista realice conversatorios cortos de cultura de forma periódica y atraer a un público específico.
     p.mb-5 La combinación 21 es juegos y comer, en este caso se produce la idea de realizar juegos en línea con preguntas de gastronomía y generar como premio bonos en restaurantes de patrocinadores.
-    .d-flex.mb-4  
-      h4.title-card-acento-contenido Mapas 
-      h4.title-card-comp &nbsp;mentales
+    .d-flex.mb-4.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Mapas  mentales
     p Es una técnica creada por Tony Buzan, investigador en el campo de la inteligencia y presidente de la #[i Brain Foundation].
     p.mb-4 #[b La importancia de los mapas mentales radica en que son una expresión de una forma de pensamiento: ] el pensamiento irradiante. El mapa mental es una técnica gráfica que permite acceder al potencial del cerebro. #[b Su principal aplicación en el proceso creativo es la exploración del problema y la generación de ideas.  ]En la exploración del problema es recomendable su uso para tener distintas perspectivas de este.
     p Para su elaboración se realizan los siguientes pasos:
@@ -603,8 +604,9 @@
         h4.text-center.title-card.bg6.mx-2.text-white.mt-4 Paso 5
         p.mt-3.text-center.txt-sistema Las ramificaciones forman una estructura nodal.
     p.mb-5 Los mapas mentales se pueden mejorar y enriquecer con colores, imágenes, códigos y dimensiones que les añaden interés, belleza e individualidad.
-    .d-flex.mb-3 
-      h4.title-card-acento-contenido SCAMPER
+    .d-flex.mb-3.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold SCAMPER
     p Es una lista de preguntas que estimulan la generación de ideas. Alex Osborn, el creador del #[i Brainstorming], estableció las primeras. Más tarde fueron dispuestas por Bob Eberle en este mnemotécnico:
     .row.justify-content-center.mb-0
       .col-sm-12.col-lg-7

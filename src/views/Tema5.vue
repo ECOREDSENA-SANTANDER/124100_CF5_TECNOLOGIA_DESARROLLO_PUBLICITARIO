@@ -131,9 +131,9 @@
       
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img7.png', alt='')
-    .d-flex.mb-4  
-      h4.title-card-acento-contenido Segmentación  
-      h4.title-card-comp &nbsp;del mercado
+    .d-flex.mb-4.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Segmentación del mercado
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-7
         p Este proceso ya se ha llevado a cabo anteriormente, en este caso, se debe considerar el mercado real y el análisis psicográfico realizado. Dicho mercado debe dividirse en nichos o grupos específicos utilizando una recta numérica sencilla, basada en variables básicas. 
@@ -154,8 +154,8 @@
         p Con esta información es hora de tomar decisiones en cuanto a cuál o cuáles serán los #[i targets] comunicacionales. En este punto hay que tener en cuenta varios aspectos: el presupuesto de la campaña, si este es limitado es posible que deba realizarse un solo modelo de anuncio que abarque todo el mercado objetivo; las características del mercado al que va dirigida la campaña, en el caso del ejemplo es necesario preguntarse si existen coincidencias psicográficas en las mujeres de 20 a 35 años que se puedan incluir en un anuncio y las identifique a ambas, o en el desarrollo del mensaje incluir temáticas que sean compatibles con todas.
         .cajon.color-acento-contenido.p-4
           p.mb-0.fw-bold Para el desarrollo del #[i target] comunicacional se deben entonces definir a partir de ese análisis psicográfico, los #[i targets] que se van a realizar; para ello, se seguirá aún más el mercado real teniendo en cuenta gustos, intereses, formas de pensar, proyectos a futuro, etc.
-    .d-flex.mb-4  
-      h4.title-card-acento-contenido Selección&nbsp;&nbsp;
+    .titulo-cus.mb-4.w-1
+      h4 Selección
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-8
         p.mb-3 En el ejemplo de las mujeres de 20 a 35 años se pueden encontrar varias diferencias que las separan en cuanto a prioridades, estilo de vida y motivaciones, temas muy relevantes para un proceso de comunicación.
@@ -177,9 +177,8 @@
           figcaption Fuente: SENA (2020)
     p En este caso se han seleccionado tres grupos, uno de 20 a 22 años; se tuvo en cuenta que en promedio a los 22 años se está terminando una carrera profesional y comenzando una vida laboral activa, lo que implica que la conducta es muy similar hasta esa edad. De los 23 a los 30 se está consolidando una vida laboral, profesional y social, en estas edades se suele viajar, conocer personas y consolidar relaciones sentimentales. A los 31 se comienza la vida familiar, los proyectos económicos, inversiones y negocios. A cada uno de ellos es necesario realizar el #[i target] comunicacional, ya sea para realizar un anuncio dirigido a los tres o para varias versiones; para el primer caso esto ayuda a encontrar coincidencias y para el segundo a determinar el mensaje para cada uno.
     p.fw-bold.mb-5 El desarrollo de #[i target] comunicacional está por realizarse, lo siguiente que se debe hacer es comenzar a describirlo; como se dijo anteriormente, este proceso implica aplicar una técnica de investigación, lo recomendable es observar y entrevistar a personas que reúnan las características del grupo seleccionado.
-    .d-flex.mb-4  
-      h4.title-card-acento-contenido Descripción 
-      h4.title-card-comp &nbsp;del #[i target]  
+    .titulo-cus.mb-4.w-2 
+      h4  Descripción del #[i target]  
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img12.svg', alt='')
@@ -237,11 +236,12 @@
               p.title-card.bg3.text-white.mb-4 Creativo
               p.mt-3.mb-5.pb-5 Por obvias razones el concepto de una estrategia de comunicación debe ser creativo, la creatividad permite no solo que la idea sea llamativa, sino que se destaque frente a otras.
 
-    .d-flex.mb-3  
-      h4.title-card-acento-contenido Estructura  
-      h4.title-card-comp &nbsp;del concepto creativo
+    .d-flex.mb-3.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Estructura del concepto creativo
     p.mb-5 El concepto es también un proceso que permite al mensaje tener más definición y a la estrategia creativa un norte, por eso es importante que estos elementos se desarrollen teniendo en cuenta todos los parámetros ya establecidos en el #[i brief] y en los antecedentes de la marca.
-    h4 Tipo
+    .titulo-cus.mb-4.w-3
+          h4   Tipo
     p Cada campaña o estrategia de comunicación que se realice está ligada a un momento específico de la marca, producto, servicio o empresa. Cada producto o servicio atraviesa unas etapas durante su proceso comercial y cada una de ellas comprende un proceso de comunicación especial. Estas etapas están consignadas en el ciclo de vida del producto.
     .titulo-sexto.color-secundario
       h5 Figura 3.
@@ -268,8 +268,8 @@
           p.mb-0 En esta etapa ya hay un mercado cautivo y suficiente para que el producto genere ganancias, ya es reconocido y aceptado por el mercado. En este punto se realiza comunicación de recordación, la cual implica que haya mucha interacción entre la marca y sus consumidores, comunicación sencilla, breve y directa con presencia de la marca, el fin es que el mercado no olvide la marca.
         .tarjeta.color-acento-botones--borde.p-4(titulo="Declive")
           p.mb-0 Esta etapa se produce por varias razones, la principal es la llegada al mercado de productos similares que han captado la atención de los consumidores con otros beneficios, menor precio u otras presentaciones; en ese punto, en ocasiones es necesario realizar cambios al producto para adaptarlo a las nuevas preferencias del público objetivo, esto implica que el ciclo de vida comienza nuevamente y es necesario realizar un relanzamiento, las características de este tipo de comunicación son similares a las del lanzamiento, con la diferencia que el posicionamiento del producto va a permitir llegar de una forma más rápida al crecimiento y la madurez; es decir, las fases de la comunicación serán más cortas.
-    .d-flex.mb-4  
-      h4.title-card-acento-contenido Tono&nbsp;&nbsp;&nbsp;&nbsp;
+    .titulo-cus.mb-4.w-3
+          h4   Tono
     p.mb-5 El diseño del mensaje es la parte más complicada y demorada del proceso, el concepto es la base para su elaboración y cada parte de él contribuye poco a poco al desarrollo. El tono constituye un elemento muy importante en la elaboración del mensaje y desarrollo de la idea, porque determina en gran medida la empatía que la marca tiene con el grupo objetivo y muestra rasgos muy relevantes de la personalidad de la marca. Es necesario definir el tono de la comunicación teniendo en cuenta todos esos elementos, pues el mercado suele ser susceptible a ciertos aspectos que pueden llegar a ser ofensivos o transgredir la forma de pensar de algunos miembros del mercado.
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-secundario.p-4
@@ -305,8 +305,8 @@
         h5.text-center.mt-4 Aspiracional
         p.mt-3.text-center.txt-sistema Es un tono muy eficaz para productos financieros, agencias de viajes y educación, tiene un alto nivel de persuasión, aunque es poco recordativo, es efectivo en el momento en que el mercado objetivo es expuesto al mensaje, de ahí su nivel de uso en campañas en medios digitales como la #[i web] y las redes sociales. Tiene un enfoque más alto en el mercado de adultos jóvenes.
       
-    .d-flex.mb-4  
-        h4.title-card-acento-contenido Tema&nbsp;&nbsp;&nbsp;&nbsp;
+    .titulo-cus.mb-4.w-3
+        h4 Tema
     p.mb-5 El tema es un elemento subjetivo y es donde se da rienda suelta a la creatividad, es en este punto donde el #[i target] comunicacional realizado anteriormente toma mayor relevancia, pues en cada uno de los detalles descritos en él, se pueden encontrar temas que sean eficaces para el diseño del mensaje. El tema se refiere a un momento, lugar y situación específicos en la que se desarrollará el mensaje, ya sea audiovisual, impreso, digital, textual o auditivo.
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -314,9 +314,9 @@
       .col-sm-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Se puede tomar como tema una cena familiar; este contiene los tres elementos descritos: cena indica que es en la noche, familiar una situación específica y las posibles personas que intervienen en ella y el lugar porque se puede deducir que será en una casa o en un restaurante. Es importante definir cada uno de estos elementos en la descripción del tema.
-    .d-flex.mb-4  
-      h4.title-card-acento-contenido El racional  
-      h4.title-card-comp &nbsp;creativo
+    .d-flex.mb-4.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold El racional creativo
     p El racional creativo es un documento que recoge toda la información anterior en una idea concreta; es decir, es la idea en sí, descrita y estructurada. #[b Para su desarrollo es necesario tener en cuenta todos los elementos de la estrategia: descripción del mercado objetivo, #[i target] comunicacional y concepto creativo.]
     p.mb-5 Adicionalmente, el racional creativo debe tener dentro de su base dos elementos inspiradores que tal vez se hayan detectado en el proceso de investigación y desarrollo del #[i target] comunicacional; la propuesta de valor y el key #[i insight].
     .fullview-2
@@ -340,8 +340,9 @@
           p.mb-3 La propuesta de valor es más que un diferenciador, es una promesa que se hace al cliente a través del producto y se expresa con el o los beneficios que este le proporciona. La fórmula para determinar el valor de un producto se expresa de la siguiente manera:  
           h4.title-card-03.bg8.mx-2.text-white.mt-4 Valor > precio = beneficio
     p.mb-5 Esto significa que el valor que el consumidor le da al producto debe ser superior al precio que paga por él; en consecuencia, dicho consumidor va a obtener del producto un beneficio que satisface su necesidad. La propuesta de valor debe expresarse claramente en la idea que se exponga, ir implícita en el concepto y expresada en el mensaje. Un ejemplo claro de propuesta de valor es la de la marca registrada Nestlé, ya que está implícita en su logo y en todas las campañas que realiza, < alimentar a la familia >; nótese que su logo es un nido en el que una madre alimenta a sus hijos,  en general todo su portafolio y sus conceptos llevan implícita esta premisa. 
-    .d-flex.mb-4  
-      h4.title-card-acento-contenido Los #[i insights]
+    .d-flex.mb-4.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Los #[i insights]
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-9
         p Los #[i insights] representan un aspecto culto, profundo y a menudo inconsciente del pensamiento, sentimiento o comportamiento del consumidor que explica la relación estrecha, emocional y simbólica que este sostiene con los productos o servicios que consume o usa. La identificación y desarrollo de #[i insights] del consumidor bajo la forma de promesas publicitarias, estrategias de comunicación y diseño de nuevos productos, es la clave para el éxito del negocio, pero su puesta en marcha no siempre es sencilla. A menudo requiere altas dosis de intuición, olfato psicológico, empatía y sobre todo suerte (lograr descubrimientos afortunados por accidente). El momento de descubrimiento de un #[i consumer  insights] es un momento de elevada revelación e inspiración.
