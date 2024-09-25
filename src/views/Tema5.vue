@@ -29,7 +29,7 @@
             i.fas.fa-check-circle.color-primario
             |  #[b Plazo:] en qué tiempo se puede lograr el objetivo planteado teniendo en cuenta los recursos disponibles.
 
-        p Tipos de objetivos, de acuerdo con el post publicado por el sitio #[i web] Publicidad y promoción (2010):
+        p Tipos de objetivos, de acuerdo con el post publicado por el sitio web publicidad y promoción (2010):
 
       .col-sm-12.col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img2.png', alt='')
