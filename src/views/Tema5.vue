@@ -51,7 +51,7 @@
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 2
-                span  #[b De #[i branding]:] que se desea hacer con la marca: mejorarla, posicionarla, darla a conocer, fortalecer su brand value o el brand equity, trabajar su naming, etc.
+                span  #[b De #[i branding]:] que se desea hacer con la marca: mejorarla, posicionarla, darla a conocer, fortalecer su #[i brand value] o el #[i brand equity], trabajar su #[i naming], etc.
 
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
@@ -64,15 +64,14 @@
             img(src='@/assets/curso/temas/tema5/img4.svg', alt='')
             
           .col-sm-12.col-lg-6
-            p Básicamente hay tres grandes grupos generales de objetivos de #[i marketing]. Estos son:
             ul.lista-ul.mb-5
               li.d-flex
                 i.fas.fa-check-circle.color-primario
-                span.fw-bold La función puntual de un objetivo de comunicación es acentuar o modificar conductas, hábitos o comportamientos en el #[i target] de campaña.
+                span La función puntual de un objetivo de comunicación es acentuar o modificar conductas, hábitos o comportamientos en el #[i target] de campaña.
 
               li.d-flex
                 i.fas.fa-check-circle.color-primario
-                span.fw-bold Esencialmente un objetivo de comunicación debe informar adecuadamente, persuadir a través de una propuesta diferencial, dar a conocer claramente dicha propuesta y comunicar correctamente el mensaje; este último en la estrategia de comunicación está representado por la promesa y el #[i reason why] (soporte de promesa o argumentación).
+                span Esencialmente un objetivo de comunicación debe informar adecuadamente, persuadir a través de una propuesta diferencial, dar a conocer claramente dicha propuesta y comunicar correctamente el mensaje; este último en la estrategia de comunicación está representado por la promesa y el #[i reason why] (soporte de promesa o argumentación).
       .p-4(titulo="Objetivos de medios")
         .row.justify-content-center.align-items-center.mb-5
           .col-sm-12.col-lg-6.d-none.d-lg-block
@@ -89,7 +88,7 @@
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 2
-                span #[b Alcanzar determinada cobertura neta:] se refiere a la cantidad de personas expuestas por lo menos una vez (más exactamente un minuto) a los comerciales de una pauta, pero solo de nuestro #[i target] objetivo. La cobertura también se conoce como Reach y se expresa en porcentajes.
+                span #[b Alcanzar determinada cobertura neta:] se refiere a la cantidad de personas expuestas por lo menos una vez (más exactamente un minuto) a los comerciales de una pauta, pero solo de nuestro #[i target] objetivo. La cobertura también se conoce como #[i Reach] y se expresa en porcentajes.
 
 
               li.d-flex
@@ -107,17 +106,17 @@
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 1
-                span.fw-bold Determinar contactos brutos a alcanzar.
+                span Determinar contactos brutos a alcanzar.
 
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 2
-                span.fw-bold Lograr porcentaje de contactos efectivos que alcanzará el plan.
+                span Lograr porcentaje de contactos efectivos que alcanzará el plan.
 
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
                   span.fw-bold 3
-                span.fw-bold Analizar los contactos reales que el plan BTL ha logrado como potenciales consumidores de mi producto, servicio o marca.
+                span Analizar los contactos reales que el plan BTL ha logrado como potenciales consumidores de mi producto, servicio o marca.
     Separador
     #t_5_2.titulo-segundo.color-secundario
       h2  5.2 #[i Target] comunicacional
@@ -145,7 +144,7 @@
             |  Segmentación del mercado
         figure
           img.img-a(src='@/assets/curso/temas/tema5/img8.svg', alt='La gráfica presenta la segmentación del mercado con base al análisis de las edades y los estratos de las mujeres en las ciudades de Colombia, donde la edad mínima es 20 años y la máxima 35 años.')
-          figcaption Fuente: SENA (2020)
+          
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img9.svg', alt='')
@@ -173,8 +172,8 @@
           span
             |  Selección del #[i target]
         figure
-          img.img-a(src='@/assets/curso/temas/tema5/img11.svg', alt='La selección del #[i target] es con base a las características psíquicas donde posteriormente se dividen en grupos por edades.')
-          figcaption Fuente: SENA (2020)
+          img.img-a(src='@/assets/curso/temas/tema5/img11.svg', alt='La selección del target es con base a las características psíquicas donde posteriormente se dividen en grupos por edades.')
+          
     p En este caso se han seleccionado tres grupos, uno de 20 a 22 años; se tuvo en cuenta que en promedio a los 22 años se está terminando una carrera profesional y comenzando una vida laboral activa, lo que implica que la conducta es muy similar hasta esa edad. De los 23 a los 30 se está consolidando una vida laboral, profesional y social, en estas edades se suele viajar, conocer personas y consolidar relaciones sentimentales. A los 31 se comienza la vida familiar, los proyectos económicos, inversiones y negocios. A cada uno de ellos es necesario realizar el #[i target] comunicacional, ya sea para realizar un anuncio dirigido a los tres o para varias versiones; para el primer caso esto ayuda a encontrar coincidencias y para el segundo a determinar el mensaje para cada uno.
     p.fw-bold.mb-5 El desarrollo de #[i target] comunicacional está por realizarse, lo siguiente que se debe hacer es comenzar a describirlo; como se dijo anteriormente, este proceso implica aplicar una técnica de investigación, lo recomendable es observar y entrevistar a personas que reúnan las características del grupo seleccionado.
     .titulo-cus.mb-4.w-2 
@@ -251,7 +250,7 @@
       .col-sm-12.col-lg-10
         figure
           img.img-a(src='@/assets/curso/temas/tema5/img16.svg', alt='Cada campaña se lleva a cabo de acuerdo a un ciclo de vida especifico del producto: I+D+I: prueba de mercado. Introducción: lanzamiento. Crecimiento: mantenimiento. Madurez: recordación. Declive: relanzamiento')
-          figcaption Fuente: SENA (2020)
+          
     p En la gráfica se pueden evidenciar las etapas y el tipo de comunicación que se requiere para cada una de ellas:
     .row.justify-content-center.mb-4
       .col-sm-12.col-lg-3.d-none.d-lg-block
@@ -317,9 +316,13 @@
     .d-flex.mb-4.align-items-center
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold El racional creativo
-    p El racional creativo es un documento que recoge toda la información anterior en una idea concreta; es decir, es la idea en sí, descrita y estructurada. #[b Para su desarrollo es necesario tener en cuenta todos los elementos de la estrategia: descripción del mercado objetivo, #[i target] comunicacional y concepto creativo.]
-    p.mb-5 Adicionalmente, el racional creativo debe tener dentro de su base dos elementos inspiradores que tal vez se hayan detectado en el proceso de investigación y desarrollo del #[i target] comunicacional; la propuesta de valor y el key #[i insight].
-    .fullview-2
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-12.col-lg-10
+        p El racional creativo es un documento que recoge toda la información anterior en una idea concreta; es decir, es la idea en sí, descrita y estructurada. #[b Para su desarrollo es necesario tener en cuenta todos los elementos de la estrategia: descripción del mercado objetivo, #[i target] comunicacional y concepto creativo.]
+        p.mb-0 Adicionalmente, el racional creativo debe tener dentro de su base dos elementos inspiradores que tal vez se hayan detectado en el proceso de investigación y desarrollo del #[i target] comunicacional; la propuesta de valor y el #[i key insight].
+      .col-sm-12.col-lg-2.d-none.d-lg-block
+            img(src='@/assets/curso/temas/tema5/img38.svg', alt='')
+    //.fullview-2
       .row.justify-content-center.align-items-center.mb-5.p-5
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema5/img24.svg')
@@ -329,17 +332,22 @@
           a.boton.color-acento-botones.me-3(:href="obtenerLink('/downloads/propuestadevalor_infografia.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
+    .d-flex.mb-4.align-items-center
+        img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
+        .bg9.py-2.w-card-text.fw-bold Propuesta de valor
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img25.png')
-
-      .col-sm-12.col-lg-8
-        p La #[i Unique Selling Proposition] (literalmente, propuesta única de venta) ordena que el producto debe representar para el público una Proposición concreta y Única de Venta (PUV), consecuentemente, el mensaje debe basarse en un solo valor: #[b “al adquirir este producto obtiene esta ventaja diferente”. ] (Roig, 2011)
-        p.mb- Sin embargo, la propuesta de valor es un concepto más evolucionado, este método fue creado por Cindy Barnes, Helen Blake, David Pinder en 2009, mencionado en su libro: #[i Creating and Delivering Your Value Proposition: Managing Customer Experience for Profit. ]
-        .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-3 La propuesta de valor es más que un diferenciador, es una promesa que se hace al cliente a través del producto y se expresa con el o los beneficios que este le proporciona. La fórmula para determinar el valor de un producto se expresa de la siguiente manera:  
-          h4.title-card-03.bg8.mx-2.text-white.mt-4 Valor > precio = beneficio
-    p.mb-5 Esto significa que el valor que el consumidor le da al producto debe ser superior al precio que paga por él; en consecuencia, dicho consumidor va a obtener del producto un beneficio que satisface su necesidad. La propuesta de valor debe expresarse claramente en la idea que se exponga, ir implícita en el concepto y expresada en el mensaje. Un ejemplo claro de propuesta de valor es la de la marca registrada Nestlé, ya que está implícita en su logo y en todas las campañas que realiza, < alimentar a la familia >; nótese que su logo es un nido en el que una madre alimenta a sus hijos,  en general todo su portafolio y sus conceptos llevan implícita esta premisa. 
+      .col-sm-12.col-lg-8.bg10.p-5
+          .row.justify-content-center.mb-0
+            .col-sm-12.col-lg-8
+              p.mb-5 Hoy en día se hace mucho énfasis en este elemento y se suele confundir con el factor diferenciador de un producto o servicio. El diferenciador o USP (#[i Unique Selling Propotition]) es una técnica que se debe al publicista Rosser Reeves de la agencia norteamericana Ted Bates and Company, que ha terminado siendo un referente universal de la publicidad.
+              a.boton.color-acento-botones.me-3(:href="obtenerLink('/downloads/propuestadevalor_infografia.pdf')" target="_blank" type="application/pdf")
+                span Descargar
+                i.fas.fa-file-download
+            .col-sm-12.col-lg-4.d-none.d-lg-block
+                img(src='@/assets/curso/temas/tema5/img24.svg')
+        
     .d-flex.mb-4.align-items-center
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold Los #[i insights]
@@ -415,6 +423,9 @@
             .col-sm-12.col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema5/img36.png', alt='')
     p.mb-5 Como complemento del proceso de identificación de #[i insights], se recomienda aplicar la pirámide de los #[i insights] que se basa en el trabajo de Mohan Sawhney (2003). #[i Research that Produces Consumer Insights]:
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-md-6.col-lg-4.bg11.px-5.py-3
+        h4.mb-0.text-center Pirámide de los insights
     .row.justify-content-center.mb-5
       .col-sm-12.col-md-12.col-lg-12.col-xl-8
         ImagenInfografica.color-secundario.mb-5

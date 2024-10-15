@@ -328,12 +328,12 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>full-stack</i>',
+          cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla',
-          cargo: 'Desarrolladora <i>full-stack</i>',
+          cargo: 'Desarrolladora <i>full stack</i> junior',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

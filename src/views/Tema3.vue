@@ -6,6 +6,8 @@
       .titulo-principal__numero
         span 3
       h1 El proceso creativo
+    p.mb-3 La creatividad es un proceso complejo que abarca varias características fundamentales para generar ideas innovadoras y llevarlas a cabo de manera efectiva.
+    p.mb-5 Algunas de las principales características del proceso creativo son:
     .row.justify-content-between.align-items-center.mb-5
       .col-sm-12.col-md-6.col-lg-3.justify-content-center.mx-0.px-2
         .bg2.px-1.py-3.h-card.mb-cus
@@ -54,7 +56,7 @@
         img(src='@/assets/curso/temas/tema3/img6.svg', alt='')
     .d-flex.align-items-center.my-5
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
-        .bg9.py-2.w-card-text.fw-bold Lluvia de ideas o #[i Brainstorming] 
+        .bg9.py-2.w-card-text.fw-bold Lluvia de ideas o #[i brainstorming] 
     p Esta técnica fue desarrollada por Alex Osborn (especialista en creatividad y publicidad) en los años 30 y publicada en 1963 en el libro #[b “#[i Applied Imagination]”]. Es la técnica más conocida y utilizada, además, es la base sobre la que se realizan otras técnicas. La lluvia de ideas se hace en grupos de trabajo.
 
     .row.justify-content-center.mb-5
@@ -104,7 +106,7 @@
               .col-sm-12.col-lg-9
                 h5.mb-4 Ejemplo: ¿Qué podemos hacer para mejorar los problemas del tráfico urbano?
                 p.mb-4 #[b Respuestas:] quemar los coches, vivir en el campo, restringir los días de circulación, aumentar muchísimo el precio de los coches, aumentar muchísimo el precio de la gasolina, ir en bici, ir a pie, no salir de casa, vivir todos en la misma casa, trabajar y vivir en el mismo edificio, penalizar el uso del coche, pinchar todas las ruedas, etc. 
-                p.mb-5 #[b Trabajo con las ideas:] las ideas existenstes pueden mejorarse mediante la aplicación de una lista de control; también se pueden agregar otras ideas. Osborn, recomienda el empleo de preguntas como las que siguen:
+                p.mb-5 #[b Trabajo con las ideas:] las ideas existentes pueden mejorarse mediante la aplicación de una lista de control; también se pueden agregar otras ideas. Osborn, recomienda el empleo de preguntas como las que siguen:
               .col-sm-12.col-lg-3.d-none.d-lg-block.mb-5
                 img(src='@/assets/curso/temas/tema3/img49.svg')
             .row.justify-content-center.mb-0
@@ -198,17 +200,17 @@
                     i.fas.fa-check-circle.color-primario
                     span Identificación de oportunidades para la localización de nuevas unidades empresariales.
     .bgimg1.p-5
-      .titulo-sexto.color-secundario.mt-3
-        h5 Tabla 1.
-        span
-          |  Matriz ejemplo combinaciones diferentes, análisis morfológico.
-      p.fw-bold Una empresa de lácteos está buscando realizar un nuevo proceso de promoción para su nueva leche saborizada con vitaminas dirigida a adultos mayores.
       p A continuación, se presenta un ejemplo:
+      p.fw-bold.mb-4 Una empresa de lácteos está buscando realizar un nuevo proceso de promoción para su nueva leche saborizada con vitaminas dirigida a adultos mayores.
       .row.justify-content-center.mt-4
         .col-sm-12.col-lg-10
+          .titulo-sexto.color-secundario.mt-3
+            h5 Tabla 1.
+            span
+              |  Matriz ejemplo combinaciones diferentes, análisis morfológico.
           .tabla-a.color-secundario
             table
-              caption  Fuente:  Fundación Neuronilla para la Creatividad y la Innovación (2020).
+              caption  Nota. Tomado de Fundación Neuronilla para la Creatividad y la Innovación (2020).
               thead
                 tr
                   th.w-col-1 No.
@@ -324,7 +326,7 @@
       .col-sm-12.col-lg-10
         .tabla-a.color-secundario
           table
-            caption  Fuente:  Fundación Neuronilla para la Creatividad y la Innovación (2020).
+            caption  Nota. Tomado de Fundación Neuronilla para la Creatividad y la Innovación (2020).
             thead
               tr
                 th Instalaciones
@@ -334,7 +336,7 @@
                 th Otros elementos
             tbody
               tr
-                td Comulpios
+                td Columpios
                 td Parques
                 td Niños
                 td Madera
@@ -384,7 +386,7 @@
             p.mb-0 #[b Balancines – parques – plástico – plantas > idea:] contratar a monitores que den talleres de jardinería a los niños/as, (podrían ser personas jubiladas voluntarias). 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-md-6.col-lg-4
-        .row.justify-content-center.align-items-center.mb-0.bgimg4.p-4.h-card-03
+        .row.justify-content-center.align-items-center.mb-0.bgimg4.p-4.h-card-03.mb-cus
           .col-sm-12.col-lg-4
             img.w-img-01.m-auto(src='@/assets/curso/temas/tema3/img26.svg')
           .col-sm-12.col-lg-8
@@ -399,7 +401,7 @@
     .d-flex.mb-3.align-items-center
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold El arte  de preguntar 
-    p Alex Osborn, experto en creatividad y creador del #[i Brainstorming], afirmaba que #[b “la pregunta es la más creativa de las conductas humanas”]. Osborn desarrolló una serie de preguntas para el #[i Brainstorming] que pueden aplicarse en la exploración del problema.
+    p Alex Osborn, experto en creatividad y creador del #[i brainstorming], afirmaba que #[b “la pregunta es la más creativa de las conductas humanas”]. Osborn desarrolló una serie de preguntas para el #[i brainstorming] que pueden aplicarse en la exploración del problema.
     p.mb-5 Este es un conjunto fundamental de preguntas que se usan para formular en el problema todos los enfoques que sean posibles y, así, abrir la perspectiva que tenemos del problema. También son útiles para la percepción de nuevos usos, aplicaciones o posibilidades de un producto o un servicio.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -520,9 +522,13 @@
       .col-sm-12.col-lg-7
         .tabla-a.color-secundario
           table
-            caption  Fuente:  Fundación Neuronilla para la Creatividad y la Innovación (2020).
-            
-            tbody.border-cus-top
+            caption  Nota. Tomada de Fundación Neuronilla para la Creatividad y la Innovación (2020).
+            thead
+              tr
+                th.text-center  Elementos / cosas
+                th.text-center  Acciones / Verbos
+                th.w-col-1.text-center No, del 01 al 99  (10 números al azar)
+            tbody
               tr
                 td 0. Videos
                 td 0. Jugar
@@ -564,7 +570,7 @@
                 td 9. Hablar
                 td.text-center 46
 
-    p  Las combinaciones de números de la columna 3 generan combinaciones para el desarrollo de ideas: el 70 por ejemplo es cultura y hablar: en este caso la idea puede ser generar #[i Podcast] en los que la revista realice conversatorios cortos de cultura de forma periódica y atraer a un público específico.
+    p  Las combinaciones de números de la columna 3 generan combinaciones para el desarrollo de ideas: el 70 por ejemplo es cultura y hablar: en este caso la idea puede ser generar #[i Pódcast] en los que la revista realice conversatorios cortos de cultura de forma periódica y atraer a un público específico.
     p.mb-5 La combinación 21 es juegos y comer, en este caso se produce la idea de realizar juegos en línea con preguntas de gastronomía y generar como premio bonos en restaurantes de patrocinadores.
     .d-flex.mb-4.align-items-center
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
@@ -607,7 +613,7 @@
     .d-flex.mb-3.align-items-center
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold SCAMPER
-    p Es una lista de preguntas que estimulan la generación de ideas. Alex Osborn, el creador del #[i Brainstorming], estableció las primeras. Más tarde fueron dispuestas por Bob Eberle en este mnemotécnico:
+    p Es una lista de preguntas que estimulan la generación de ideas. Alex Osborn, el creador del #[i brainstorming], estableció las primeras. Más tarde fueron dispuestas por Bob Eberle en este mnemotécnico:
     .row.justify-content-center.mb-0
       .col-sm-12.col-lg-7
         ImagenInfografica.color-acento-botones.mb-5
