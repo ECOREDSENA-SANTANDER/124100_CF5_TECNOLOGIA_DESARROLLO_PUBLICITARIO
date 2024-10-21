@@ -120,7 +120,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF5_124100_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -352,7 +352,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Diana Lizeth Lozada Díaz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

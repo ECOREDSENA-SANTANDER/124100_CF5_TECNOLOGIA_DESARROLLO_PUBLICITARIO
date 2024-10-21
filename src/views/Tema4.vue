@@ -9,7 +9,7 @@
     p.mb-4 Consulta el siguiente video, que presenta la estrategia creativa como el proceso que guía la creación de ideas para conectar una marca con su audiencia. Se destacará cómo la estrategia creativa construye la base para desarrollar un mensaje claro y efectivo.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/UAVe89VNWm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UiTLqDMjdbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Proceso creativo
 </template>
 
