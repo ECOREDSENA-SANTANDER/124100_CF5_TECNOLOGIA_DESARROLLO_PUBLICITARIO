@@ -124,7 +124,7 @@
       .col-sm-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Este es un concepto utilizado de forma casi exclusiva por creativos y algunas agencias de publicidad; es un paso más allá de la segmentación de mercados y permite conocer de forma individual a los consumidores de un producto o servicio, obteniendo de ellos información detallada de su comportamiento, gustos, intereses y deseos.
-        p.mb-3 El desarrollo del #[i target] comunicacional se realiza con técnicas de investigación cualitativa y lo más adecuado es que #[b el proceso sea llevado a cabo por personas con estudios en psicología del consumidor, antropología o sociología]. El método más preciso y utilizado para el desarrollo de un #[i target] comunicacional es la observación.
+        p.mb-3 El desarrollo del #[i target] comunicacional se realiza con técnicas de investigación cualitativa y lo más adecuado es que el proceso sea llevado a cabo por personas con estudios en psicología del consumidor, antropología o sociología. El método más preciso y utilizado para el desarrollo de un #[i target] comunicacional es la observación.
         p.mb-3 El fin del desarrollo de este punto, es obtener toda la información posible del mercado objetivo a través de la individualización de los consumidores; en ese orden de ideas, es posible que sea necesario realizar varios #[i targets] comunicacionales y por lo tanto, varias versiones del mensaje, de acuerdo con las características de cada uno de ellos.
         p.mb-0 A continuación, se indica el proceso para realizar el #[i target] comunicacional:
       
@@ -152,7 +152,7 @@
       .col-sm-12.col-lg-8
         p Con esta información es hora de tomar decisiones en cuanto a cuál o cuáles serán los #[i targets] comunicacionales. En este punto hay que tener en cuenta varios aspectos: el presupuesto de la campaña, si este es limitado es posible que deba realizarse un solo modelo de anuncio que abarque todo el mercado objetivo; las características del mercado al que va dirigida la campaña, en el caso del ejemplo es necesario preguntarse si existen coincidencias psicográficas en las mujeres de 20 a 35 años que se puedan incluir en un anuncio y las identifique a ambas, o en el desarrollo del mensaje incluir temáticas que sean compatibles con todas.
         .cajon.color-acento-contenido.p-4
-          p.mb-0.fw-bold Para el desarrollo del #[i target] comunicacional se deben entonces definir a partir de ese análisis psicográfico, los #[i targets] que se van a realizar; para ello, se seguirá aún más el mercado real teniendo en cuenta gustos, intereses, formas de pensar, proyectos a futuro, etc.
+          p.mb-0 Para el desarrollo del #[i target] comunicacional se deben entonces definir a partir de ese análisis psicográfico, los #[i targets] que se van a realizar; para ello, se seguirá aún más el mercado real teniendo en cuenta gustos, intereses, formas de pensar, proyectos a futuro, etc.
     .titulo-cus.mb-4.w-1
       h4 Selección
     .row.justify-content-center.align-items-center.mb-5
@@ -165,7 +165,7 @@
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-7
         .cajon.color-acento-contenido.p-5.mb-cus
-          p.mb-0 De lo anterior, se puede concluir que el desarrollo de un anuncio publicitario dirigido a mujeres de 20 a 35 años debe tener varias versiones en cuanto al desarrollo del mensaje.#[b  Los #[i targets] comunicacionales entonces deben seleccionarse en función de sus características psicográficas;] para ello, se divide la recta numérica en los grupos que el análisis haya arrojado, cabe anotar que esta división sigue siendo un aspecto netamente subjetivo:
+          p.mb-0 De lo anterior, se puede concluir que el desarrollo de un anuncio publicitario dirigido a mujeres de 20 a 35 años debe tener varias versiones en cuanto al desarrollo del mensaje. Los #[i targets] comunicacionales entonces deben seleccionarse en función de sus características psicográficas; para ello, se divide la recta numérica en los grupos que el análisis haya arrojado, cabe anotar que esta división sigue siendo un aspecto netamente subjetivo:
       .col-sm-12.col-lg-5
         .titulo-sexto.color-secundario
           h5 Figura 2.
@@ -175,7 +175,7 @@
           img.img-a(src='@/assets/curso/temas/tema5/img11.svg', alt='La selección del target es con base a las características psíquicas donde posteriormente se dividen en grupos por edades.')
           
     p En este caso se han seleccionado tres grupos, uno de 20 a 22 años; se tuvo en cuenta que en promedio a los 22 años se está terminando una carrera profesional y comenzando una vida laboral activa, lo que implica que la conducta es muy similar hasta esa edad. De los 23 a los 30 se está consolidando una vida laboral, profesional y social, en estas edades se suele viajar, conocer personas y consolidar relaciones sentimentales. A los 31 se comienza la vida familiar, los proyectos económicos, inversiones y negocios. A cada uno de ellos es necesario realizar el #[i target] comunicacional, ya sea para realizar un anuncio dirigido a los tres o para varias versiones; para el primer caso esto ayuda a encontrar coincidencias y para el segundo a determinar el mensaje para cada uno.
-    p.fw-bold.mb-5 El desarrollo de #[i target] comunicacional está por realizarse, lo siguiente que se debe hacer es comenzar a describirlo; como se dijo anteriormente, este proceso implica aplicar una técnica de investigación, lo recomendable es observar y entrevistar a personas que reúnan las características del grupo seleccionado.
+    p.mb-5 El desarrollo de #[i target] comunicacional está por realizarse, lo siguiente que se debe hacer es comenzar a describirlo; como se dijo anteriormente, este proceso implica aplicar una técnica de investigación, lo recomendable es observar y entrevistar a personas que reúnan las características del grupo seleccionado.
     .titulo-cus.mb-4.w-2 
       h4  Descripción del #[i target]  
     .row.justify-content-center.align-items-center.mb-5
@@ -318,7 +318,7 @@
         .bg9.py-2.w-card-text.fw-bold El racional creativo
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-10
-        p El racional creativo es un documento que recoge toda la información anterior en una idea concreta; es decir, es la idea en sí, descrita y estructurada. #[b Para su desarrollo es necesario tener en cuenta todos los elementos de la estrategia: descripción del mercado objetivo, #[i target] comunicacional y concepto creativo.]
+        p El racional creativo es un documento que recoge toda la información anterior en una idea concreta; es decir, es la idea en sí, descrita y estructurada. Para su desarrollo es necesario tener en cuenta todos los elementos de la estrategia: descripción del mercado objetivo, #[i target] comunicacional y concepto creativo.
         p.mb-0 Adicionalmente, el racional creativo debe tener dentro de su base dos elementos inspiradores que tal vez se hayan detectado en el proceso de investigación y desarrollo del #[i target] comunicacional; la propuesta de valor y el #[i key insight].
       .col-sm-12.col-lg-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema5/img38.svg', alt='')
@@ -354,8 +354,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-9
         p Los #[i insights] representan un aspecto culto, profundo y a menudo inconsciente del pensamiento, sentimiento o comportamiento del consumidor que explica la relación estrecha, emocional y simbólica que este sostiene con los productos o servicios que consume o usa. La identificación y desarrollo de #[i insights] del consumidor bajo la forma de promesas publicitarias, estrategias de comunicación y diseño de nuevos productos, es la clave para el éxito del negocio, pero su puesta en marcha no siempre es sencilla. A menudo requiere altas dosis de intuición, olfato psicológico, empatía y sobre todo suerte (lograr descubrimientos afortunados por accidente). El momento de descubrimiento de un #[i consumer  insights] es un momento de elevada revelación e inspiración.
-        p El #[i insight] es una palabra que #[b proviene de la psicología, y se utiliza cuando el psicoterapeuta puede entender con claridad el problema (motivo de consulta) de su paciente luego de largas sesiones de auscultarlo y conversar con él.] Ese momento, el de la revelación, es propiamente un #[i insight] pues el terapeuta comprende el origen del problema y las motivaciones más ocultas del paciente para actuar de la forma que hace.
-        p.fw-bold La publicidad utiliza el concepto cuando un creativo identifica datos reveladores sobre la conducta del consumidor que antes no pensaba, sabía o tenía en mente.
+        p El #[i insight] es una palabra que  proviene de la psicología, y se utiliza cuando el psicoterapeuta puede entender con claridad el problema (motivo de consulta) de su paciente luego de largas sesiones de auscultarlo y conversar con él. Ese momento, el de la revelación, es propiamente un #[i insight] pues el terapeuta comprende el origen del problema y las motivaciones más ocultas del paciente para actuar de la forma que hace.
+        p La publicidad utiliza el concepto cuando un creativo identifica datos reveladores sobre la conducta del consumidor que antes no pensaba, sabía o tenía en mente.
       .col-sm-12.col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img26.svg')
     .row.justify-content-center.mb-5
@@ -363,7 +363,7 @@
         .bloque-texto-c.color-secundario.p-4
           .d-flex
             i.fas.fa-quote-left
-            p.fw-bold.mb-3.mt-2.mx-3 El #[i insight] psicológico permite así comprender a los productos no solo como satisfactores de necesidades biológicas o funcionales, sino también como de gustos y demandas en ocasiones no consientes.
+            p.mb-3.mt-2.mx-3 El #[i insight] psicológico permite así comprender a los productos no solo como satisfactores de necesidades biológicas o funcionales, sino también como de gustos y demandas en ocasiones no consientes.
               i.fas.fa-quote-right.com-cus
           .d-flex.justify-content-end
             span.mb-3 - (Roig, 2011)
@@ -379,27 +379,27 @@
               .col-sm-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema5/img28.png', alt='')
               .col-sm-12.col-lg-6
-                h5 Descubriendo la forma del cómo el consumidor se percibe y concibe a sí mismo.
+                p Descubriendo la forma del cómo el consumidor se percibe y concibe a sí mismo.
             .row.mt-5.justify-content-center.align-items-center(titulo="Paso 2")
               .col-sm-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema5/img29.png', alt='')
               .col-sm-12.col-lg-6
-                h5 Analizar el mercado tal como el consumidor lo percibe. Esto es, mirar el mercado por y desde el consumidor.
+                p Analizar el mercado tal como el consumidor lo percibe. Esto es, mirar el mercado por y desde el consumidor.
             .row.mt-5.justify-content-center.align-items-center(titulo="Paso 3")
               .col-sm-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema5/img30.png', alt='')
               .col-sm-12.col-lg-6
-                h5 Explorando la psicología profunda del consumo y el rol simbólico que ésta tiene para el consumidor.
+                p Explorando la psicología profunda del consumo y el rol simbólico que ésta tiene para el consumidor.
             .row.mt-5.justify-content-center.align-items-center(titulo="Paso 4")
               .col-sm-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema5/img31.png', alt='')
               .col-sm-12.col-lg-6
-                h5 Indagando, observando, escuchando y explorando. El #[i insight] no aparece fácilmente: hay que encontrarlo. La mejor manera de hacerlo es estando en contacto permanente y en forma profunda con nuestros consumidores.
+                p Indagando, observando, escuchando y explorando. El #[i insight] no aparece fácilmente: hay que encontrarlo. La mejor manera de hacerlo es estando en contacto permanente y en forma profunda con nuestros consumidores.
             .row.mt-5.justify-content-center.align-items-center(titulo="Paso 5")
               .col-sm-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema5/img32.png', alt='')
               .col-sm-12.col-lg-6
-                h5 Usando el olfato e intuición psicológica. Un #[i consumer  insight] tiene tanto de intuición como de hechos fácticos. (Roig, 2011)
+                p Usando el olfato e intuición psicológica. Un #[i consumer  insight] tiene tanto de intuición como de hechos fácticos. (Roig, 2011)
     p Émile Durkheim a mediados del siglo XIX creó el método decir, sentir, actuar; muy eficaz para el hallazgo de #[i insights]; el cual, se representa a través de lo indicado por #[i Consumer truth] (2020):
     .fullview-3.p-4.mb-5
       .tarjeta.tarjeta--white.m-4.p-4
@@ -425,7 +425,7 @@
     p.mb-5 Como complemento del proceso de identificación de #[i insights], se recomienda aplicar la pirámide de los #[i insights] que se basa en el trabajo de Mohan Sawhney (2003). #[i Research that Produces Consumer Insights]:
     .row.justify-content-center.mb-5
       .col-sm-12.col-md-6.col-lg-4.bg11.px-5.py-3
-        h4.mb-0.text-center Pirámide de los insights
+        h4.mb-0.text-center Pirámide de los #[i insights]
     .row.justify-content-center.mb-5
       .col-sm-12.col-md-12.col-lg-12.col-xl-8
         ImagenInfografica.color-secundario.mb-5

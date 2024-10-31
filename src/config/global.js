@@ -62,7 +62,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Estrategia creativa',
+        titulo: 'La estrategia creativa',
         desarrolloContenidos: true,
       },
       {

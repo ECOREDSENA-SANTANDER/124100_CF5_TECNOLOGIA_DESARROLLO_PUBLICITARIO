@@ -41,10 +41,10 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img5.svg', alt='')
       .col-sm-12.col-lg-8
-        p.mb-4 Para llevar a cabo el proceso creativo, es importante contar con toda la información posible del problema #[b que se busca solucionar, así como tener claro que la creatividad no es un chispazo que llega de la nada generando ideas asombrosas]; por el contrario, implica un diagnóstico previo de las situaciones para las que se están generando ideas, ya que suena imposible pensar en algo que no se conoce o de lo que no se sabe nada. Es por esto por lo que, en campos como #[b  publicidad, el diseño o la producción audiovisual,] el primer paso para el desarrollo creativo sea el #[i brief].
+        p.mb-4 Para llevar a cabo el proceso creativo, es importante contar con toda la información posible del problema que se busca solucionar, así como tener claro que la creatividad no es un chispazo que llega de la nada generando ideas asombrosas; por el contrario, implica un diagnóstico previo de las situaciones para las que se están generando ideas, ya que suena imposible pensar en algo que no se conoce o de lo que no se sabe nada. Es por esto por lo que, en campos como publicidad, el diseño o la producción audiovisual, el primer paso para el desarrollo creativo sea el #[i brief].
         .cajon.color-secundario.p-4
-          p.mb-0 #[b Para el desarrollo de la creatividad, no hay una fórmula mágica,] porque no todas las personas piensan de la misma manera, pues para algunas es más efectivo meditar, para otros caminar y para otros tomar notas y hacer dibujos o mamarrachos en una hoja; lo cierto, es que todas las personas son creativas, la diferencia radica en que algunas tienen ideas constantemente y las llevan a cabo.
-    p.fw-bold.mb-0 A continuación, se presentan algunos de los métodos más populares para el proceso creativo y la forma como se llevan a cabo. Se relacionan, sobre todo, los más utilizados en el desarrollo de estrategias de comunicación y publicidad:
+          p.mb-0 Para el desarrollo de la creatividad, no hay una fórmula mágica, porque no todas las personas piensan de la misma manera, pues para algunas es más efectivo meditar, para otros caminar y para otros tomar notas y hacer dibujos o mamarrachos en una hoja; lo cierto, es que todas las personas son creativas, la diferencia radica en que algunas tienen ideas constantemente y las llevan a cabo.
+    p.mb-0 A continuación, se presentan algunos de los métodos más populares para el proceso creativo y la forma como se llevan a cabo. Se relacionan, sobre todo, los más utilizados en el desarrollo de estrategias de comunicación y publicidad:
     Separador
     #t_3_1.titulo-segundo.color-secundario
       h2  3.1 Técnicas creativas
@@ -57,7 +57,7 @@
     .d-flex.align-items-center.my-5
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold Lluvia de ideas o #[i brainstorming] 
-    p Esta técnica fue desarrollada por Alex Osborn (especialista en creatividad y publicidad) en los años 30 y publicada en 1963 en el libro #[b “#[i Applied Imagination]”]. Es la técnica más conocida y utilizada, además, es la base sobre la que se realizan otras técnicas. La lluvia de ideas se hace en grupos de trabajo.
+    p Esta técnica fue desarrollada por Alex Osborn (especialista en creatividad y publicidad) en los años 30 y publicada en 1963 en el libro “#[i Applied Imagination]”. Es la técnica más conocida y utilizada, además, es la base sobre la que se realizan otras técnicas. La lluvia de ideas se hace en grupos de trabajo.
 
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -84,27 +84,27 @@
             li
               .lista-ol--cuadro__vineta.cs
                 span.fw-bold 1
-              | #[b Toda crítica está prohibida.]
+              | Toda crítica está prohibida.
             li
               .lista-ol--cuadro__vineta.cs
                 span.fw-bold 2
-              | #[b Toda idea es bienvenida.]
+              | Toda idea es bienvenida.
             li
               .lista-ol--cuadro__vineta.cs
                 span.fw-bold 3
-              | #[b Tantas ideas como sea posible.]
+              | Tantas ideas como sea posible.
             li
               .lista-ol--cuadro__vineta.cs
                 span.fw-bold 4
-              | #[b El desarrollo y asociación de las ideas es importante.]
+              | El desarrollo y asociación de las ideas es importante.
     .position-relative.mb-5
       .bgimg1.p-5
-        p.mb-4 Los participantes #[b dicen todo aquello que se les ocurra], de acuerdo con el problema planteado y guardando las reglas anteriores.
+        p.mb-4 Los participantes dicen todo aquello que se les ocurra, de acuerdo con el problema planteado y guardando las reglas anteriores.
         .row.justify-content-center
           .col-sm-12.col-lg-10
             .row.justify-content-center.align-items-end
               .col-sm-12.col-lg-9
-                h5.mb-4 Ejemplo: ¿Qué podemos hacer para mejorar los problemas del tráfico urbano?
+                p.mb-4 Ejemplo: ¿Qué podemos hacer para mejorar los problemas del tráfico urbano?
                 p.mb-4 #[b Respuestas:] quemar los coches, vivir en el campo, restringir los días de circulación, aumentar muchísimo el precio de los coches, aumentar muchísimo el precio de la gasolina, ir en bici, ir a pie, no salir de casa, vivir todos en la misma casa, trabajar y vivir en el mismo edificio, penalizar el uso del coche, pinchar todas las ruedas, etc. 
                 p.mb-5 #[b Trabajo con las ideas:] las ideas existentes pueden mejorarse mediante la aplicación de una lista de control; también se pueden agregar otras ideas. Osborn, recomienda el empleo de preguntas como las que siguen:
               .col-sm-12.col-lg-3.d-none.d-lg-block.mb-5
@@ -166,7 +166,7 @@
             .row.mt-5.justify-content-center(titulo="Paso 2")
               .col-sm-12.col-lg-6
                 h5 Seleccionar los parámetros del problema.
-                p.mb-0 Para determinar si un parámetro es lo suficientemente importante para añadirlo, hay que preguntarse: #[b “¿Seguiría existiendo el problema sin el parámetro que estoy pensando para la matriz?”].
+                p.mb-0 Para determinar si un parámetro es lo suficientemente importante para añadirlo, hay que preguntarse: “¿Seguiría existiendo el problema sin el parámetro que estoy pensando para la matriz?”.
               .col-sm-12.col-lg-4.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema3/img11.png', alt='')
             .row.mt-5.justify-content-center(titulo="Paso 3")
@@ -201,7 +201,7 @@
                     span Identificación de oportunidades para la localización de nuevas unidades empresariales.
     .bgimg1.p-5
       p A continuación, se presenta un ejemplo:
-      p.fw-bold.mb-4 Una empresa de lácteos está buscando realizar un nuevo proceso de promoción para su nueva leche saborizada con vitaminas dirigida a adultos mayores.
+      p.mb-4 Una empresa de lácteos está buscando realizar un nuevo proceso de promoción para su nueva leche saborizada con vitaminas dirigida a adultos mayores.
       .row.justify-content-center.mt-4
         .col-sm-12.col-lg-10
           .titulo-sexto.color-secundario.mt-3
@@ -248,9 +248,9 @@
         .bg9.py-2.w-card-text.fw-bold Analogías
     .row.justify-content-center.mb-5.mb-cus
       .col-sm-12.col-lg-8
-        p #[b Consiste en resolver un problema mediante un rodeo:] en vez de atacar de frente se compara ese problema o situación con otra cosa. Gordon, creador de la Sinéctica (método creativo basado en el uso de las analogías) insistía en que...
+        p Consiste en resolver un problema mediante un rodeo: en vez de atacar de frente se compara ese problema o situación con otra cosa. Gordon, creador de la Sinéctica (método creativo basado en el uso de las analogías) insistía en que...
         .cajon.color-acento-contenido.p-4.mb-4
-          p.fw-bold.mb-0.px-4 "Se trata de poner en paralelo mediante este mecanismo unos hechos, unos conocimientos o unas disciplinas distintas".
+          p.mb-0.px-4 "Se trata de poner en paralelo mediante este mecanismo unos hechos, unos conocimientos o unas disciplinas distintas".
         p Por ejemplo, un problema empresarial lo intentamos resolver buscando algún problema análogo en otras disciplinas: en la biología, en la historia, en un deporte colectivo, etc.
         p Se realiza de la siguiente forma:
       .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -263,7 +263,7 @@
           .tarjeta.bgimg3.w-100
             .text-center.p-4
               p.title-card.bg3.text-white.mb-4   Saber cuál es el problema
-              p.mt-3.mb-0 #[b Ejemplo: ] fabricar una bañera que ocupe el menor espacio posible.
+              p.mt-3.mb-0 Ejemplo: fabricar una bañera que ocupe el menor espacio posible.
       .col-sm-12.col-md-6.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img16.svg')
@@ -288,7 +288,7 @@
     .d-flex.align-items-center
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold Conexiones morfológicas forzadas
-    p Es una propuesta de Koberg y Bagnall que en realidad es la suma de los principios básicos de dos técnicas: el “Listado de Atributos” creado por R. P. Crawford y las #[b “Relaciones Forzadas” ] de Charles S. Whiting.
+    p Es una propuesta de Koberg y Bagnall que en realidad es la suma de los principios básicos de dos técnicas: el “Listado de Atributos” creado por R. P. Crawford y las “Relaciones Forzadas” de Charles S. Whiting.
     p Es muy potente porque en una primera fase facilita que surjan ideas sobre aspectos que no habíamos tenido en cuenta y en la segunda provoca analogías muy inspiradoras.
     p.mb-5 Para realizar esta técnica es necesario seguir los siguientes pasos:
 
@@ -316,7 +316,7 @@
         .cajon.color-acento-contenido.py-4.mb-4.px-5
           .h5 Importante:
           p.mb-0 Una vez que ya hemos definido el objetivo creativo y que hemos generado unas cuantas ideas en una lluvia de ideas, nos disponemos a darle un giro de tuerca más.
-    p.fw-bold Ejemplo: “Queremos ideas para mejorar los parques infantiles públicos”.
+    p Ejemplo: “Queremos ideas para mejorar los parques infantiles públicos”.
     .titulo-sexto.color-secundario.mt-3
         h5 Tabla 2.
         span
@@ -401,7 +401,7 @@
     .d-flex.mb-3.align-items-center
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold El arte  de preguntar 
-    p Alex Osborn, experto en creatividad y creador del #[i brainstorming], afirmaba que #[b “la pregunta es la más creativa de las conductas humanas”]. Osborn desarrolló una serie de preguntas para el #[i brainstorming] que pueden aplicarse en la exploración del problema.
+    p Alex Osborn, experto en creatividad y creador del #[i brainstorming], afirmaba que “la pregunta es la más creativa de las conductas humanas”. Osborn desarrolló una serie de preguntas para el #[i brainstorming] que pueden aplicarse en la exploración del problema.
     p.mb-5 Este es un conjunto fundamental de preguntas que se usan para formular en el problema todos los enfoques que sean posibles y, así, abrir la perspectiva que tenemos del problema. También son útiles para la percepción de nuevos usos, aplicaciones o posibilidades de un producto o un servicio.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -460,7 +460,7 @@
     .fullview
       .row.justify-content-center.align-items-center.mb-5.p-5
         .col-sm-12.col-lg-5
-          p.fw-bold Ejemplo: la motivación de los trabajadores. ¿Cómo incrementarla?
+          p Ejemplo: la motivación de los trabajadores. ¿Cómo incrementarla?
           p.mb-5 Planteamiento del problema: exploración.
           p.title-card-02.mb-4 Preguntas para plantear:
           ul.lista-ul.lista-ul--separador
@@ -486,7 +486,7 @@
           img(src='@/assets/curso/temas/tema3/img30.svg')
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-10
-        p.fw-bold.text-center Tras el planteamiento de estas preguntas y sus correspondientes respuestas, la visión del problema es más abierta. Tenemos más perspectivas para abordarlo y pasar a la etapa de generación de ideas.
+        p.text-center Tras el planteamiento de estas preguntas y sus correspondientes respuestas, la visión del problema es más abierta. Tenemos más perspectivas para abordarlo y pasar a la etapa de generación de ideas.
     .d-flex.align-items-center.mb-4
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold Listas  cruzadas
@@ -498,21 +498,21 @@
           .row.justify-content-center.mb-3.d-none.d-lg-block
             .col-4.bgimg5.text-center
               img.m-auto.w-75(src='@/assets/curso/temas/tema3/img33.svg')
-          p En la #[b primera columna ] se escriben los números del 0 al 9, frente a cada uno vamos a escribir un listado de elementos o cosas relacionadas con el problema en cuestión.
+          p En la primera columna se escriben los números del 0 al 9, frente a cada uno vamos a escribir un listado de elementos o cosas relacionadas con el problema en cuestión.
       .col-sm-12.col-md-4.col-lg-4.mb-4
         .tarjeta--boton.color-acento-contenido.p-4.text-center.h-card-04
           .row.justify-content-center.mb-3.d-none.d-lg-block
             .col-4.bgimg5.text-center
               img.m-auto.w-75(src='@/assets/curso/temas/tema3/img33.svg')
-          p En la #[b segunda columna ]  debemos escribir un nuevo listado del 0 al 9 y frente a cada número acciones o verbos al azar.
+          p En la segunda columna debemos escribir un nuevo listado del 0 al 9 y frente a cada número acciones o verbos al azar.
       .col-sm-12.col-md-4.col-lg-4.mb-4
         .tarjeta--boton.color-acento-contenido.p-4.text-center.h-card-04
           .row.justify-content-center.mb-3.d-none.d-lg-block
             .col-4.bgimg5.text-center
               img.m-auto.w-75(src='@/assets/curso/temas/tema3/img33.svg')
-          p En la #[b tercera columna ] se deben escribir 10 números del 01 al 99 con el fin de cruzar los elementos de las columnas 1 y 2.
+          p En la tercera columna se deben escribir 10 números del 01 al 99 con el fin de cruzar los elementos de las columnas 1 y 2.
 
-    p.mb-5 #[b Ejemplo:] una revista virtual requiere ideas para el desarrollo de contenidos innovadores y realiza la siguiente lista cruzada:
+    p.mb-5 Ejemplo: una revista virtual requiere ideas para el desarrollo de contenidos innovadores y realiza la siguiente lista cruzada:
     .titulo-sexto.color-secundario.mt-3
         h5 Tabla 3.
         span
@@ -576,7 +576,7 @@
         img.w-card-icon(src="@/assets/curso/temas/tema3/img51.svg")
         .bg9.py-2.w-card-text.fw-bold Mapas  mentales
     p Es una técnica creada por Tony Buzan, investigador en el campo de la inteligencia y presidente de la #[i Brain Foundation].
-    p.mb-4 #[b La importancia de los mapas mentales radica en que son una expresión de una forma de pensamiento: ] el pensamiento irradiante. El mapa mental es una técnica gráfica que permite acceder al potencial del cerebro. #[b Su principal aplicación en el proceso creativo es la exploración del problema y la generación de ideas.  ]En la exploración del problema es recomendable su uso para tener distintas perspectivas de este.
+    p.mb-4 La importancia de los mapas mentales radica en que son una expresión de una forma de pensamiento: el pensamiento irradiante. El mapa mental es una técnica gráfica que permite acceder al potencial del cerebro. Su principal aplicación en el proceso creativo es la exploración del problema y la generación de ideas. En la exploración del problema es recomendable su uso para tener distintas perspectivas de este.
     p Para su elaboración se realizan los siguientes pasos:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-secundario-cus.p-4
