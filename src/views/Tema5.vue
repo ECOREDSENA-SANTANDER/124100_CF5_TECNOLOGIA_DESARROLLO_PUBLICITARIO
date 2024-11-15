@@ -41,7 +41,7 @@
             img(src='@/assets/curso/temas/tema5/img3.svg', alt='')
             
           .col-sm-12.col-lg-6
-            p Básicamente hay tres grandes grupos generales de objetivos de #[i marketing ]. Estos son:
+            p Básicamente hay tres grandes grupos generales de objetivos de #[i marketing]. Estos son:
             ol.lista-ol--cuadro
               li.d-flex
                 .lista-ol--cuadro__vineta.cs
@@ -125,7 +125,7 @@
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Este es un concepto utilizado de forma casi exclusiva por creativos y algunas agencias de publicidad; es un paso más allá de la segmentación de mercados y permite conocer de forma individual a los consumidores de un producto o servicio, obteniendo de ellos información detallada de su comportamiento, gustos, intereses y deseos.
         p.mb-3 El desarrollo del #[i target] comunicacional se realiza con técnicas de investigación cualitativa y lo más adecuado es que el proceso sea llevado a cabo por personas con estudios en psicología del consumidor, antropología o sociología. El método más preciso y utilizado para el desarrollo de un #[i target] comunicacional es la observación.
-        p.mb-3 El fin del desarrollo de este punto, es obtener toda la información posible del mercado objetivo a través de la individualización de los consumidores; en ese orden de ideas, es posible que sea necesario realizar varios #[i targets] comunicacionales y por lo tanto, varias versiones del mensaje, de acuerdo con las características de cada uno de ellos.
+        p.mb-3 El fin del desarrollo de este punto, es obtener toda la información posible del mercado objetivo a través de la individualización de los consumidores; en ese orden de ideas, es posible que sea necesario realizar varios #[i targets] comunicacionales, y por lo tanto, varias versiones del mensaje, de acuerdo con las características de cada uno de ellos.
         p.mb-0 A continuación, se indica el proceso para realizar el #[i target] comunicacional:
       
       .col-sm-12.col-lg-4.d-none.d-lg-block

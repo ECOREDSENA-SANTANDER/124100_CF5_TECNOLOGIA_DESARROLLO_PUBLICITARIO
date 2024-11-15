@@ -248,7 +248,7 @@
         .bg9.py-2.w-card-text.fw-bold Analogías
     .row.justify-content-center.mb-5.mb-cus
       .col-sm-12.col-lg-8
-        p Consiste en resolver un problema mediante un rodeo: en vez de atacar de frente se compara ese problema o situación con otra cosa. Gordon, creador de la Sinéctica (método creativo basado en el uso de las analogías) insistía en que...
+        p Consiste en resolver un problema mediante un rodeo: en vez de atacar de frente se compara ese problema o situación con otra cosa. Gordon, creador de la Sinéctica (método creativo basado en el uso de las analogías), insistía en que...
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0.px-4 "Se trata de poner en paralelo mediante este mecanismo unos hechos, unos conocimientos o unas disciplinas distintas".
         p Por ejemplo, un problema empresarial lo intentamos resolver buscando algún problema análogo en otras disciplinas: en la biología, en la historia, en un deporte colectivo, etc.
@@ -310,7 +310,7 @@
           .col-3
             img(src='@/assets/curso/temas/tema3/img22.svg')
           .col-sm-12.col-lg-9
-            p.mb-0 Conectamos, cruzamos al azar diversos aspectos de varios bloques. Provoca conexiones muy estimulantes que generan ideas muy inusuales.
+            p.mb-0 Conectamos y cruzamos al azar diversos aspectos de varios bloques. Provoca conexiones muy estimulantes que generan ideas muy inusuales.
     .row.justify-content-center.mb-4
       .col-sm-12.col-lg-8
         .cajon.color-acento-contenido.py-4.mb-4.px-5
