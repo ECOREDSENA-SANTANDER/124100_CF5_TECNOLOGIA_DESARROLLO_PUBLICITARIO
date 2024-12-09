@@ -512,7 +512,7 @@
               img.m-auto.w-75(src='@/assets/curso/temas/tema3/img33.svg')
           p En la tercera columna se deben escribir 10 números del 01 al 99 con el fin de cruzar los elementos de las columnas 1 y 2.
 
-    p.mb-5 Ejemplo: una revista virtual requiere ideas para el desarrollo de contenidos innovadores y realiza la siguiente lista cruzada:
+    p.mb-5 #[b Ejemplo:] una revista virtual requiere ideas para el desarrollo de contenidos innovadores y realiza la siguiente lista cruzada:
     .titulo-sexto.color-secundario.mt-3
         h5 Tabla 3.
         span
